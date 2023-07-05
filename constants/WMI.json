@@ -1,0 +1,7072 @@
+{
+  "137": {
+    "vmi": "137",
+    "country": "United States",
+    "manufacturer": "AM General Hummer & Hummer H1"
+  },
+  "478": {
+    "vmi": "478",
+    "country": "United States",
+    "manufacturer": "Honda ATV"
+  },
+  "480": {
+    "vmi": "480",
+    "country": "United States",
+    "manufacturer": "Sterling Trucks truck"
+  },
+  "516": {
+    "vmi": "516",
+    "country": "United States",
+    "manufacturer": "Autocar truck"
+  },
+  "523": {
+    "vmi": "523",
+    "country": "United States",
+    "manufacturer": "VPG"
+  },
+  "538": {
+    "vmi": "538",
+    "country": "United States",
+    "manufacturer": "Zero Motorcycles"
+  },
+  "546": {
+    "vmi": "546",
+    "country": "United States",
+    "manufacturer": "EBR"
+  },
+  "829": {
+    "vmi": "829",
+    "country": "Bolivia",
+    "manufacturer": "Quantum Motors"
+  },
+  "932": {
+    "vmi": "932",
+    "country": "Brazil",
+    "manufacturer": "Harley-Davidson"
+  },
+  "935": {
+    "vmi": "935",
+    "country": "Brazil",
+    "manufacturer": "Citroën"
+  },
+  "936": {
+    "vmi": "936",
+    "country": "Brazil",
+    "manufacturer": "Peugeot"
+  },
+  "937": {
+    "vmi": "937",
+    "country": "Brazil",
+    "manufacturer": "Dodge"
+  },
+  "953": {
+    "vmi": "953",
+    "country": "Brazil",
+    "manufacturer": "VW Truck & Bus / MAN Truck & Bus"
+  },
+  "988": {
+    "vmi": "988",
+    "country": "Brazil",
+    "manufacturer": "Jeep and Fiat (made at the Goiana plant)"
+  },
+  "NNA": {
+    "vmi": "NNA",
+    "country": "Anadolu Isuzu",
+    "manufacturer": ""
+  },
+  "8AC": {
+    "vmi": "8AC",
+    "country": "Argentina",
+    "manufacturer": "Mercedes Benz vans (for South America)"
+  },
+  "8AD": {
+    "vmi": "8AD",
+    "country": "Argentina",
+    "manufacturer": "Peugeot"
+  },
+  "8AE": {
+    "vmi": "8AE",
+    "country": "Argentina",
+    "manufacturer": "Peugeot van"
+  },
+  "8AF": {
+    "vmi": "8AF",
+    "country": "Argentina",
+    "manufacturer": "Ford Motor Argentina"
+  },
+  "8AG": {
+    "vmi": "8AG",
+    "country": "Argentina",
+    "manufacturer": "General Motors de Argentina Chevrolet"
+  },
+  "8AJ": {
+    "vmi": "8AJ",
+    "country": "Argentina",
+    "manufacturer": "Toyota Argentina"
+  },
+  "8AN": {
+    "vmi": "8AN",
+    "country": "Argentina",
+    "manufacturer": "Nissan"
+  },
+  "8AP": {
+    "vmi": "8AP",
+    "country": "Argentina",
+    "manufacturer": "Fiat"
+  },
+  "8AT": {
+    "vmi": "8AT",
+    "country": "Argentina",
+    "manufacturer": "Iveco"
+  },
+  "8AW": {
+    "vmi": "8AW",
+    "country": "Argentina",
+    "manufacturer": "Volkswagen Argentina"
+  },
+  "8A1": {
+    "vmi": "8A1",
+    "country": "Argentina",
+    "manufacturer": "Renault Argentina"
+  },
+  "8A3": {
+    "vmi": "8A3",
+    "country": "Argentina",
+    "manufacturer": "Scania Argentina"
+  },
+  "8BB": {
+    "vmi": "8BB",
+    "country": "Argentina",
+    "manufacturer": "Agrale Argentina S.A"
+  },
+  "8BC": {
+    "vmi": "8BC",
+    "country": "Argentina",
+    "manufacturer": "Citroën"
+  },
+  "8BN": {
+    "vmi": "8BN",
+    "country": "Argentina",
+    "manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+  },
+  "8BR": {
+    "vmi": "8BR",
+    "country": "Argentina",
+    "manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+  },
+  "8BT": {
+    "vmi": "8BT",
+    "country": "Argentina",
+    "manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+  },
+  "8BU": {
+    "vmi": "8BU",
+    "country": "Argentina",
+    "manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+  },
+  "8CH": {
+    "vmi": "8CH",
+    "country": "Argentina",
+    "manufacturer": "Honda motorcycle"
+  },
+  "8C3": {
+    "vmi": "8C3",
+    "country": "Argentina",
+    "manufacturer": "Honda car/SUV"
+  },
+  "6F1": {
+    "vmi": "6F1",
+    "country": "Australia",
+    "manufacturer": "Ford"
+  },
+  "6F2": {
+    "vmi": "6F2",
+    "country": "Australia",
+    "manufacturer": "Iveco Trucks Australia Ltd."
+  },
+  "6F4": {
+    "vmi": "6F4",
+    "country": "Australia",
+    "manufacturer": "Nissan Motor Australia"
+  },
+  "6F5": {
+    "vmi": "6F5",
+    "country": "Australia",
+    "manufacturer": "Kenworth Australia"
+  },
+  "6FM": {
+    "vmi": "6FM",
+    "country": "Australia",
+    "manufacturer": "Mack Trucks Australia"
+  },
+  "6FP": {
+    "vmi": "6FP",
+    "country": "Australia",
+    "manufacturer": "Ford"
+  },
+  "6G": {
+    "vmi": "6G",
+    "country": "Australia",
+    "manufacturer": "General Motors"
+  },
+  "6G1": {
+    "vmi": "6G1",
+    "country": "Australia",
+    "manufacturer": "Holden & Chevrolet"
+  },
+  "6G2": {
+    "vmi": "6G2",
+    "country": "Australia",
+    "manufacturer": "Pontiac"
+  },
+  "6G3": {
+    "vmi": "6G3",
+    "country": "Australia",
+    "manufacturer": "Chevrolet"
+  },
+  "6H": {
+    "vmi": "6H",
+    "country": "Australia",
+    "manufacturer": "Holden"
+  },
+  "6MM": {
+    "vmi": "6MM",
+    "country": "Australia",
+    "manufacturer": "Mitsubishi"
+  },
+  "6MP": {
+    "vmi": "6MP",
+    "country": "Australia",
+    "manufacturer": "Mercury Capri"
+  },
+  "6T1": {
+    "vmi": "6T1",
+    "country": "Australia",
+    "manufacturer": "Toyota"
+  },
+  "6T9": {
+    "vmi": "6T9",
+    "country": "Australia",
+    "manufacturer": "Trailer"
+  },
+  "6U9": {
+    "vmi": "6U9",
+    "country": "Australia",
+    "manufacturer": "Low Volume (Grey) Import Vehicles which don't have 17 Digit VIN. Uses NON ISO VIN with \"Filler 0's between WMI & Non Iso VIN - I.e Japanese VIN PV35-400637 would become 6U90000PV35400637 see note below"
+  },
+  "VA0": {
+    "vmi": "VA0",
+    "country": "Austria",
+    "manufacturer": "ÖAF"
+  },
+  "VAG": {
+    "vmi": "VAG",
+    "country": "Austria",
+    "manufacturer": "Steyr-Daimler-Puch Puch G & Steyr-Puch Pinzgauer"
+  },
+  "VAN": {
+    "vmi": "VAN",
+    "country": "Austria",
+    "manufacturer": "Steyr-Daimler-Puch Steyr Trucks"
+  },
+  "VBK": {
+    "vmi": "VBK",
+    "country": "Austria",
+    "manufacturer": "Husqvarna Motorcycles & Gas Gas under KTM ownership"
+  },
+  "VCF": {
+    "vmi": "VCF",
+    "country": "Austria",
+    "manufacturer": "Fisker Inc. (Fisker Ocean) made by Magna Steyr"
+  },
+  "YAR": {
+    "vmi": "YAR",
+    "country": "Belgium",
+    "manufacturer": "Toyota Motor Europe (based in Belgium) used for Toyota ProAce & Toyota ProAce City"
+  },
+  "YB3": {
+    "vmi": "YB3",
+    "country": "Belgium",
+    "manufacturer": "Volvo Trucks"
+  },
+  "YB6": {
+    "vmi": "YB6",
+    "country": "Belgium",
+    "manufacturer": "Jonckheere"
+  },
+  "YC1": {
+    "vmi": "YC1",
+    "country": "Belgium",
+    "manufacturer": "Honda"
+  },
+  "YE2": {
+    "vmi": "YE2",
+    "country": "Belgium",
+    "manufacturer": "Van Hool"
+  },
+  "9AM": {
+    "vmi": "9AM",
+    "country": "Brazil",
+    "manufacturer": "Massari (?)"
+  },
+  "9BD": {
+    "vmi": "9BD",
+    "country": "Brazil",
+    "manufacturer": "Fiat Automóveis"
+  },
+  "9BF": {
+    "vmi": "9BF",
+    "country": "Brazil",
+    "manufacturer": "Ford Brasil"
+  },
+  "9BG": {
+    "vmi": "9BG",
+    "country": "Brazil",
+    "manufacturer": "General Motors do Brasil Chevrolet"
+  },
+  "9BH": {
+    "vmi": "9BH",
+    "country": "Brazil",
+    "manufacturer": "Hyundai Motor Brasil"
+  },
+  "9BM": {
+    "vmi": "9BM",
+    "country": "Brazil",
+    "manufacturer": "Mercedes-Benz car & SUV & commercial truck"
+  },
+  "9BN": {
+    "vmi": "9BN",
+    "country": "Brazil",
+    "manufacturer": "Mafersa"
+  },
+  "9BR": {
+    "vmi": "9BR",
+    "country": "Brazil",
+    "manufacturer": "Toyota"
+  },
+  "9BS": {
+    "vmi": "9BS",
+    "country": "Brazil",
+    "manufacturer": "Scania Brazil"
+  },
+  "9BV": {
+    "vmi": "9BV",
+    "country": "Brazil",
+    "manufacturer": "Volvo Trucks"
+  },
+  "9BW": {
+    "vmi": "9BW",
+    "country": "Brazil",
+    "manufacturer": "Volkswagen do Brasil"
+  },
+  "9BY": {
+    "vmi": "9BY",
+    "country": "Brazil",
+    "manufacturer": "Agrale S.A."
+  },
+  "9C2": {
+    "vmi": "9C2",
+    "country": "Brazil",
+    "manufacturer": "Honda Motorcycles"
+  },
+  "9C6": {
+    "vmi": "9C6",
+    "country": "Brazil",
+    "manufacturer": "Yamaha Motor"
+  },
+  "9CD": {
+    "vmi": "9CD",
+    "country": "Brazil",
+    "manufacturer": "Suzuki (motorcycles) assembled by J. Toledo Motos do Brasil"
+  },
+  "9DW": {
+    "vmi": "9DW",
+    "country": "Brazil",
+    "manufacturer": "Kenworth & Peterbilt trucks made by Volkswagen do Brasil"
+  },
+  "93C": {
+    "vmi": "93C",
+    "country": "Brazil",
+    "manufacturer": "General Motors do Brasil Chevrolet SUV (Mexico)"
+  },
+  "93H": {
+    "vmi": "93H",
+    "country": "Brazil",
+    "manufacturer": "Honda car/SUV"
+  },
+  "93K": {
+    "vmi": "93K",
+    "country": "Brazil",
+    "manufacturer": "Volvo Trucks"
+  },
+  "93P": {
+    "vmi": "93P",
+    "country": "Brazil",
+    "manufacturer": "Volare"
+  },
+  "93S": {
+    "vmi": "93S",
+    "country": "Brazil",
+    "manufacturer": "Navistar International"
+  },
+  "93U": {
+    "vmi": "93U",
+    "country": "Brazil",
+    "manufacturer": "Audi 1999-2006"
+  },
+  "93V": {
+    "vmi": "93V",
+    "country": "Brazil",
+    "manufacturer": "Navistar International"
+  },
+  "93W": {
+    "vmi": "93W",
+    "country": "Brazil",
+    "manufacturer": "Fiat Ducato made by Iveco 2000-2016"
+  },
+  "93X": {
+    "vmi": "93X",
+    "country": "Brazil",
+    "manufacturer": "Souza Ramos - Mitsubishi Motors / Suzuki Jimny"
+  },
+  "93Y": {
+    "vmi": "93Y",
+    "country": "Brazil",
+    "manufacturer": "Renault do Brasil"
+  },
+  "93Z": {
+    "vmi": "93Z",
+    "country": "Brazil",
+    "manufacturer": "Iveco"
+  },
+  "94D": {
+    "vmi": "94D",
+    "country": "Brazil",
+    "manufacturer": "Nissan"
+  },
+  "94G": {
+    "vmi": "94G",
+    "country": "Brazil",
+    "manufacturer": "Indabra"
+  },
+  "94M": {
+    "vmi": "94M",
+    "country": "Brazil",
+    "manufacturer": "HVR-Busscar"
+  },
+  "94N": {
+    "vmi": "94N",
+    "country": "Brazil",
+    "manufacturer": "RWM Brazil"
+  },
+  "94T": {
+    "vmi": "94T",
+    "country": "Brazil",
+    "manufacturer": "Troller Veículos Especiais"
+  },
+  "95P": {
+    "vmi": "95P",
+    "country": "Brazil",
+    "manufacturer": "CAOA / Hyundai & CAOA Chery"
+  },
+  "95V": {
+    "vmi": "95V",
+    "country": "Brazil",
+    "manufacturer": "BMW motorcycles assembled by Dafra Motos 2009-2016"
+  },
+  "95Z": {
+    "vmi": "95Z",
+    "country": "Brazil",
+    "manufacturer": "Buell Motorcycle Company assembled by Harley-Davidson Brazil"
+  },
+  "96P": {
+    "vmi": "96P",
+    "country": "Brazil",
+    "manufacturer": "Kawasaki"
+  },
+  "97N": {
+    "vmi": "97N",
+    "country": "Brazil",
+    "manufacturer": "Triumph Motorcycles Ltd"
+  },
+  "98M": {
+    "vmi": "98M",
+    "country": "Brazil",
+    "manufacturer": "BMW car/SUV"
+  },
+  "98R": {
+    "vmi": "98R",
+    "country": "Brazil",
+    "manufacturer": "Chery"
+  },
+  "99A": {
+    "vmi": "99A",
+    "country": "Brazil",
+    "manufacturer": "Audi 2016-"
+  },
+  "99J": {
+    "vmi": "99J",
+    "country": "Brazil",
+    "manufacturer": "Jaguar Land Rover"
+  },
+  "99K": {
+    "vmi": "99K",
+    "country": "Brazil",
+    "manufacturer": "Haojue & Kymco assembled by JTZ Indústria e Comércio de Motos"
+  },
+  "99L": {
+    "vmi": "99L",
+    "country": "Brazil",
+    "manufacturer": "BYD"
+  },
+  "99Z": {
+    "vmi": "99Z",
+    "country": "Brazil",
+    "manufacturer": "BMW Motorrad Motorcycle assembled by BMW 2017-"
+  },
+  "XBB": {
+    "vmi": "XBB",
+    "country": "Bulgaria",
+    "manufacturer": "Great Wall Motors/Litex Motors AD"
+  },
+  "2A3": {
+    "vmi": "2A3",
+    "country": "Canada",
+    "manufacturer": "Imperial"
+  },
+  "2A4 2A8": {
+    "vmi": "2A4 2A8",
+    "country": "Canada",
+    "manufacturer": "Chrysler brand MPV/SUV 2006-2011 only"
+  },
+  "2AY 2AZ": {
+    "vmi": "2AY 2AZ",
+    "country": "Canada",
+    "manufacturer": "Hino"
+  },
+  "2B1": {
+    "vmi": "2B1",
+    "country": "Canada",
+    "manufacturer": "Orion Bus Industries"
+  },
+  "2B3": {
+    "vmi": "2B3",
+    "country": "Canada",
+    "manufacturer": "Dodge car 1981-2011"
+  },
+  "2B4": {
+    "vmi": "2B4",
+    "country": "Canada",
+    "manufacturer": "Dodge MPV 1981-2002"
+  },
+  "2B5": {
+    "vmi": "2B5",
+    "country": "Canada",
+    "manufacturer": "Dodge \"bus\" (van with more than 3 rows of seats) 1981-2002"
+  },
+  "2B6": {
+    "vmi": "2B6",
+    "country": "Canada",
+    "manufacturer": "Dodge incomplete vehicle 1981-2002"
+  },
+  "2B7": {
+    "vmi": "2B7",
+    "country": "Canada",
+    "manufacturer": "Dodge truck 1981-2002"
+  },
+  "2BC": {
+    "vmi": "2BC",
+    "country": "Canada",
+    "manufacturer": "Jeep Wrangler (YJ) 1987-1988 (using AMC-style VIN structure)"
+  },
+  "2BP": {
+    "vmi": "2BP",
+    "country": "Canada",
+    "manufacturer": "Ski-Doo"
+  },
+  "2BV": {
+    "vmi": "2BV",
+    "country": "Canada",
+    "manufacturer": "Can-Am & Bombardier ATV"
+  },
+  "2BW": {
+    "vmi": "2BW",
+    "country": "Canada",
+    "manufacturer": "Can-Am Commander E LSV"
+  },
+  "2BX": {
+    "vmi": "2BX",
+    "country": "Canada",
+    "manufacturer": "Can-Am Spyder"
+  },
+  "2BZ": {
+    "vmi": "2BZ",
+    "country": "Canada",
+    "manufacturer": "Can-Am Freedom Trailer for Can-Am Spyder"
+  },
+  "2C1": {
+    "vmi": "2C1",
+    "country": "Canada",
+    "manufacturer": "Geo/Chevrolet car made by CAMI Automotive"
+  },
+  "2C3": {
+    "vmi": "2C3",
+    "country": "Canada",
+    "manufacturer": "Chrysler Group (all brands) car (including Lancia) 2012-"
+  },
+  "2C4": {
+    "vmi": "2C4",
+    "country": "Canada",
+    "manufacturer": "Chrysler Group (all brands) MPV (including Lancia & VW) 2012-"
+  },
+  "2C7": {
+    "vmi": "2C7",
+    "country": "Canada",
+    "manufacturer": "Pontiac car made by CAMI Automotive only sold by GM Canada"
+  },
+  "2C8": {
+    "vmi": "2C8",
+    "country": "Canada",
+    "manufacturer": "Chrysler brand MPV/SUV 2001-2005"
+  },
+  "2C9 145": {
+    "vmi": "2C9 145",
+    "country": "Canada",
+    "manufacturer": "Campagna Motors"
+  },
+  "2CC": {
+    "vmi": "2CC",
+    "country": "Canada",
+    "manufacturer": "American Motors Corporation MPV"
+  },
+  "2CG": {
+    "vmi": "2CG",
+    "country": "Canada",
+    "manufacturer": "Asüna/Pontiac SUV made by CAMI Automotive only sold by GM Canada"
+  },
+  "2CK": {
+    "vmi": "2CK",
+    "country": "Canada",
+    "manufacturer": "Pontiac Torrent SUV made by CAMI Automotive 2006-2009 only"
+  },
+  "2CM": {
+    "vmi": "2CM",
+    "country": "Canada",
+    "manufacturer": "American Motors Corporation car"
+  },
+  "2CN": {
+    "vmi": "2CN",
+    "country": "Canada",
+    "manufacturer": "Geo/Chevrolet SUV made by CAMI Automotive 1990-2011 only"
+  },
+  "2CT": {
+    "vmi": "2CT",
+    "country": "Canada",
+    "manufacturer": "GMC Terrain SUV made by CAMI Automotive 2010-2011 only"
+  },
+  "2D4": {
+    "vmi": "2D4",
+    "country": "Canada",
+    "manufacturer": "Dodge MPV 2003-2011 only"
+  },
+  "2D6": {
+    "vmi": "2D6",
+    "country": "Canada",
+    "manufacturer": "Dodge incomplete vehicle 2003"
+  },
+  "2D7": {
+    "vmi": "2D7",
+    "country": "Canada",
+    "manufacturer": "Dodge truck 2003"
+  },
+  "2D8": {
+    "vmi": "2D8",
+    "country": "Canada",
+    "manufacturer": "Dodge MPV 2003-2011 only"
+  },
+  "2DG": {
+    "vmi": "2DG",
+    "country": "Canada",
+    "manufacturer": "Ontario Drive & Gear"
+  },
+  "2E3": {
+    "vmi": "2E3",
+    "country": "Canada",
+    "manufacturer": "Eagle car 1989-1997 (using Chrysler-style VIN structure)"
+  },
+  "2E4": {
+    "vmi": "2E4",
+    "country": "Canada",
+    "manufacturer": "Lancia MPV"
+  },
+  "2F": {
+    "vmi": "2F",
+    "country": "Canada",
+    "manufacturer": "Ford"
+  },
+  "2FA": {
+    "vmi": "2FA",
+    "country": "Canada",
+    "manufacturer": "Ford car"
+  },
+  "2FM": {
+    "vmi": "2FM",
+    "country": "Canada",
+    "manufacturer": "Ford MPV/SUV"
+  },
+  "2FT": {
+    "vmi": "2FT",
+    "country": "Canada",
+    "manufacturer": "Ford truck"
+  },
+  "2FU 2FV": {
+    "vmi": "2FU 2FV",
+    "country": "Canada",
+    "manufacturer": "Freightliner Trucks"
+  },
+  "2FW": {
+    "vmi": "2FW",
+    "country": "Canada",
+    "manufacturer": "Sterling Trucks truck"
+  },
+  "2FY": {
+    "vmi": "2FY",
+    "country": "Canada",
+    "manufacturer": "New Flyer"
+  },
+  "2FZ": {
+    "vmi": "2FZ",
+    "country": "Canada",
+    "manufacturer": "Sterling Trucks incomplete vehicle"
+  },
+  "2Gx": {
+    "vmi": "2Gx",
+    "country": "Canada",
+    "manufacturer": "General Motors"
+  },
+  "2G0": {
+    "vmi": "2G0",
+    "country": "Canada",
+    "manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1981-1986"
+  },
+  "2G1": {
+    "vmi": "2G1",
+    "country": "Canada",
+    "manufacturer": "Chevrolet"
+  },
+  "2G2": {
+    "vmi": "2G2",
+    "country": "Canada",
+    "manufacturer": "Pontiac"
+  },
+  "2G3": {
+    "vmi": "2G3",
+    "country": "Canada",
+    "manufacturer": "Oldsmobile car"
+  },
+  "2G4": {
+    "vmi": "2G4",
+    "country": "Canada",
+    "manufacturer": "Buick"
+  },
+  "2G5": {
+    "vmi": "2G5",
+    "country": "Canada",
+    "manufacturer": "GMC MPV 1981-1986"
+  },
+  "2G6": {
+    "vmi": "2G6",
+    "country": "Canada",
+    "manufacturer": "Cadillac"
+  },
+  "2G7": {
+    "vmi": "2G7",
+    "country": "Canada",
+    "manufacturer": "Pontiac car only sold by GM Canada"
+  },
+  "2G8": {
+    "vmi": "2G8",
+    "country": "Canada",
+    "manufacturer": "Chevrolet MPV 1981-1986"
+  },
+  "2G9": {
+    "vmi": "2G9",
+    "country": "Canada",
+    "manufacturer": "Gnome Homes"
+  },
+  "2GA": {
+    "vmi": "2GA",
+    "country": "Canada",
+    "manufacturer": "Chevrolet \"bus\" (van with more than 3 rows of seats)"
+  },
+  "2GB": {
+    "vmi": "2GB",
+    "country": "Canada",
+    "manufacturer": "Chevrolet incomplete vehicles"
+  },
+  "2GC": {
+    "vmi": "2GC",
+    "country": "Canada",
+    "manufacturer": "Chevrolet truck"
+  },
+  "2GD": {
+    "vmi": "2GD",
+    "country": "Canada",
+    "manufacturer": "GMC incomplete vehicles"
+  },
+  "2GE": {
+    "vmi": "2GE",
+    "country": "Canada",
+    "manufacturer": "Cadillac incomplete vehicle"
+  },
+  "2GH": {
+    "vmi": "2GH",
+    "country": "Canada",
+    "manufacturer": "GMC GM New Look bus & GM Classic series bus"
+  },
+  "2GJ": {
+    "vmi": "2GJ",
+    "country": "Canada",
+    "manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1987-"
+  },
+  "2GK": {
+    "vmi": "2GK",
+    "country": "Canada",
+    "manufacturer": "GMC MPV/SUV 1987-"
+  },
+  "2GN": {
+    "vmi": "2GN",
+    "country": "Canada",
+    "manufacturer": "Chevrolet MPV/SUV 1987-"
+  },
+  "2GT": {
+    "vmi": "2GT",
+    "country": "Canada",
+    "manufacturer": "GMC truck"
+  },
+  "2HG": {
+    "vmi": "2HG",
+    "country": "Canada",
+    "manufacturer": "Honda car made by Honda of Canada Manufacturing"
+  },
+  "2HH": {
+    "vmi": "2HH",
+    "country": "Canada",
+    "manufacturer": "Acura car made by Honda of Canada Manufacturing"
+  },
+  "2HJ": {
+    "vmi": "2HJ",
+    "country": "Canada",
+    "manufacturer": "Honda truck made by Honda of Canada Manufacturing"
+  },
+  "2HK": {
+    "vmi": "2HK",
+    "country": "Canada",
+    "manufacturer": "Honda MPV/SUV made by Honda of Canada Manufacturing"
+  },
+  "2HM": {
+    "vmi": "2HM",
+    "country": "Canada",
+    "manufacturer": "Hyundai"
+  },
+  "2HN": {
+    "vmi": "2HN",
+    "country": "Canada",
+    "manufacturer": "Acura SUV made by Honda of Canada Manufacturing"
+  },
+  "2HS": {
+    "vmi": "2HS",
+    "country": "Canada",
+    "manufacturer": "International Trucks truck"
+  },
+  "2HT": {
+    "vmi": "2HT",
+    "country": "Canada",
+    "manufacturer": "International Trucks incomplete vehicle"
+  },
+  "2J4": {
+    "vmi": "2J4",
+    "country": "Canada",
+    "manufacturer": "Jeep Wrangler (YJ) 1989-1992 (using Chrysler-style VIN structure)"
+  },
+  "2L1": {
+    "vmi": "2L1",
+    "country": "Canada",
+    "manufacturer": "Lincoln incomplete vehicle - limo"
+  },
+  "2L9": {
+    "vmi": "2L9",
+    "country": "Canada",
+    "manufacturer": "Les Contenants Durabac"
+  },
+  "2LJ": {
+    "vmi": "2LJ",
+    "country": "Canada",
+    "manufacturer": "Lincoln incomplete vehicle - hearse"
+  },
+  "2LM": {
+    "vmi": "2LM",
+    "country": "Canada",
+    "manufacturer": "Lincoln SUV"
+  },
+  "2LN": {
+    "vmi": "2LN",
+    "country": "Canada",
+    "manufacturer": "Lincoln car"
+  },
+  "2M1 2M2": {
+    "vmi": "2M1 2M2",
+    "country": "Canada",
+    "manufacturer": "Mack Trucks"
+  },
+  "2ME": {
+    "vmi": "2ME",
+    "country": "Canada",
+    "manufacturer": "Mercury car"
+  },
+  "2MG": {
+    "vmi": "2MG",
+    "country": "Canada",
+    "manufacturer": "Motor Coach Industries (Produced from Sept. 1, 2008 on)"
+  },
+  "2MR": {
+    "vmi": "2MR",
+    "country": "Canada",
+    "manufacturer": "Mercury MPV"
+  },
+  "2NK": {
+    "vmi": "2NK",
+    "country": "Canada",
+    "manufacturer": "Kenworth incomplete vehicle"
+  },
+  "2NP": {
+    "vmi": "2NP",
+    "country": "Canada",
+    "manufacturer": "Peterbilt incomplete vehicle"
+  },
+  "2NV": {
+    "vmi": "2NV",
+    "country": "Canada",
+    "manufacturer": "Nova Bus"
+  },
+  "2P3": {
+    "vmi": "2P3",
+    "country": "Canada",
+    "manufacturer": "Plymouth car"
+  },
+  "2P4": {
+    "vmi": "2P4",
+    "country": "Canada",
+    "manufacturer": "Plymouth MPV 1981-2000"
+  },
+  "2P5": {
+    "vmi": "2P5",
+    "country": "Canada",
+    "manufacturer": "Plymouth \"bus\" (van with more than 3 rows of seats) 1981-1983"
+  },
+  "2P9 001": {
+    "vmi": "2P9 001",
+    "country": "Canada",
+    "manufacturer": "Prevost 1981-1995"
+  },
+  "2PC": {
+    "vmi": "2PC",
+    "country": "Canada",
+    "manufacturer": "Prevost 1996-"
+  },
+  "2S2": {
+    "vmi": "2S2",
+    "country": "Canada",
+    "manufacturer": "Suzuki car made by CAMI Automotive"
+  },
+  "2S3": {
+    "vmi": "2S3",
+    "country": "Canada",
+    "manufacturer": "Suzuki SUV made by CAMI Automotive"
+  },
+  "2T1": {
+    "vmi": "2T1",
+    "country": "Canada",
+    "manufacturer": "Toyota car"
+  },
+  "2T2": {
+    "vmi": "2T2",
+    "country": "Canada",
+    "manufacturer": "Lexus SUV"
+  },
+  "2T3": {
+    "vmi": "2T3",
+    "country": "Canada",
+    "manufacturer": "Toyota SUV"
+  },
+  "2V4 2V8": {
+    "vmi": "2V4 2V8",
+    "country": "Canada",
+    "manufacturer": "Volkswagen Routan"
+  },
+  "2WK": {
+    "vmi": "2WK",
+    "country": "Canada",
+    "manufacturer": "Western Star Trucks truck"
+  },
+  "2WL 2WM": {
+    "vmi": "2WL 2WM",
+    "country": "Canada",
+    "manufacturer": "Western Star Trucks incomplete vehicle"
+  },
+  "2XK": {
+    "vmi": "2XK",
+    "country": "Canada",
+    "manufacturer": "Kenworth truck"
+  },
+  "2XM": {
+    "vmi": "2XM",
+    "country": "Canada",
+    "manufacturer": "Eagle Premier 1988 only (using AMC-style VIN structure)"
+  },
+  "2XP": {
+    "vmi": "2XP",
+    "country": "Canada",
+    "manufacturer": "Peterbilt truck"
+  },
+  "8F9": {
+    "vmi": "8F9",
+    "country": "Chile",
+    "manufacturer": "Reborn Electric Motors SPA"
+  },
+  "8G1": {
+    "vmi": "8G1",
+    "country": "Chile",
+    "manufacturer": "Automotores Franco Chilena S.A Renault"
+  },
+  "8GD": {
+    "vmi": "8GD",
+    "country": "Chile",
+    "manufacturer": "Automotores Franco Chilena S.A Peugeot"
+  },
+  "8GG": {
+    "vmi": "8GG",
+    "country": "Chile",
+    "manufacturer": "General Motors Chile Ltda."
+  },
+  "L1C": {
+    "vmi": "L1C",
+    "country": "China",
+    "manufacturer": "Hubei Huawei Special-Purpose Automobile"
+  },
+  "L2C": {
+    "vmi": "L2C",
+    "country": "China",
+    "manufacturer": "Chery Jaguar Land Rover"
+  },
+  "L5Y": {
+    "vmi": "L5Y",
+    "country": "China",
+    "manufacturer": "Znen Taizhou Zhongneng Motorcycle Co. Ltd."
+  },
+  "L6T": {
+    "vmi": "L6T",
+    "country": "China",
+    "manufacturer": "Geely"
+  },
+  "L8A": {
+    "vmi": "L8A",
+    "country": "China",
+    "manufacturer": "Jinhua Youngman Automobile Manufacturing Co., Ltd."
+  },
+  "L8Y": {
+    "vmi": "L8Y",
+    "country": "China",
+    "manufacturer": "Zhejiang Jonway Motorcycle Manufacturing Co., Ltd."
+  },
+  "L9N": {
+    "vmi": "L9N",
+    "country": "China",
+    "manufacturer": "Zhejiang Taotao Vehicles Co., Ltd."
+  },
+  "LA6": {
+    "vmi": "LA6",
+    "country": "China",
+    "manufacturer": "King Long"
+  },
+  "LA9 LC0": {
+    "vmi": "LA9 LC0",
+    "country": "China",
+    "manufacturer": "BYD Auto"
+  },
+  "LAL": {
+    "vmi": "LAL",
+    "country": "China",
+    "manufacturer": "Sundiro Honda Motorcycle Co., Ltd."
+  },
+  "LB1": {
+    "vmi": "LB1",
+    "country": "China",
+    "manufacturer": "Fujian Benz"
+  },
+  "LB2": {
+    "vmi": "LB2",
+    "country": "China",
+    "manufacturer": "Geely motorcycle"
+  },
+  "LB3": {
+    "vmi": "LB3",
+    "country": "China",
+    "manufacturer": "Geely"
+  },
+  "LBB": {
+    "vmi": "LBB",
+    "country": "China",
+    "manufacturer": "Qianjiang Motorcycle & Benelli"
+  },
+  "LBE": {
+    "vmi": "LBE",
+    "country": "China",
+    "manufacturer": "Beijing Hyundai"
+  },
+  "LBP": {
+    "vmi": "LBP",
+    "country": "China",
+    "manufacturer": "Chonqing Jianshe Yamaha Motor Co. Ltd."
+  },
+  "LBV": {
+    "vmi": "LBV",
+    "country": "China",
+    "manufacturer": "BMW Brilliance"
+  },
+  "LC0": {
+    "vmi": "LC0",
+    "country": "China",
+    "manufacturer": "BYD Auto Industry Co. Ltd."
+  },
+  "LC2": {
+    "vmi": "LC2",
+    "country": "China",
+    "manufacturer": "Changzhou Kwang Yang Motor Co., Ltd."
+  },
+  "LC6": {
+    "vmi": "LC6",
+    "country": "China",
+    "manufacturer": "Changzhou Haojue Suzuki Motorcycle Co. Ltd."
+  },
+  "LCE": {
+    "vmi": "LCE",
+    "country": "China",
+    "manufacturer": "CF Moto by Chunfeng Holding Group Hangzhou Motorcycles Manufacturing Co., Ltd."
+  },
+  "LCR": {
+    "vmi": "LCR",
+    "country": "China",
+    "manufacturer": "Gonow"
+  },
+  "LDC": {
+    "vmi": "LDC",
+    "country": "China",
+    "manufacturer": "Dongfeng Peugeot-Citroën"
+  },
+  "LDK": {
+    "vmi": "LDK",
+    "country": "China",
+    "manufacturer": "FAW Bus (Dalian) Co., Ltd."
+  },
+  "LDN": {
+    "vmi": "LDN",
+    "country": "China",
+    "manufacturer": "Soueast"
+  },
+  "LDY": {
+    "vmi": "LDY",
+    "country": "China",
+    "manufacturer": "Zhongtong Bus"
+  },
+  "LE4": {
+    "vmi": "LE4",
+    "country": "China",
+    "manufacturer": "Beijing Benz & Beijing Benz-Daimler Chrysler Automotive Co., Ltd."
+  },
+  "LEF": {
+    "vmi": "LEF",
+    "country": "China",
+    "manufacturer": "JMC"
+  },
+  "LET": {
+    "vmi": "LET",
+    "country": "China",
+    "manufacturer": "Jiangxi Isuzu"
+  },
+  "LF3": {
+    "vmi": "LF3",
+    "country": "China",
+    "manufacturer": "Lifan motorcycle"
+  },
+  "LFB": {
+    "vmi": "LFB",
+    "country": "China",
+    "manufacturer": "FAW Jilin"
+  },
+  "LFM": {
+    "vmi": "LFM",
+    "country": "China",
+    "manufacturer": "FAW Toyota"
+  },
+  "LFN": {
+    "vmi": "LFN",
+    "country": "China",
+    "manufacturer": "FAW Bus (Wuxi) Co., Ltd."
+  },
+  "LFP": {
+    "vmi": "LFP",
+    "country": "China",
+    "manufacturer": "FAW Car"
+  },
+  "LFV": {
+    "vmi": "LFV",
+    "country": "China",
+    "manufacturer": "FAW-Volkswagen"
+  },
+  "LGA": {
+    "vmi": "LGA",
+    "country": "China",
+    "manufacturer": "Dongfeng Commercial Vehicle Co., Ltd. trucks"
+  },
+  "LGB": {
+    "vmi": "LGB",
+    "country": "China",
+    "manufacturer": "Dongfeng Nissan"
+  },
+  "LGC": {
+    "vmi": "LGC",
+    "country": "China",
+    "manufacturer": "Dongfeng Commercial Vehicle Co., Ltd. buses"
+  },
+  "LGG": {
+    "vmi": "LGG",
+    "country": "China",
+    "manufacturer": "Dongfeng Liuzhou Motor"
+  },
+  "LGJ": {
+    "vmi": "LGJ",
+    "country": "China",
+    "manufacturer": "Dongfeng Fengshen (Aeolus)"
+  },
+  "LGL": {
+    "vmi": "LGL",
+    "country": "China",
+    "manufacturer": "Guilin Daewoo"
+  },
+  "LGW": {
+    "vmi": "LGW",
+    "country": "China",
+    "manufacturer": "Great Wall (Haval)"
+  },
+  "LGX": {
+    "vmi": "LGX",
+    "country": "China",
+    "manufacturer": "BYD Auto"
+  },
+  "LGZ": {
+    "vmi": "LGZ",
+    "country": "China",
+    "manufacturer": "Guangzhou Denway Bus"
+  },
+  "LH1": {
+    "vmi": "LH1",
+    "country": "China",
+    "manufacturer": "FAW Haima"
+  },
+  "LHG": {
+    "vmi": "LHG",
+    "country": "China",
+    "manufacturer": "Guangzhou Honda"
+  },
+  "LJ1": {
+    "vmi": "LJ1",
+    "country": "China",
+    "manufacturer": "JAC"
+  },
+  "LJ8": {
+    "vmi": "LJ8",
+    "country": "China",
+    "manufacturer": "Zotye Auto"
+  },
+  "LJC": {
+    "vmi": "LJC",
+    "country": "China",
+    "manufacturer": "Jincheng Corporation"
+  },
+  "LJD": {
+    "vmi": "LJD",
+    "country": "China",
+    "manufacturer": "Dongfeng Yueda Kia"
+  },
+  "LJN": {
+    "vmi": "LJN",
+    "country": "China",
+    "manufacturer": "Zhengzhou Nissan"
+  },
+  "LJS": {
+    "vmi": "LJS",
+    "country": "China",
+    "manufacturer": "Yaxing Coach"
+  },
+  "LJU": {
+    "vmi": "LJU",
+    "country": "China",
+    "manufacturer": "Shanghai Maple Automobile Co. & Kandi"
+  },
+  "LJV": {
+    "vmi": "LJV",
+    "country": "China",
+    "manufacturer": "Sinotruk Chengdu Wangpai Commercial Vehicle Co., Ltd."
+  },
+  "LJX": {
+    "vmi": "LJX",
+    "country": "China",
+    "manufacturer": "JMC Ford"
+  },
+  "LKC": {
+    "vmi": "LKC",
+    "country": "China",
+    "manufacturer": "Changhe"
+  },
+  "LKG": {
+    "vmi": "LKG",
+    "country": "China",
+    "manufacturer": "Youngman Lotus Automobile Co., Ltd."
+  },
+  "LKL": {
+    "vmi": "LKL",
+    "country": "China",
+    "manufacturer": "Higer Bus"
+  },
+  "LKT": {
+    "vmi": "LKT",
+    "country": "China",
+    "manufacturer": "Yunnan Lifan Junma Vehicle Co., Ltd. commercial vehicles"
+  },
+  "LL3": {
+    "vmi": "LL3",
+    "country": "China",
+    "manufacturer": "Xiamen Golden Dragon Bus Co. Ltd"
+  },
+  "LL6": {
+    "vmi": "LL6",
+    "country": "China",
+    "manufacturer": "GAC Mitsubishi"
+  },
+  "LL8": {
+    "vmi": "LL8",
+    "country": "China",
+    "manufacturer": "Jiangsu Linhai Yamaha Motor Co., Ltd."
+  },
+  "LLC": {
+    "vmi": "LLC",
+    "country": "China",
+    "manufacturer": "Loncin Holdings"
+  },
+  "LLN": {
+    "vmi": "LLN",
+    "country": "China",
+    "manufacturer": "Qoros"
+  },
+  "LLV": {
+    "vmi": "LLV",
+    "country": "China",
+    "manufacturer": "Lifan"
+  },
+  "LM6": {
+    "vmi": "LM6",
+    "country": "China",
+    "manufacturer": "SWM (automobiles)"
+  },
+  "LMG": {
+    "vmi": "LMG",
+    "country": "China",
+    "manufacturer": "GAC Trumpchi"
+  },
+  "LNB": {
+    "vmi": "LNB",
+    "country": "China",
+    "manufacturer": "BAIC Motor"
+  },
+  "LNP": {
+    "vmi": "LNP",
+    "country": "China",
+    "manufacturer": "NAC MG UK Limited & Nanjing Fiat Automobile"
+  },
+  "LNY": {
+    "vmi": "LNY",
+    "country": "China",
+    "manufacturer": "Yuejin"
+  },
+  "LPA": {
+    "vmi": "LPA",
+    "country": "China",
+    "manufacturer": "Changan PSA (DS Automobiles)"
+  },
+  "LPE": {
+    "vmi": "LPE",
+    "country": "China",
+    "manufacturer": "BYD Auto"
+  },
+  "LPS": {
+    "vmi": "LPS",
+    "country": "China",
+    "manufacturer": "Polestar"
+  },
+  "LRB": {
+    "vmi": "LRB",
+    "country": "China",
+    "manufacturer": "SAIC General Motors Buick"
+  },
+  "LRD": {
+    "vmi": "LRD",
+    "country": "China",
+    "manufacturer": "Beijing Foton Daimler Automotive Co., Ltd. Auman trucks"
+  },
+  "LRE": {
+    "vmi": "LRE",
+    "country": "China",
+    "manufacturer": "SAIC General Motors Cadillac"
+  },
+  "LRW": {
+    "vmi": "LRW",
+    "country": "China",
+    "manufacturer": "Tesla"
+  },
+  "LS5": {
+    "vmi": "LS5",
+    "country": "China",
+    "manufacturer": "Changan Automobile & Changan Suzuki"
+  },
+  "LS7": {
+    "vmi": "LS7",
+    "country": "China",
+    "manufacturer": "JMC Heavy Duty Vehicle"
+  },
+  "LSF": {
+    "vmi": "LSF",
+    "country": "China",
+    "manufacturer": "SAIC Maxus & Shanghai Sunwin Bus Corporation"
+  },
+  "LSG": {
+    "vmi": "LSG",
+    "country": "China",
+    "manufacturer": "SAIC General Motors Chevrolet"
+  },
+  "LSH": {
+    "vmi": "LSH",
+    "country": "China",
+    "manufacturer": "SAIC Maxus"
+  },
+  "LSJ": {
+    "vmi": "LSJ",
+    "country": "China",
+    "manufacturer": "SAIC MG & SAIC Roewe"
+  },
+  "LSK": {
+    "vmi": "LSK",
+    "country": "China",
+    "manufacturer": "SAIC Maxus"
+  },
+  "LSV": {
+    "vmi": "LSV",
+    "country": "China",
+    "manufacturer": "SAIC Volkswagen"
+  },
+  "LSY": {
+    "vmi": "LSY",
+    "country": "China",
+    "manufacturer": "Brilliance & Jinbei GM"
+  },
+  "LTA": {
+    "vmi": "LTA",
+    "country": "China",
+    "manufacturer": "ZX Auto"
+  },
+  "LTN": {
+    "vmi": "LTN",
+    "country": "China",
+    "manufacturer": "Soueast built Chrysler & Dodge vehicles"
+  },
+  "LTV": {
+    "vmi": "LTV",
+    "country": "China",
+    "manufacturer": "FAW Toyota (Tianjin)"
+  },
+  "LUC": {
+    "vmi": "LUC",
+    "country": "China",
+    "manufacturer": "Honda Automobile (China)"
+  },
+  "LUD": {
+    "vmi": "LUD",
+    "country": "China",
+    "manufacturer": "Dongfeng Nissan Diesel Motor Co Ltd"
+  },
+  "LUX": {
+    "vmi": "LUX",
+    "country": "China",
+    "manufacturer": "Dongfeng Yulon Motor Co. Ltd"
+  },
+  "LVA LVB LVC": {
+    "vmi": "LVA LVB LVC",
+    "country": "China",
+    "manufacturer": "Foton Motor"
+  },
+  "LVF": {
+    "vmi": "LVF",
+    "country": "China",
+    "manufacturer": "Changhe Suzuki"
+  },
+  "LVG": {
+    "vmi": "LVG",
+    "country": "China",
+    "manufacturer": "GAC Toyota"
+  },
+  "LVH": {
+    "vmi": "LVH",
+    "country": "China",
+    "manufacturer": "Dongfeng Honda"
+  },
+  "LVM": {
+    "vmi": "LVM",
+    "country": "China",
+    "manufacturer": "Chery Commercial Vehicle"
+  },
+  "LVR": {
+    "vmi": "LVR",
+    "country": "China",
+    "manufacturer": "Changan Mazda"
+  },
+  "LVS": {
+    "vmi": "LVS",
+    "country": "China",
+    "manufacturer": "Changan Ford & Changan Ford Mazda"
+  },
+  "LVV": {
+    "vmi": "LVV",
+    "country": "China",
+    "manufacturer": "Chery"
+  },
+  "LVX": {
+    "vmi": "LVX",
+    "country": "China",
+    "manufacturer": "Landwind"
+  },
+  "LVY": {
+    "vmi": "LVY",
+    "country": "China",
+    "manufacturer": "Volvo Cars Daqing factory"
+  },
+  "LVZ": {
+    "vmi": "LVZ",
+    "country": "China",
+    "manufacturer": "DFSK Motor"
+  },
+  "LWB": {
+    "vmi": "LWB",
+    "country": "China",
+    "manufacturer": "Wuyang Honda Motorcycle (Guangzhou) Co., Ltd."
+  },
+  "LWL": {
+    "vmi": "LWL",
+    "country": "China",
+    "manufacturer": "Qingling Isuzu"
+  },
+  "LWV": {
+    "vmi": "LWV",
+    "country": "China",
+    "manufacturer": "GAC Fiat Chrysler"
+  },
+  "LXV": {
+    "vmi": "LXV",
+    "country": "China",
+    "manufacturer": "Beijing Borgward Automotive Co., Ltd."
+  },
+  "LXY": {
+    "vmi": "LXY",
+    "country": "China",
+    "manufacturer": "Chongqing Shineray Motorcycle Co., Ltd."
+  },
+  "LYB": {
+    "vmi": "LYB",
+    "country": "China",
+    "manufacturer": "Weichai (Yangzhou) Yaxing Automobile Co., Ltd."
+  },
+  "LYM": {
+    "vmi": "LYM",
+    "country": "China",
+    "manufacturer": "Zhuzhou Jianshe Yamaha Motorcycle Co., Ltd."
+  },
+  "LYV": {
+    "vmi": "LYV",
+    "country": "China",
+    "manufacturer": "Volvo Cars Chengdu factory & Luqiao factory"
+  },
+  "LZF": {
+    "vmi": "LZF",
+    "country": "China",
+    "manufacturer": "SAIC Iveco Hongyan"
+  },
+  "LZG": {
+    "vmi": "LZG",
+    "country": "China",
+    "manufacturer": "Shaanxi Automobile Group Shacman Bus"
+  },
+  "LZK": {
+    "vmi": "LZK",
+    "country": "China",
+    "manufacturer": "Sinotruk (CNHTC) Huanghe bus"
+  },
+  "LZS": {
+    "vmi": "LZS",
+    "country": "China",
+    "manufacturer": "Zongshen"
+  },
+  "LZU": {
+    "vmi": "LZU",
+    "country": "China",
+    "manufacturer": "Guangzhou Isuzu Bus"
+  },
+  "LZW": {
+    "vmi": "LZW",
+    "country": "China",
+    "manufacturer": "SAIC GM Wuling"
+  },
+  "LZY": {
+    "vmi": "LZY",
+    "country": "China",
+    "manufacturer": "Yutong"
+  },
+  "LZZ": {
+    "vmi": "LZZ",
+    "country": "China",
+    "manufacturer": "Sinotruk (CNHTC) Howo, Sitrak"
+  },
+  "9FB": {
+    "vmi": "9FB",
+    "country": "Colombia",
+    "manufacturer": "Sofasa (Renault)"
+  },
+  "9FC": {
+    "vmi": "9FC",
+    "country": "Colombia",
+    "manufacturer": "Compañía Colombiana Automotriz S.A. (Mazda)"
+  },
+  "9GC": {
+    "vmi": "9GC",
+    "country": "Colombia",
+    "manufacturer": "GM Colmotores S.A. (Chevrolet)"
+  },
+  "V31": {
+    "vmi": "V31",
+    "country": "Croatia",
+    "manufacturer": "Tvornica Autobusa Zagreb (TAZ)"
+  },
+  "V39 AB8": {
+    "vmi": "V39 AB8",
+    "country": "Croatia",
+    "manufacturer": "Rimac Automobili"
+  },
+  "TK9 SL5": {
+    "vmi": "TK9 SL5",
+    "country": "Czech Republic",
+    "manufacturer": "SOR Libchavy"
+  },
+  "TLJ": {
+    "vmi": "TLJ",
+    "country": "Czech Republic",
+    "manufacturer": "Jawa Moto"
+  },
+  "TMA": {
+    "vmi": "TMA",
+    "country": "Czech Republic",
+    "manufacturer": "Hyundai Motor Manufacturing Czech car"
+  },
+  "TMB": {
+    "vmi": "TMB",
+    "country": "Czech Republic",
+    "manufacturer": "Škoda Auto AS"
+  },
+  "TMC": {
+    "vmi": "TMC",
+    "country": "Czech Republic",
+    "manufacturer": "Hyundai Motor Manufacturing Czech SUV"
+  },
+  "TMK": {
+    "vmi": "TMK",
+    "country": "Czech Republic",
+    "manufacturer": "Karosa"
+  },
+  "TMP": {
+    "vmi": "TMP",
+    "country": "Czech Republic",
+    "manufacturer": "Škoda Ostrov"
+  },
+  "TMT": {
+    "vmi": "TMT",
+    "country": "Czech Republic",
+    "manufacturer": "Tatra car"
+  },
+  "TNA": {
+    "vmi": "TNA",
+    "country": "Czech Republic",
+    "manufacturer": "Avia/Daewoo Avia"
+  },
+  "TNT TNU": {
+    "vmi": "TNT TNU",
+    "country": "Czech Republic",
+    "manufacturer": "Tatra trucks"
+  },
+  "ULA": {
+    "vmi": "ULA",
+    "country": "Denmark",
+    "manufacturer": "ASA-LIFT: Vegetable Technology Specialist (Agricultural Machinery)"
+  },
+  "SNE": {
+    "vmi": "SNE",
+    "country": "East Germany",
+    "manufacturer": "Wartburg"
+  },
+  "SNT": {
+    "vmi": "SNT",
+    "country": "East Germany",
+    "manufacturer": "Trabant"
+  },
+  "SNZ": {
+    "vmi": "SNZ",
+    "country": "East Germany",
+    "manufacturer": "MZ Motorrad- und Zweiradwerk"
+  },
+  "8L4": {
+    "vmi": "8L4",
+    "country": "Ecuador",
+    "manufacturer": "Great Wall Motors made by Ciudad del Auto Ciauto Cia. Ltda."
+  },
+  "8LB": {
+    "vmi": "8LB",
+    "country": "Ecuador",
+    "manufacturer": "General Motors OBB"
+  },
+  "8LF": {
+    "vmi": "8LF",
+    "country": "Ecuador",
+    "manufacturer": "Maresa (Mazda)"
+  },
+  "8LG": {
+    "vmi": "8LG",
+    "country": "Ecuador",
+    "manufacturer": "Aymesa (Hyundai Motor & Kia)"
+  },
+  "DA1 DA4": {
+    "vmi": "DA1 DA4",
+    "country": "Egypt",
+    "manufacturer": "Arab American Vehicles"
+  },
+  "DAA": {
+    "vmi": "DAA",
+    "country": "Egypt",
+    "manufacturer": "Fiat Auto Egypt Industrial Co"
+  },
+  "DAB": {
+    "vmi": "DAB",
+    "country": "Egypt",
+    "manufacturer": "BMW Egypt SKD"
+  },
+  "YH2": {
+    "vmi": "YH2",
+    "country": "Finland",
+    "manufacturer": "Lynx (snowmobile)"
+  },
+  "YH4": {
+    "vmi": "YH4",
+    "country": "Finland",
+    "manufacturer": "Fisker Automotive (Fisker Karma) built by Valmet Automotive"
+  },
+  "YK1": {
+    "vmi": "YK1",
+    "country": "Finland",
+    "manufacturer": "Saab built by Valmet Automotive"
+  },
+  "YK7": {
+    "vmi": "YK7",
+    "country": "Finland",
+    "manufacturer": "Sisu Auto"
+  },
+  "VF1": {
+    "vmi": "VF1",
+    "country": "France",
+    "manufacturer": "Renault & Eagle Medallion made by Renault"
+  },
+  "VF2": {
+    "vmi": "VF2",
+    "country": "France",
+    "manufacturer": "Renault Trucks"
+  },
+  "VF3": {
+    "vmi": "VF3",
+    "country": "France",
+    "manufacturer": "Peugeot"
+  },
+  "VF4": {
+    "vmi": "VF4",
+    "country": "France",
+    "manufacturer": "Talbot"
+  },
+  "VF5": {
+    "vmi": "VF5",
+    "country": "France",
+    "manufacturer": "Iveco Unic"
+  },
+  "VF6": {
+    "vmi": "VF6",
+    "country": "France",
+    "manufacturer": "Renault Trucks"
+  },
+  "VF7": {
+    "vmi": "VF7",
+    "country": "France",
+    "manufacturer": "Citroën"
+  },
+  "VF8": {
+    "vmi": "VF8",
+    "country": "France",
+    "manufacturer": "Matra/Talbot/Simca"
+  },
+  "VF9 607": {
+    "vmi": "VF9 607",
+    "country": "France",
+    "manufacturer": "Mathieu Fayat Group"
+  },
+  "VF9 673": {
+    "vmi": "VF9 673",
+    "country": "France",
+    "manufacturer": "Venturi Automobiles"
+  },
+  "VF9 795": {
+    "vmi": "VF9 795",
+    "country": "France",
+    "manufacturer": "Bugatti Automobiles S.A.S."
+  },
+  "VFA": {
+    "vmi": "VFA",
+    "country": "France",
+    "manufacturer": "Alpine"
+  },
+  "VG5": {
+    "vmi": "VG5",
+    "country": "France",
+    "manufacturer": "MBK & Yamaha Motor"
+  },
+  "VG6": {
+    "vmi": "VG6",
+    "country": "France",
+    "manufacturer": "Renault Trucks & Mack Trucks medium duty trucks made by Renault Trucks"
+  },
+  "VG7, VG8": {
+    "vmi": "VG7, VG8",
+    "country": "France",
+    "manufacturer": "Renault Trucks"
+  },
+  "VGA": {
+    "vmi": "VGA",
+    "country": "France",
+    "manufacturer": "Peugeot Motocycles"
+  },
+  "VJ1": {
+    "vmi": "VJ1",
+    "country": "France",
+    "manufacturer": "Heuliez Bus"
+  },
+  "VK8": {
+    "vmi": "VK8",
+    "country": "France",
+    "manufacturer": "Venturi Automobiles"
+  },
+  "VL4": {
+    "vmi": "VL4",
+    "country": "France",
+    "manufacturer": "Bluecar"
+  },
+  "VLU": {
+    "vmi": "VLU",
+    "country": "France",
+    "manufacturer": "Scania Production Angers"
+  },
+  "VMK": {
+    "vmi": "VMK",
+    "country": "France",
+    "manufacturer": "Renault Sport Spider"
+  },
+  "VN1": {
+    "vmi": "VN1",
+    "country": "France",
+    "manufacturer": "Renault SOVAB"
+  },
+  "VNE": {
+    "vmi": "VNE",
+    "country": "France",
+    "manufacturer": "Iveco Bus"
+  },
+  "VNK": {
+    "vmi": "VNK",
+    "country": "France",
+    "manufacturer": "Toyota Motor Manufacturing France"
+  },
+  "VNV": {
+    "vmi": "VNV",
+    "country": "France",
+    "manufacturer": "Nissan"
+  },
+  "VR1": {
+    "vmi": "VR1",
+    "country": "France",
+    "manufacturer": "DS Automobiles"
+  },
+  "VR3": {
+    "vmi": "VR3",
+    "country": "France",
+    "manufacturer": "Peugeot"
+  },
+  "VR7": {
+    "vmi": "VR7",
+    "country": "France",
+    "manufacturer": "Citroën"
+  },
+  "VPS": {
+    "vmi": "VPS",
+    "country": "France",
+    "manufacturer": "MLT Automotive"
+  },
+  "VXE": {
+    "vmi": "VXE",
+    "country": "France",
+    "manufacturer": "Opel Automobile Gmbh/Vauxhall van"
+  },
+  "VXK": {
+    "vmi": "VXK",
+    "country": "France",
+    "manufacturer": "Opel Automobile Gmbh/Vauxhall car/SUV"
+  },
+  "WAC": {
+    "vmi": "WAC",
+    "country": "Germany",
+    "manufacturer": "Audi/Porsche RS 2 Avant"
+  },
+  "WAG": {
+    "vmi": "WAG",
+    "country": "Germany",
+    "manufacturer": "Neoplan"
+  },
+  "WAU": {
+    "vmi": "WAU",
+    "country": "Germany",
+    "manufacturer": "Audi car"
+  },
+  "WAP": {
+    "vmi": "WAP",
+    "country": "Germany",
+    "manufacturer": "Alpina"
+  },
+  "WUA": {
+    "vmi": "WUA",
+    "country": "Germany",
+    "manufacturer": "Audi Sport GmbH & Quattro GmbH car"
+  },
+  "WBA": {
+    "vmi": "WBA",
+    "country": "Germany",
+    "manufacturer": "BMW car"
+  },
+  "WBS": {
+    "vmi": "WBS",
+    "country": "Germany",
+    "manufacturer": "BMW M car"
+  },
+  "WBX": {
+    "vmi": "WBX",
+    "country": "Germany",
+    "manufacturer": "BMW SUV"
+  },
+  "WBY": {
+    "vmi": "WBY",
+    "country": "Germany",
+    "manufacturer": "BMW i car"
+  },
+  "WB1": {
+    "vmi": "WB1",
+    "country": "Germany",
+    "manufacturer": "BMW Motorrad Motorcycle"
+  },
+  "WB3": {
+    "vmi": "WB3",
+    "country": "Germany",
+    "manufacturer": "BMW Motorrad Motorcycles made in India"
+  },
+  "WB4": {
+    "vmi": "WB4",
+    "country": "Germany",
+    "manufacturer": "BMW Motorrad Motorscooters made in China"
+  },
+  "WB5": {
+    "vmi": "WB5",
+    "country": "Germany",
+    "manufacturer": "BMW i SUV"
+  },
+  "WCD": {
+    "vmi": "WCD",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter \"bus\" (van with more than 3 rows of seats) 2008-2019"
+  },
+  "WD0": {
+    "vmi": "WD0",
+    "country": "Germany",
+    "manufacturer": "Dodge Sprinter truck (cargo van with 1 row of seats) 2005-2009"
+  },
+  "WD1": {
+    "vmi": "WD1",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003-2005 incomplete vehicle"
+  },
+  "WD2": {
+    "vmi": "WD2",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003-2005 truck (cargo van with 1 row of seats)"
+  },
+  "WD3": {
+    "vmi": "WD3",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+  },
+  "WD4": {
+    "vmi": "WD4",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+  },
+  "WD5": {
+    "vmi": "WD5",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter 2002 & Sprinter (Dodge or Freightliner) 2003-2005 MPV (van with 2 or 3 rows of seats)"
+  },
+  "WD6": {
+    "vmi": "WD6",
+    "country": "Germany",
+    "manufacturer": "Freightliner Unimog truck"
+  },
+  "WD7": {
+    "vmi": "WD7",
+    "country": "Germany",
+    "manufacturer": "Freightliner Unimog incomplete vehicle"
+  },
+  "WD8": {
+    "vmi": "WD8",
+    "country": "Germany",
+    "manufacturer": "Dodge Sprinter MPV (van with 2 or 3 rows of seats) 2005-2009"
+  },
+  "WDA": {
+    "vmi": "WDA",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+  },
+  "WDB": {
+    "vmi": "WDB",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz & Maybach"
+  },
+  "WDC": {
+    "vmi": "WDC",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz SUV"
+  },
+  "WDD": {
+    "vmi": "WDD",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz car"
+  },
+  "WDF": {
+    "vmi": "WDF",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz van (French & Spanish built models - Citan & Vito & X-Class)"
+  },
+  "WDP": {
+    "vmi": "WDP",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter incomplete vehicle 2005-2019"
+  },
+  "WDR": {
+    "vmi": "WDR",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter MPV (van with 2 or 3 rows of seats) 2005-2019"
+  },
+  "WDW": {
+    "vmi": "WDW",
+    "country": "Germany",
+    "manufacturer": "Dodge Sprinter \"bus\" (van with more than 3 rows of seats) 2008-2009"
+  },
+  "WDX": {
+    "vmi": "WDX",
+    "country": "Germany",
+    "manufacturer": "Dodge Sprinter incomplete vehicle 2005-2009"
+  },
+  "WDY": {
+    "vmi": "WDY",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter truck (cargo van with 1 row of seats) 2005-2019"
+  },
+  "WDZ": {
+    "vmi": "WDZ",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+  },
+  "WEB": {
+    "vmi": "WEB",
+    "country": "Germany",
+    "manufacturer": "EvoBus Mercedes-Benz buses"
+  },
+  "WEL": {
+    "vmi": "WEL",
+    "country": "Germany",
+    "manufacturer": "e.GO Mobile AG"
+  },
+  "WF0": {
+    "vmi": "WF0",
+    "country": "Germany",
+    "manufacturer": "Ford of Europe"
+  },
+  "WF1": {
+    "vmi": "WF1",
+    "country": "Germany",
+    "manufacturer": "Merkur"
+  },
+  "WJM": {
+    "vmi": "WJM",
+    "country": "Germany",
+    "manufacturer": "Iveco/Iveco Magirus"
+  },
+  "WJR": {
+    "vmi": "WJR",
+    "country": "Germany",
+    "manufacturer": "Irmscher"
+  },
+  "WKK": {
+    "vmi": "WKK",
+    "country": "Germany",
+    "manufacturer": "Setra & Karl Kässbohrer Fahrzeugwerke"
+  },
+  "WMA": {
+    "vmi": "WMA",
+    "country": "Germany",
+    "manufacturer": "MAN"
+  },
+  "WME": {
+    "vmi": "WME",
+    "country": "Germany",
+    "manufacturer": "Smart (from 5/99)"
+  },
+  "WMW": {
+    "vmi": "WMW",
+    "country": "Germany",
+    "manufacturer": "Mini car"
+  },
+  "WMX": {
+    "vmi": "WMX",
+    "country": "Germany",
+    "manufacturer": "Mercedes-AMG used for Mercedes-Benz SLS AMG & Mercedes-AMG GT (not used in North America)"
+  },
+  "WMZ": {
+    "vmi": "WMZ",
+    "country": "Germany",
+    "manufacturer": "Mini SUV"
+  },
+  "WNA": {
+    "vmi": "WNA",
+    "country": "Germany",
+    "manufacturer": "Next.e.GO Mobile SE"
+  },
+  "WP0": {
+    "vmi": "WP0",
+    "country": "Germany",
+    "manufacturer": "Porsche car"
+  },
+  "WP1": {
+    "vmi": "WP1",
+    "country": "Germany",
+    "manufacturer": "Porsche SUV"
+  },
+  "WS5": {
+    "vmi": "WS5",
+    "country": "Germany",
+    "manufacturer": "StreetScooter"
+  },
+  "WU1": {
+    "vmi": "WU1",
+    "country": "Germany",
+    "manufacturer": "Audi Sport GmbH SUV"
+  },
+  "WVG": {
+    "vmi": "WVG",
+    "country": "Germany",
+    "manufacturer": "Volkswagen SUV"
+  },
+  "WVM": {
+    "vmi": "WVM",
+    "country": "Germany",
+    "manufacturer": "Arbeitsgemeinschaft VW-MAN"
+  },
+  "WVP": {
+    "vmi": "WVP",
+    "country": "Germany",
+    "manufacturer": "Viseon Bus"
+  },
+  "WVW": {
+    "vmi": "WVW",
+    "country": "Germany",
+    "manufacturer": "Volkswagen car"
+  },
+  "WV1": {
+    "vmi": "WV1",
+    "country": "Germany",
+    "manufacturer": "Volkswagen Commercial Vehicles"
+  },
+  "WV2": {
+    "vmi": "WV2",
+    "country": "Germany",
+    "manufacturer": "Volkswagen Commercial Vehicles"
+  },
+  "WZ1": {
+    "vmi": "WZ1",
+    "country": "Germany",
+    "manufacturer": "Toyota Supra Fifth generation"
+  },
+  "W04": {
+    "vmi": "W04",
+    "country": "Germany",
+    "manufacturer": "Buick Regal & Buick Cascada"
+  },
+  "W06": {
+    "vmi": "W06",
+    "country": "Germany",
+    "manufacturer": "Cadillac Catera"
+  },
+  "W08": {
+    "vmi": "W08",
+    "country": "Germany",
+    "manufacturer": "Saturn Astra"
+  },
+  "W09 B09": {
+    "vmi": "W09 B09",
+    "country": "Germany",
+    "manufacturer": "Bitter Cars"
+  },
+  "W09 B16": {
+    "vmi": "W09 B16",
+    "country": "Germany",
+    "manufacturer": "Brabus"
+  },
+  "W09 D05": {
+    "vmi": "W09 D05",
+    "country": "Germany",
+    "manufacturer": "Drögmöller"
+  },
+  "W09 HA8": {
+    "vmi": "W09 HA8",
+    "country": "Germany",
+    "manufacturer": "HWA AG"
+  },
+  "W09 R06": {
+    "vmi": "W09 R06",
+    "country": "Germany",
+    "manufacturer": "Ruf Automobile"
+  },
+  "W0L": {
+    "vmi": "W0L",
+    "country": "Germany",
+    "manufacturer": "Adam Opel AG/Vauxhall & Holden"
+  },
+  "W0S": {
+    "vmi": "W0S",
+    "country": "Germany",
+    "manufacturer": "Opel Special Vehicles"
+  },
+  "W0V": {
+    "vmi": "W0V",
+    "country": "Germany",
+    "manufacturer": "Opel Automobile Gmbh/Vauxhall & Holden"
+  },
+  "W1A": {
+    "vmi": "W1A",
+    "country": "Germany",
+    "manufacturer": "Smart"
+  },
+  "W1H": {
+    "vmi": "W1H",
+    "country": "Germany",
+    "manufacturer": "Freightliner Econic"
+  },
+  "W1K": {
+    "vmi": "W1K",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz car"
+  },
+  "W1N": {
+    "vmi": "W1N",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz SUV"
+  },
+  "W1T": {
+    "vmi": "W1T",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz truck"
+  },
+  "W1V": {
+    "vmi": "W1V",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz van"
+  },
+  "W1W": {
+    "vmi": "W1W",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+  },
+  "W1X": {
+    "vmi": "W1X",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+  },
+  "W1Y": {
+    "vmi": "W1Y",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+  },
+  "W1Z": {
+    "vmi": "W1Z",
+    "country": "Germany",
+    "manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+  },
+  "W2W": {
+    "vmi": "W2W",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter MPV (van with 2 or 3 rows of seats)"
+  },
+  "W2X": {
+    "vmi": "W2X",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter incomplete vehicle"
+  },
+  "W2Y": {
+    "vmi": "W2Y",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter truck (cargo van with 1 row of seats)"
+  },
+  "W2Z": {
+    "vmi": "W2Z",
+    "country": "Germany",
+    "manufacturer": "Freightliner Sprinter \"bus\" (van with more than 3 rows of seats)"
+  },
+  "R4N": {
+    "vmi": "R4N",
+    "country": "Hong Kong",
+    "manufacturer": "Elyx Smart Technology Holdings (Hong Kong) Ltd."
+  },
+  "TRA": {
+    "vmi": "TRA",
+    "country": "Hungary",
+    "manufacturer": "Ikarus Bus"
+  },
+  "TRU": {
+    "vmi": "TRU",
+    "country": "Hungary",
+    "manufacturer": "Audi"
+  },
+  "TSM": {
+    "vmi": "TSM",
+    "country": "Hungary",
+    "manufacturer": "Suzuki"
+  },
+  "MA1": {
+    "vmi": "MA1",
+    "country": "India",
+    "manufacturer": "Mahindra"
+  },
+  "MA3": {
+    "vmi": "MA3",
+    "country": "India",
+    "manufacturer": "Maruti Suzuki India Limited"
+  },
+  "MA6": {
+    "vmi": "MA6",
+    "country": "India",
+    "manufacturer": "General Motors India Pvt. Ltd."
+  },
+  "MA7": {
+    "vmi": "MA7",
+    "country": "India",
+    "manufacturer": "Hindustan Motors Ltd & Mitsubishi Motors models made by Hindustan Motors & Isuzu models made by Hindustan Motors"
+  },
+  "MAH": {
+    "vmi": "MAH",
+    "country": "India",
+    "manufacturer": "Fiat India Automobiles Pvt. Ltd"
+  },
+  "MAJ": {
+    "vmi": "MAJ",
+    "country": "India",
+    "manufacturer": "Ford India"
+  },
+  "MAK": {
+    "vmi": "MAK",
+    "country": "India",
+    "manufacturer": "Honda Cars India"
+  },
+  "MAL": {
+    "vmi": "MAL",
+    "country": "India",
+    "manufacturer": "Hyundai Motor India"
+  },
+  "MAN": {
+    "vmi": "MAN",
+    "country": "India",
+    "manufacturer": "Eicher Polaris Multix"
+  },
+  "MAT": {
+    "vmi": "MAT",
+    "country": "India",
+    "manufacturer": "Tata Motors"
+  },
+  "MB1": {
+    "vmi": "MB1",
+    "country": "India",
+    "manufacturer": "Ashok Leyland Ltd"
+  },
+  "MB8": {
+    "vmi": "MB8",
+    "country": "India",
+    "manufacturer": "Suzuki Motorcycle India Limited"
+  },
+  "MBF": {
+    "vmi": "MBF",
+    "country": "India",
+    "manufacturer": "Royal Enfield"
+  },
+  "MBH": {
+    "vmi": "MBH",
+    "country": "India",
+    "manufacturer": "Nissan Pixo made by Maruti Suzuki India Limited"
+  },
+  "MBJ": {
+    "vmi": "MBJ",
+    "country": "India",
+    "manufacturer": "Toyota Kirloskar Motor Pvt Ltd"
+  },
+  "MBK": {
+    "vmi": "MBK",
+    "country": "India",
+    "manufacturer": "MAN Trucks India Pvt. Ltd"
+  },
+  "MBL": {
+    "vmi": "MBL",
+    "country": "India",
+    "manufacturer": "Hero MotoCorp"
+  },
+  "MBU": {
+    "vmi": "MBU",
+    "country": "India",
+    "manufacturer": "Swaraj Vehicles Limited"
+  },
+  "MBV": {
+    "vmi": "MBV",
+    "country": "India",
+    "manufacturer": "Premier Automobiles Ltd"
+  },
+  "MBX": {
+    "vmi": "MBX",
+    "country": "India",
+    "manufacturer": "Piaggio India Piaggio Ape"
+  },
+  "MBY": {
+    "vmi": "MBY",
+    "country": "India",
+    "manufacturer": "Asia Motor Works Ltd"
+  },
+  "MC1": {
+    "vmi": "MC1",
+    "country": "India",
+    "manufacturer": "Force Motors Limited"
+  },
+  "MC2": {
+    "vmi": "MC2",
+    "country": "India",
+    "manufacturer": "Eicher Motors Limited"
+  },
+  "MC4": {
+    "vmi": "MC4",
+    "country": "India",
+    "manufacturer": "Dilip Chhabria Design Pvt Ltd"
+  },
+  "MCA": {
+    "vmi": "MCA",
+    "country": "India",
+    "manufacturer": "FCA India Automobiles Pvt. Ltd"
+  },
+  "MCB": {
+    "vmi": "MCB",
+    "country": "India",
+    "manufacturer": "General Motors India Pvt. Ltd."
+  },
+  "MCD": {
+    "vmi": "MCD",
+    "country": "India",
+    "manufacturer": "Mahindra Two Wheelers"
+  },
+  "MCG": {
+    "vmi": "MCG",
+    "country": "India",
+    "manufacturer": "Atul Auto"
+  },
+  "MCL": {
+    "vmi": "MCL",
+    "country": "India",
+    "manufacturer": "International Cars And Motors Ltd"
+  },
+  "MD2": {
+    "vmi": "MD2",
+    "country": "India",
+    "manufacturer": "Bajaj Auto Ltd & KTM and Husqvarna models built by Bajaj"
+  },
+  "MD6": {
+    "vmi": "MD6",
+    "country": "India",
+    "manufacturer": "TVS Motor Company"
+  },
+  "MD7": {
+    "vmi": "MD7",
+    "country": "India",
+    "manufacturer": "LML Ltd including Genuine Scooter Company Stella"
+  },
+  "MDE": {
+    "vmi": "MDE",
+    "country": "India",
+    "manufacturer": "Kinetic Engineering Limited"
+  },
+  "MDH": {
+    "vmi": "MDH",
+    "country": "India",
+    "manufacturer": "Nissan Motor India Pvt Ltd"
+  },
+  "MDT": {
+    "vmi": "MDT",
+    "country": "India",
+    "manufacturer": "Kerala Automobiles Limited"
+  },
+  "ME1": {
+    "vmi": "ME1",
+    "country": "India",
+    "manufacturer": "India Yamaha Motor Pvt. Ltd"
+  },
+  "ME3": {
+    "vmi": "ME3",
+    "country": "India",
+    "manufacturer": "Royal Enfield"
+  },
+  "ME4": {
+    "vmi": "ME4",
+    "country": "India",
+    "manufacturer": "Honda Motorcycle and Scooter India"
+  },
+  "ME9": {
+    "vmi": "ME9",
+    "country": "India",
+    "manufacturer": "BUYMYEV TECHNOLOGY PVT LTD"
+  },
+  "MEC": {
+    "vmi": "MEC",
+    "country": "India",
+    "manufacturer": "Daimler India Commercial Vehicles Pvt. Ltd. BharatBenz"
+  },
+  "MEE": {
+    "vmi": "MEE",
+    "country": "India",
+    "manufacturer": "Renault India Private Limited"
+  },
+  "MEG": {
+    "vmi": "MEG",
+    "country": "India",
+    "manufacturer": "Harley-Davidson India"
+  },
+  "MER": {
+    "vmi": "MER",
+    "country": "India",
+    "manufacturer": "Benelli"
+  },
+  "MET": {
+    "vmi": "MET",
+    "country": "India",
+    "manufacturer": "Piaggio India Vespa"
+  },
+  "MEX": {
+    "vmi": "MEX",
+    "country": "India",
+    "manufacturer": "Škoda Auto Volkswagen India Pvt. Ltd. 2015 on"
+  },
+  "MYH": {
+    "vmi": "MYH",
+    "country": "India",
+    "manufacturer": "Ather Energy"
+  },
+  "MZ7": {
+    "vmi": "MZ7",
+    "country": "India",
+    "manufacturer": "MG Motor India Pvt. Ltd."
+  },
+  "MZB": {
+    "vmi": "MZB",
+    "country": "India",
+    "manufacturer": "Kia India Pvt. Ltd."
+  },
+  "MZD": {
+    "vmi": "MZD",
+    "country": "India",
+    "manufacturer": "Classic Legends Private Limited - Jawa"
+  },
+  "M3G": {
+    "vmi": "M3G",
+    "country": "India",
+    "manufacturer": "Isuzu Motors India"
+  },
+  "MH1": {
+    "vmi": "MH1",
+    "country": "Indonesia",
+    "manufacturer": "PT Astra Honda Motor"
+  },
+  "MH3": {
+    "vmi": "MH3",
+    "country": "Indonesia",
+    "manufacturer": "PT Yamaha Indonesia Motor Mfg."
+  },
+  "MH4": {
+    "vmi": "MH4",
+    "country": "Indonesia",
+    "manufacturer": "PT Kawasaki Motor Indonesia"
+  },
+  "MHF": {
+    "vmi": "MHF",
+    "country": "Indonesia",
+    "manufacturer": "PT Toyota Astra Motor"
+  },
+  "MHK": {
+    "vmi": "MHK",
+    "country": "Indonesia",
+    "manufacturer": "PT Astra Daihatsu Motor including Toyotas made by Astra Daihatsu"
+  },
+  "MHL": {
+    "vmi": "MHL",
+    "country": "Indonesia",
+    "manufacturer": "PT Mercedes Benz Indonesia"
+  },
+  "MHR": {
+    "vmi": "MHR",
+    "country": "Indonesia",
+    "manufacturer": "PT Honda Prospect Motor"
+  },
+  "MHY": {
+    "vmi": "MHY",
+    "country": "Indonesia",
+    "manufacturer": "PT Suzuki Indomobil Motor"
+  },
+  "MJB": {
+    "vmi": "MJB",
+    "country": "Indonesia",
+    "manufacturer": "GM Indonesia"
+  },
+  "MK2": {
+    "vmi": "MK2",
+    "country": "Indonesia",
+    "manufacturer": "Mitsubishi Motors Krama Yudha Indonesia"
+  },
+  "MK3": {
+    "vmi": "MK3",
+    "country": "Indonesia",
+    "manufacturer": "PT SGMW Motor Indonesia Wuling"
+  },
+  "N3C": {
+    "vmi": "N3C",
+    "country": "Iran",
+    "manufacturer": "Kavir motor Company (Yektaz)"
+  },
+  "N58": {
+    "vmi": "N58",
+    "country": "Iran",
+    "manufacturer": "Kavir motor Company (EURASIA)"
+  },
+  "NAA": {
+    "vmi": "NAA",
+    "country": "Iran",
+    "manufacturer": "Iran khodro Company"
+  },
+  "NAD": {
+    "vmi": "NAD",
+    "country": "Iran",
+    "manufacturer": "Saipa Diesel"
+  },
+  "NAG": {
+    "vmi": "NAG",
+    "country": "Iran",
+    "manufacturer": "Bahman Industrial Group"
+  },
+  "NAP": {
+    "vmi": "NAP",
+    "country": "Iran",
+    "manufacturer": "Pars Khodro"
+  },
+  "NAS": {
+    "vmi": "NAS",
+    "country": "Iran",
+    "manufacturer": "[Saipa Co.]]"
+  },
+  "KF3": {
+    "vmi": "KF3",
+    "country": "Israel",
+    "manufacturer": "Merkavim"
+  },
+  "KF6": {
+    "vmi": "KF6",
+    "country": "Israel",
+    "manufacturer": "Automotive Industries, Ltd."
+  },
+  "KF9 004": {
+    "vmi": "KF9 004",
+    "country": "Israel",
+    "manufacturer": "Tomcar"
+  },
+  "ZA9 A12": {
+    "vmi": "ZA9 A12",
+    "country": "Italy",
+    "manufacturer": "Lamborghini through mid 2003"
+  },
+  "ZA9 D38": {
+    "vmi": "ZA9 D38",
+    "country": "Italy",
+    "manufacturer": "Cizeta Automobili SRL"
+  },
+  "ZA9 D39": {
+    "vmi": "ZA9 D39",
+    "country": "Italy",
+    "manufacturer": "Bugatti Automobili S.p.A"
+  },
+  "ZA9 F76": {
+    "vmi": "ZA9 F76",
+    "country": "Italy",
+    "manufacturer": "Pagani Automobili S.p.A."
+  },
+  "ZA9 M09": {
+    "vmi": "ZA9 M09",
+    "country": "Italy",
+    "manufacturer": "Italdesign Automobili Speciali"
+  },
+  "ZA9 M27": {
+    "vmi": "ZA9 M27",
+    "country": "Italy",
+    "manufacturer": "Dallara Stradale"
+  },
+  "ZA9 M91": {
+    "vmi": "ZA9 M91",
+    "country": "Italy",
+    "manufacturer": "Automobili Pininfarina"
+  },
+  "ZAA": {
+    "vmi": "ZAA",
+    "country": "Italy",
+    "manufacturer": "Autobianchi"
+  },
+  "ZAC": {
+    "vmi": "ZAC",
+    "country": "Italy",
+    "manufacturer": "Jeep and Dodge Hornet"
+  },
+  "ZAM": {
+    "vmi": "ZAM",
+    "country": "Italy",
+    "manufacturer": "Maserati car"
+  },
+  "ZAP": {
+    "vmi": "ZAP",
+    "country": "Italy",
+    "manufacturer": "Piaggio and Vespa and Gilera[32]"
+  },
+  "ZAR": {
+    "vmi": "ZAR",
+    "country": "Italy",
+    "manufacturer": "Alfa Romeo car & Nissan Cherry Europe"
+  },
+  "ZAS": {
+    "vmi": "ZAS",
+    "country": "Italy",
+    "manufacturer": "Alfa Romeo SUV 2018-"
+  },
+  "ZBB": {
+    "vmi": "ZBB",
+    "country": "Italy",
+    "manufacturer": "Gruppo Bertone"
+  },
+  "ZBN": {
+    "vmi": "ZBN",
+    "country": "Italy",
+    "manufacturer": "Benelli"
+  },
+  "ZBW": {
+    "vmi": "ZBW",
+    "country": "Italy",
+    "manufacturer": "Rayton-Fissore Magnum"
+  },
+  "ZC2": {
+    "vmi": "ZC2",
+    "country": "Italy",
+    "manufacturer": "Chrysler TC by Maserati"
+  },
+  "ZC6": {
+    "vmi": "ZC6",
+    "country": "Italy",
+    "manufacturer": "Effedi Veicoli Commerciali"
+  },
+  "ZCF": {
+    "vmi": "ZCF",
+    "country": "Italy",
+    "manufacturer": "Iveco"
+  },
+  "ZCG": {
+    "vmi": "ZCG",
+    "country": "Italy",
+    "manufacturer": "Husqvarna Motorcycles Under MV Agusta ownership"
+  },
+  "ZD0": {
+    "vmi": "ZD0",
+    "country": "Italy",
+    "manufacturer": "Yamaha Motor Italia SpA & Belgarda SpA"
+  },
+  "ZD3": {
+    "vmi": "ZD3",
+    "country": "Italy",
+    "manufacturer": "Betamotor S.p.A."
+  },
+  "ZD4": {
+    "vmi": "ZD4",
+    "country": "Italy",
+    "manufacturer": "Aprilia"
+  },
+  "ZDC": {
+    "vmi": "ZDC",
+    "country": "Italy",
+    "manufacturer": "Honda Italia Industriale S.p.A."
+  },
+  "ZDM": {
+    "vmi": "ZDM",
+    "country": "Italy",
+    "manufacturer": "Ducati Motor Holding"
+  },
+  "ZDT": {
+    "vmi": "ZDT",
+    "country": "Italy",
+    "manufacturer": "De Tomaso Modena SpA"
+  },
+  "ZDY": {
+    "vmi": "ZDY",
+    "country": "Italy",
+    "manufacturer": "Cacciamali"
+  },
+  "ZE8": {
+    "vmi": "ZE8",
+    "country": "Italy",
+    "manufacturer": "Bremach"
+  },
+  "ZES": {
+    "vmi": "ZES",
+    "country": "Italy",
+    "manufacturer": "Bimota"
+  },
+  "ZF4": {
+    "vmi": "ZF4",
+    "country": "Italy",
+    "manufacturer": "Qvale"
+  },
+  "ZFA": {
+    "vmi": "ZFA",
+    "country": "Italy",
+    "manufacturer": "Fiat car Also Fiat Fullback"
+  },
+  "ZFB": {
+    "vmi": "ZFB",
+    "country": "Italy",
+    "manufacturer": "Fiat MPV/SUV"
+  },
+  "ZFC": {
+    "vmi": "ZFC",
+    "country": "Italy",
+    "manufacturer": "Ram 1200"
+  },
+  "ZFF": {
+    "vmi": "ZFF",
+    "country": "Italy",
+    "manufacturer": "Ferrari"
+  },
+  "ZFM": {
+    "vmi": "ZFM",
+    "country": "Italy",
+    "manufacturer": "Fantic Motor"
+  },
+  "ZFR": {
+    "vmi": "ZFR",
+    "country": "Italy",
+    "manufacturer": "Pininfarina"
+  },
+  "ZGA": {
+    "vmi": "ZGA",
+    "country": "Italy",
+    "manufacturer": "Iveco Bus"
+  },
+  "ZGU": {
+    "vmi": "ZGU",
+    "country": "Italy",
+    "manufacturer": "Moto Guzzi"
+  },
+  "ZHU": {
+    "vmi": "ZHU",
+    "country": "Italy",
+    "manufacturer": "Husqvarna Motorcycles Under Cagiva ownership"
+  },
+  "ZHW": {
+    "vmi": "ZHW",
+    "country": "Italy",
+    "manufacturer": "Lamborghini car from mid 2003"
+  },
+  "ZJM": {
+    "vmi": "ZJM",
+    "country": "Italy",
+    "manufacturer": "Malaguti"
+  },
+  "ZJN": {
+    "vmi": "ZJN",
+    "country": "Italy",
+    "manufacturer": "Innocenti"
+  },
+  "ZJT": {
+    "vmi": "ZJT",
+    "country": "Italy",
+    "manufacturer": "Italjet"
+  },
+  "ZKH": {
+    "vmi": "ZKH",
+    "country": "Italy",
+    "manufacturer": "Husqvarna Motorcycles Srl Under BMW ownership"
+  },
+  "ZK5": {
+    "vmi": "ZK5",
+    "country": "Italy",
+    "manufacturer": "Hyundai Automobili Italia Importazioni"
+  },
+  "ZLA": {
+    "vmi": "ZLA",
+    "country": "Italy",
+    "manufacturer": "Lancia"
+  },
+  "ZLM": {
+    "vmi": "ZLM",
+    "country": "Italy",
+    "manufacturer": "Moto Morini srl"
+  },
+  "ZLV": {
+    "vmi": "ZLV",
+    "country": "Italy",
+    "manufacturer": "Laverda"
+  },
+  "ZN0": {
+    "vmi": "ZN0",
+    "country": "Italy",
+    "manufacturer": "SWM Motorcycles S.r.l."
+  },
+  "ZN3": {
+    "vmi": "ZN3",
+    "country": "Italy",
+    "manufacturer": "Iveco Defence"
+  },
+  "ZN6": {
+    "vmi": "ZN6",
+    "country": "Italy",
+    "manufacturer": "Maserati SUV"
+  },
+  "ZNN": {
+    "vmi": "ZNN",
+    "country": "Italy",
+    "manufacturer": "Energica Motor Company"
+  },
+  "ZPB": {
+    "vmi": "ZPB",
+    "country": "Italy",
+    "manufacturer": "Lamborghini SUV"
+  },
+  "ZPY": {
+    "vmi": "ZPY",
+    "country": "Italy",
+    "manufacturer": "DR Automobiles"
+  },
+  "J81": {
+    "vmi": "J81",
+    "country": "Japan",
+    "manufacturer": "Chevrolet/Geo car made by Isuzu"
+  },
+  "J87": {
+    "vmi": "J87",
+    "country": "Japan",
+    "manufacturer": "Pontiac/Asüna car made by Isuzu for GM Canada"
+  },
+  "J8B J8C": {
+    "vmi": "J8B J8C",
+    "country": "Japan",
+    "manufacturer": "Chevrolet commercial trucks made by Isuzu"
+  },
+  "J8D J8T": {
+    "vmi": "J8D J8T",
+    "country": "Japan",
+    "manufacturer": "GMC commercial trucks made by Isuzu"
+  },
+  "J8Z": {
+    "vmi": "J8Z",
+    "country": "Japan",
+    "manufacturer": "Chevrolet pickup truck made by Isuzu"
+  },
+  "JA3": {
+    "vmi": "JA3",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi car"
+  },
+  "JA4": {
+    "vmi": "JA4",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi MPV/SUV"
+  },
+  "JA7": {
+    "vmi": "JA7",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi truck"
+  },
+  "JAA": {
+    "vmi": "JAA",
+    "country": "Japan",
+    "manufacturer": "Isuzu truck"
+  },
+  "JAB": {
+    "vmi": "JAB",
+    "country": "Japan",
+    "manufacturer": "Isuzu car"
+  },
+  "JAC": {
+    "vmi": "JAC",
+    "country": "Japan",
+    "manufacturer": "Isuzu SUV"
+  },
+  "JAE": {
+    "vmi": "JAE",
+    "country": "Japan",
+    "manufacturer": "Acura SLX made by Isuzu"
+  },
+  "JAL": {
+    "vmi": "JAL",
+    "country": "Japan",
+    "manufacturer": "Isuzu commercial trucks & Chevrolet commercial trucks made by Isuzu 2016+ & Hino S-series truck made by Isuzu"
+  },
+  "JAM": {
+    "vmi": "JAM",
+    "country": "Japan",
+    "manufacturer": "Isuzu commercial trucks"
+  },
+  "JB3": {
+    "vmi": "JB3",
+    "country": "Japan",
+    "manufacturer": "Dodge car made by Mitsubishi Motors"
+  },
+  "JB4": {
+    "vmi": "JB4",
+    "country": "Japan",
+    "manufacturer": "Dodge MPV/SUV made by Mitsubishi Motors"
+  },
+  "JB7": {
+    "vmi": "JB7",
+    "country": "Japan",
+    "manufacturer": "Dodge truck made by Mitsubishi Motors"
+  },
+  "JC0": {
+    "vmi": "JC0",
+    "country": "Japan",
+    "manufacturer": "Ford brand cars made by Mazda"
+  },
+  "JC1": {
+    "vmi": "JC1",
+    "country": "Japan",
+    "manufacturer": "Fiat 124 Spider made by Mazda"
+  },
+  "JC2": {
+    "vmi": "JC2",
+    "country": "Japan",
+    "manufacturer": "Ford Courier made by Mazda"
+  },
+  "JD1": {
+    "vmi": "JD1",
+    "country": "Japan",
+    "manufacturer": "Daihatsu car"
+  },
+  "JD2": {
+    "vmi": "JD2",
+    "country": "Japan",
+    "manufacturer": "Daihatsu SUV"
+  },
+  "JD4": {
+    "vmi": "JD4",
+    "country": "Japan",
+    "manufacturer": "Daihatsu truck"
+  },
+  "JDA": {
+    "vmi": "JDA",
+    "country": "Japan",
+    "manufacturer": "Daihatsu"
+  },
+  "JE3": {
+    "vmi": "JE3",
+    "country": "Japan",
+    "manufacturer": "Eagle car made by Mitsubishi Motors"
+  },
+  "JE4": {
+    "vmi": "JE4",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi"
+  },
+  "JF1": {
+    "vmi": "JF1",
+    "country": "Japan",
+    "manufacturer": "Subaru - Fuji Heavy Industries car"
+  },
+  "JF2": {
+    "vmi": "JF2",
+    "country": "Japan",
+    "manufacturer": "Subaru - Fuji Heavy Industries SUV"
+  },
+  "JF3": {
+    "vmi": "JF3",
+    "country": "Japan",
+    "manufacturer": "Subaru - Fuji Heavy Industries truck"
+  },
+  "JF4": {
+    "vmi": "JF4",
+    "country": "Japan",
+    "manufacturer": "Saab 9-2X made by Subaru"
+  },
+  "JG1": {
+    "vmi": "JG1",
+    "country": "Japan",
+    "manufacturer": "Chevrolet/Geo car made by Suzuki"
+  },
+  "JG7": {
+    "vmi": "JG7",
+    "country": "Japan",
+    "manufacturer": "Pontiac/Asuna car made by Suzuki for GM Canada"
+  },
+  "JGC": {
+    "vmi": "JGC",
+    "country": "Japan",
+    "manufacturer": "Chevrolet/Geo SUV made by Suzuki"
+  },
+  "JGT": {
+    "vmi": "JGT",
+    "country": "Japan",
+    "manufacturer": "GMC SUV made by Suzuki for GM Canada"
+  },
+  "JH2": {
+    "vmi": "JH2",
+    "country": "Japan",
+    "manufacturer": "Honda motorcycle/ATV"
+  },
+  "JH3": {
+    "vmi": "JH3",
+    "country": "Japan",
+    "manufacturer": "Honda ATV"
+  },
+  "JH4": {
+    "vmi": "JH4",
+    "country": "Japan",
+    "manufacturer": "Acura car"
+  },
+  "JHA JHB": {
+    "vmi": "JHA JHB",
+    "country": "Japan",
+    "manufacturer": "Hino"
+  },
+  "JHD JHF JHH": {
+    "vmi": "JHD JHF JHH",
+    "country": "Japan",
+    "manufacturer": "Hino"
+  },
+  "JHL": {
+    "vmi": "JHL",
+    "country": "Japan",
+    "manufacturer": "Honda MPV/SUV"
+  },
+  "JHM": {
+    "vmi": "JHM",
+    "country": "Japan",
+    "manufacturer": "Honda car"
+  },
+  "JJ3": {
+    "vmi": "JJ3",
+    "country": "Japan",
+    "manufacturer": "Chrysler car made by Mitsubishi Motors"
+  },
+  "JK8": {
+    "vmi": "JK8",
+    "country": "Japan",
+    "manufacturer": "Suzuki QUV620F UTV made by Kawasaki"
+  },
+  "JKA JKB": {
+    "vmi": "JKA JKB",
+    "country": "Japan",
+    "manufacturer": "Kawasaki"
+  },
+  "JKS": {
+    "vmi": "JKS",
+    "country": "Japan",
+    "manufacturer": "Suzuki Marauder 1600/Boulevard M95 motorcycle made by Kawasaki"
+  },
+  "JL5 JL6": {
+    "vmi": "JL5 JL6",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+  },
+  "JLF": {
+    "vmi": "JLF",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+  },
+  "JLS": {
+    "vmi": "JLS",
+    "country": "Japan",
+    "manufacturer": "Sterling Trucks 360 made by Mitsubishi FUSO Truck & Bus Corp"
+  },
+  "JM0": {
+    "vmi": "JM0",
+    "country": "Japan",
+    "manufacturer": "Mazda for Oceania export"
+  },
+  "JM1": {
+    "vmi": "JM1",
+    "country": "Japan",
+    "manufacturer": "Mazda car"
+  },
+  "JM2": {
+    "vmi": "JM2",
+    "country": "Japan",
+    "manufacturer": "Mazda truck"
+  },
+  "JM3": {
+    "vmi": "JM3",
+    "country": "Japan",
+    "manufacturer": "Mazda MPV/SUV"
+  },
+  "JM6": {
+    "vmi": "JM6",
+    "country": "Japan",
+    "manufacturer": "Mazda"
+  },
+  "JM7": {
+    "vmi": "JM7",
+    "country": "Japan",
+    "manufacturer": "Mazda"
+  },
+  "JMA JMB": {
+    "vmi": "JMA JMB",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi"
+  },
+  "JMF": {
+    "vmi": "JMF",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi"
+  },
+  "JMY": {
+    "vmi": "JMY",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi"
+  },
+  "JMZ": {
+    "vmi": "JMZ",
+    "country": "Japan",
+    "manufacturer": "Mazda for Europe export"
+  },
+  "JN": {
+    "vmi": "JN",
+    "country": "Japan",
+    "manufacturer": "Nissan"
+  },
+  "JN1": {
+    "vmi": "JN1",
+    "country": "Japan",
+    "manufacturer": "Nissan car & Infiniti car"
+  },
+  "JN3": {
+    "vmi": "JN3",
+    "country": "Japan",
+    "manufacturer": "Nissan incomplete vehicle"
+  },
+  "JN6": {
+    "vmi": "JN6",
+    "country": "Japan",
+    "manufacturer": "Nissan truck"
+  },
+  "JN8": {
+    "vmi": "JN8",
+    "country": "Japan",
+    "manufacturer": "Nissan MPV/SUV & Infiniti SUV"
+  },
+  "JNA": {
+    "vmi": "JNA",
+    "country": "Japan",
+    "manufacturer": "Nissan Diesel/UD Trucks incomplete vehicle"
+  },
+  "JNC": {
+    "vmi": "JNC",
+    "country": "Japan",
+    "manufacturer": "Nissan Diesel/UD Trucks"
+  },
+  "JNE": {
+    "vmi": "JNE",
+    "country": "Japan",
+    "manufacturer": "Nissan Diesel/UD Trucks truck"
+  },
+  "JNK": {
+    "vmi": "JNK",
+    "country": "Japan",
+    "manufacturer": "Infiniti car"
+  },
+  "JNR": {
+    "vmi": "JNR",
+    "country": "Japan",
+    "manufacturer": "Infiniti SUV"
+  },
+  "JNX": {
+    "vmi": "JNX",
+    "country": "Japan",
+    "manufacturer": "Infiniti incomplete vehicle"
+  },
+  "JP3": {
+    "vmi": "JP3",
+    "country": "Japan",
+    "manufacturer": "Plymouth car made by Mitsubishi Motors"
+  },
+  "JP4": {
+    "vmi": "JP4",
+    "country": "Japan",
+    "manufacturer": "Plymouth MPV/SUV made by Mitsubishi Motors"
+  },
+  "JP7": {
+    "vmi": "JP7",
+    "country": "Japan",
+    "manufacturer": "Plymouth truck made by Mitsubishi Motors"
+  },
+  "JPC": {
+    "vmi": "JPC",
+    "country": "Japan",
+    "manufacturer": "Nissan Diesel/UD Trucks"
+  },
+  "JR2": {
+    "vmi": "JR2",
+    "country": "Japan",
+    "manufacturer": "Isuzu Oasis made by Honda"
+  },
+  "JS": {
+    "vmi": "JS",
+    "country": "Japan",
+    "manufacturer": "Suzuki"
+  },
+  "JS1": {
+    "vmi": "JS1",
+    "country": "Japan",
+    "manufacturer": "Suzuki motorcycle & Kawasaki KLX400S/KLX400SR motorcycle made by Suzuki"
+  },
+  "JS2": {
+    "vmi": "JS2",
+    "country": "Japan",
+    "manufacturer": "Suzuki car"
+  },
+  "JS3": {
+    "vmi": "JS3",
+    "country": "Japan",
+    "manufacturer": "Suzuki SUV"
+  },
+  "JSA": {
+    "vmi": "JSA",
+    "country": "Japan",
+    "manufacturer": "Kawasaki KFX400 ATV made by Suzuki"
+  },
+  "JSK": {
+    "vmi": "JSK",
+    "country": "Japan",
+    "manufacturer": "Kawasaki KLX125/KLX125L motorcycle made by Suzuki"
+  },
+  "JSL": {
+    "vmi": "JSL",
+    "country": "Japan",
+    "manufacturer": "Kawasaki KFX400 ATV made by Suzuki"
+  },
+  "JT": {
+    "vmi": "JT",
+    "country": "Japan",
+    "manufacturer": "Toyota"
+  },
+  "JT2": {
+    "vmi": "JT2",
+    "country": "Japan",
+    "manufacturer": "Toyota car"
+  },
+  "JT3": {
+    "vmi": "JT3",
+    "country": "Japan",
+    "manufacturer": "Toyota MPV/SUV"
+  },
+  "JT4": {
+    "vmi": "JT4",
+    "country": "Japan",
+    "manufacturer": "Toyota truck"
+  },
+  "JT5": {
+    "vmi": "JT5",
+    "country": "Japan",
+    "manufacturer": "Toyota incomplete vehicle"
+  },
+  "JT6": {
+    "vmi": "JT6",
+    "country": "Japan",
+    "manufacturer": "Lexus SUV"
+  },
+  "JT8": {
+    "vmi": "JT8",
+    "country": "Japan",
+    "manufacturer": "Lexus car"
+  },
+  "JTD": {
+    "vmi": "JTD",
+    "country": "Japan",
+    "manufacturer": "Toyota car"
+  },
+  "JTE": {
+    "vmi": "JTE",
+    "country": "Japan",
+    "manufacturer": "Toyota MPV/SUV"
+  },
+  "JTF": {
+    "vmi": "JTF",
+    "country": "Japan",
+    "manufacturer": "Toyota van/truck"
+  },
+  "JTG": {
+    "vmi": "JTG",
+    "country": "Japan",
+    "manufacturer": "Toyota MPV/bus"
+  },
+  "JTH": {
+    "vmi": "JTH",
+    "country": "Japan",
+    "manufacturer": "Lexus car"
+  },
+  "JTJ": {
+    "vmi": "JTJ",
+    "country": "Japan",
+    "manufacturer": "Lexus SUV"
+  },
+  "JTK": {
+    "vmi": "JTK",
+    "country": "Japan",
+    "manufacturer": "Toyota car"
+  },
+  "JTL": {
+    "vmi": "JTL",
+    "country": "Japan",
+    "manufacturer": "Toyota SUV"
+  },
+  "JTM": {
+    "vmi": "JTM",
+    "country": "Japan",
+    "manufacturer": "Toyota SUV"
+  },
+  "JTN": {
+    "vmi": "JTN",
+    "country": "Japan",
+    "manufacturer": "Toyota car"
+  },
+  "JW6": {
+    "vmi": "JW6",
+    "country": "Japan",
+    "manufacturer": "Mitsubishi FUSO division of Mitsubishi Motors (through mid 2003)"
+  },
+  "JY": {
+    "vmi": "JY",
+    "country": "Japan",
+    "manufacturer": "Yamaha Motor"
+  },
+  "JY3": {
+    "vmi": "JY3",
+    "country": "Japan",
+    "manufacturer": "Yamaha Motor 3-wheel ATV"
+  },
+  "JY4": {
+    "vmi": "JY4",
+    "country": "Japan",
+    "manufacturer": "Yamaha Motor 4-wheel ATV"
+  },
+  "JYA": {
+    "vmi": "JYA",
+    "country": "Japan",
+    "manufacturer": "Yamaha Motor motorcycles"
+  },
+  "JYE": {
+    "vmi": "JYE",
+    "country": "Japan",
+    "manufacturer": "Yamaha Motor snowmobile"
+  },
+  "MXV": {
+    "vmi": "MXV",
+    "country": "Kazakhstan",
+    "manufacturer": "IMZ-Ural Ural Motorcycles"
+  },
+  "MX3": {
+    "vmi": "MX3",
+    "country": "Kazakhstan",
+    "manufacturer": "Hyundai Trans Auto"
+  },
+  "BF9": {
+    "vmi": "BF9",
+    "country": "Kenya",
+    "manufacturer": "KIBO Motorcycles"
+  },
+  "GA1": {
+    "vmi": "GA1",
+    "country": "Madagascar",
+    "manufacturer": "Renault /SOMACOA - Société Malgache de Construction Automobile"
+  },
+  "PL1": {
+    "vmi": "PL1",
+    "country": "Malaysia",
+    "manufacturer": "Proton"
+  },
+  "PL8": {
+    "vmi": "PL8",
+    "country": "Malaysia",
+    "manufacturer": "Hyundai/Inokom"
+  },
+  "PLP": {
+    "vmi": "PLP",
+    "country": "Malaysia",
+    "manufacturer": "Subaru"
+  },
+  "PLZ": {
+    "vmi": "PLZ",
+    "country": "Malaysia",
+    "manufacturer": "Isuzu Malaysia"
+  },
+  "PMH": {
+    "vmi": "PMH",
+    "country": "Malaysia",
+    "manufacturer": "Honda car"
+  },
+  "PML": {
+    "vmi": "PML",
+    "country": "Malaysia",
+    "manufacturer": "Hicom"
+  },
+  "PM1": {
+    "vmi": "PM1",
+    "country": "Malaysia",
+    "manufacturer": "BMW"
+  },
+  "PM2": {
+    "vmi": "PM2",
+    "country": "Malaysia",
+    "manufacturer": "Perodua"
+  },
+  "PM9": {
+    "vmi": "PM9",
+    "country": "Malaysia",
+    "manufacturer": "Bufori"
+  },
+  "PMK": {
+    "vmi": "PMK",
+    "country": "Malaysia",
+    "manufacturer": "Honda Boon Siew  motorcycle"
+  },
+  "PMN": {
+    "vmi": "PMN",
+    "country": "Malaysia",
+    "manufacturer": "Modenas"
+  },
+  "PMV": {
+    "vmi": "PMV",
+    "country": "Malaysia",
+    "manufacturer": "Hong Leong Yamaha Motor Sdn. Bhd."
+  },
+  "PNA": {
+    "vmi": "PNA",
+    "country": "Malaysia",
+    "manufacturer": "Peugeot"
+  },
+  "PNV": {
+    "vmi": "PNV",
+    "country": "Malaysia",
+    "manufacturer": "Volvo Cars"
+  },
+  "PN1 PN2": {
+    "vmi": "PN1 PN2",
+    "country": "Malaysia",
+    "manufacturer": "Toyota"
+  },
+  "PN8": {
+    "vmi": "PN8",
+    "country": "Malaysia",
+    "manufacturer": "Nissan"
+  },
+  "PP1": {
+    "vmi": "PP1",
+    "country": "Malaysia",
+    "manufacturer": "Mazda"
+  },
+  "PP3": {
+    "vmi": "PP3",
+    "country": "Malaysia",
+    "manufacturer": "Hyundai"
+  },
+  "PPP": {
+    "vmi": "PPP",
+    "country": "Malaysia",
+    "manufacturer": "Suzuki"
+  },
+  "PPV": {
+    "vmi": "PPV",
+    "country": "Malaysia",
+    "manufacturer": "Volkswagen"
+  },
+  "PR8": {
+    "vmi": "PR8",
+    "country": "Malaysia",
+    "manufacturer": "Ford"
+  },
+  "PRA": {
+    "vmi": "PRA",
+    "country": "Malaysia",
+    "manufacturer": "Sinotruk"
+  },
+  "PRH": {
+    "vmi": "PRH",
+    "country": "Malaysia",
+    "manufacturer": "Chery"
+  },
+  "3A4 3A8": {
+    "vmi": "3A4 3A8",
+    "country": "Mexico",
+    "manufacturer": "Chrysler brand MPV 2006-2010 only"
+  },
+  "3AK 3AL": {
+    "vmi": "3AK 3AL",
+    "country": "Mexico",
+    "manufacturer": "Freightliner Trucks"
+  },
+  "3B3": {
+    "vmi": "3B3",
+    "country": "Mexico",
+    "manufacturer": "Dodge car 1981-2011"
+  },
+  "3B4": {
+    "vmi": "3B4",
+    "country": "Mexico",
+    "manufacturer": "Dodge SUV 1986-1993"
+  },
+  "3B6": {
+    "vmi": "3B6",
+    "country": "Mexico",
+    "manufacturer": "Dodge incomplete vehicle 1981-2002"
+  },
+  "3B7": {
+    "vmi": "3B7",
+    "country": "Mexico",
+    "manufacturer": "Dodge truck 1981-2002"
+  },
+  "3BJ": {
+    "vmi": "3BJ",
+    "country": "Mexico",
+    "manufacturer": "Western Star 3700 truck made by DINA S.A."
+  },
+  "3BK": {
+    "vmi": "3BK",
+    "country": "Mexico",
+    "manufacturer": "Kenworth incomplete vehicle"
+  },
+  "3BM": {
+    "vmi": "3BM",
+    "country": "Mexico",
+    "manufacturer": "Motor Coach Industries bus made by DINA S.A."
+  },
+  "3BP": {
+    "vmi": "3BP",
+    "country": "Mexico",
+    "manufacturer": "Peterbilt incomplete vehicle"
+  },
+  "3C3": {
+    "vmi": "3C3",
+    "country": "Mexico",
+    "manufacturer": "Chrysler Group (all brands) car (including Fiat) 2012-"
+  },
+  "3C4": {
+    "vmi": "3C4",
+    "country": "Mexico",
+    "manufacturer": "Chrysler Group (all brands) MPV (including Fiat) 2012-"
+  },
+  "3C6": {
+    "vmi": "3C6",
+    "country": "Mexico",
+    "manufacturer": "Chrysler Group (all brands) truck 2012-"
+  },
+  "3C7": {
+    "vmi": "3C7",
+    "country": "Mexico",
+    "manufacturer": "Chrysler Group (all brands) incomplete vehicle 2012-"
+  },
+  "3C8": {
+    "vmi": "3C8",
+    "country": "Mexico",
+    "manufacturer": "Chrysler brand MPV 2001-2005"
+  },
+  "3CE": {
+    "vmi": "3CE",
+    "country": "Mexico",
+    "manufacturer": "Volvo Buses de Mexico"
+  },
+  "3CZ": {
+    "vmi": "3CZ",
+    "country": "Mexico",
+    "manufacturer": "Honda SUV"
+  },
+  "3D2": {
+    "vmi": "3D2",
+    "country": "Mexico",
+    "manufacturer": "Dodge incomplete vehicle 2007-2009"
+  },
+  "3D3": {
+    "vmi": "3D3",
+    "country": "Mexico",
+    "manufacturer": "Dodge truck 2006-2009"
+  },
+  "3D4": {
+    "vmi": "3D4",
+    "country": "Mexico",
+    "manufacturer": "Dodge SUV 2009-2011"
+  },
+  "3D6": {
+    "vmi": "3D6",
+    "country": "Mexico",
+    "manufacturer": "Dodge incomplete vehicle 2003-2011"
+  },
+  "3D7": {
+    "vmi": "3D7",
+    "country": "Mexico",
+    "manufacturer": "Dodge truck 2002-2011"
+  },
+  "3E4": {
+    "vmi": "3E4",
+    "country": "Mexico",
+    "manufacturer": "Fiat SUV"
+  },
+  "3F": {
+    "vmi": "3F",
+    "country": "Mexico",
+    "manufacturer": "Ford"
+  },
+  "3F6": {
+    "vmi": "3F6",
+    "country": "Mexico",
+    "manufacturer": "Sterling Bullet"
+  },
+  "3FA": {
+    "vmi": "3FA",
+    "country": "Mexico",
+    "manufacturer": "Ford car"
+  },
+  "3FC": {
+    "vmi": "3FC",
+    "country": "Mexico",
+    "manufacturer": "Ford stripped chassis made by Ford & IMMSA"
+  },
+  "3FM": {
+    "vmi": "3FM",
+    "country": "Mexico",
+    "manufacturer": "Ford MPV/SUV"
+  },
+  "3FN 3FR": {
+    "vmi": "3FN 3FR",
+    "country": "Mexico",
+    "manufacturer": "Ford F-650/F-750 made by Blue Diamond Truck Co."
+  },
+  "3FT": {
+    "vmi": "3FT",
+    "country": "Mexico",
+    "manufacturer": "Ford truck"
+  },
+  "3G": {
+    "vmi": "3G",
+    "country": "Mexico",
+    "manufacturer": "General Motors"
+  },
+  "3G0": {
+    "vmi": "3G0",
+    "country": "Mexico",
+    "manufacturer": "Holden Equinox 2018-2020"
+  },
+  "3G1": {
+    "vmi": "3G1",
+    "country": "Mexico",
+    "manufacturer": "Chevrolet car"
+  },
+  "3G2": {
+    "vmi": "3G2",
+    "country": "Mexico",
+    "manufacturer": "Pontiac car"
+  },
+  "3G4": {
+    "vmi": "3G4",
+    "country": "Mexico",
+    "manufacturer": "Buick car"
+  },
+  "3G5": {
+    "vmi": "3G5",
+    "country": "Mexico",
+    "manufacturer": "Buick SUV"
+  },
+  "3G7": {
+    "vmi": "3G7",
+    "country": "Mexico",
+    "manufacturer": "Pontiac SUV"
+  },
+  "3GC": {
+    "vmi": "3GC",
+    "country": "Mexico",
+    "manufacturer": "Chevrolet truck"
+  },
+  "3GK": {
+    "vmi": "3GK",
+    "country": "Mexico",
+    "manufacturer": "GMC SUV"
+  },
+  "3GM": {
+    "vmi": "3GM",
+    "country": "Mexico",
+    "manufacturer": "Holden Suburban"
+  },
+  "3GN": {
+    "vmi": "3GN",
+    "country": "Mexico",
+    "manufacturer": "Chevrolet SUV"
+  },
+  "3GS": {
+    "vmi": "3GS",
+    "country": "Mexico",
+    "manufacturer": "Saturn SUV"
+  },
+  "3GT": {
+    "vmi": "3GT",
+    "country": "Mexico",
+    "manufacturer": "GMC truck"
+  },
+  "3GY": {
+    "vmi": "3GY",
+    "country": "Mexico",
+    "manufacturer": "Cadillac SUV"
+  },
+  "3H1": {
+    "vmi": "3H1",
+    "country": "Mexico",
+    "manufacturer": "Honda motorcycle/UTV"
+  },
+  "3H3": {
+    "vmi": "3H3",
+    "country": "Mexico",
+    "manufacturer": "Hyundai de Mexico, S.A. de C.V. for Hyundai Translead (truck trailers)"
+  },
+  "3HA": {
+    "vmi": "3HA",
+    "country": "Mexico",
+    "manufacturer": "International Trucks incomplete vehicle"
+  },
+  "3HC": {
+    "vmi": "3HC",
+    "country": "Mexico",
+    "manufacturer": "International Trucks truck"
+  },
+  "3HG": {
+    "vmi": "3HG",
+    "country": "Mexico",
+    "manufacturer": "Honda car"
+  },
+  "3HS": {
+    "vmi": "3HS",
+    "country": "Mexico",
+    "manufacturer": "International Trucks & Caterpillar Trucks truck"
+  },
+  "3HT": {
+    "vmi": "3HT",
+    "country": "Mexico",
+    "manufacturer": "International Trucks & Caterpillar Trucks incomplete vehicle"
+  },
+  "3JB": {
+    "vmi": "3JB",
+    "country": "Mexico",
+    "manufacturer": "Can-Am ATV/UTV & Can-Am Ryker"
+  },
+  "3KP": {
+    "vmi": "3KP",
+    "country": "Mexico",
+    "manufacturer": "Kia/Hyundai car"
+  },
+  "3LN": {
+    "vmi": "3LN",
+    "country": "Mexico",
+    "manufacturer": "Lincoln car"
+  },
+  "3MD": {
+    "vmi": "3MD",
+    "country": "Mexico",
+    "manufacturer": "Mazda car"
+  },
+  "3ME": {
+    "vmi": "3ME",
+    "country": "Mexico",
+    "manufacturer": "Mercury car"
+  },
+  "3MV": {
+    "vmi": "3MV",
+    "country": "Mexico",
+    "manufacturer": "Mazda SUV"
+  },
+  "3MW": {
+    "vmi": "3MW",
+    "country": "Mexico",
+    "manufacturer": "BMW"
+  },
+  "3MY": {
+    "vmi": "3MY",
+    "country": "Mexico",
+    "manufacturer": "Toyota car made by Mazda de Mexico Vehicle Operation"
+  },
+  "3MZ": {
+    "vmi": "3MZ",
+    "country": "Mexico",
+    "manufacturer": "Mazda car"
+  },
+  "3N1": {
+    "vmi": "3N1",
+    "country": "Mexico",
+    "manufacturer": "Nissan car"
+  },
+  "3N6": {
+    "vmi": "3N6",
+    "country": "Mexico",
+    "manufacturer": "Nissan truck & Chevrolet City Express"
+  },
+  "3N8": {
+    "vmi": "3N8",
+    "country": "Mexico",
+    "manufacturer": "Nissan MPV"
+  },
+  "3NE": {
+    "vmi": "3NE",
+    "country": "Mexico",
+    "manufacturer": "Polaris Inc. ATV"
+  },
+  "3NS": {
+    "vmi": "3NS",
+    "country": "Mexico",
+    "manufacturer": "Polaris Inc. UTV"
+  },
+  "3P3": {
+    "vmi": "3P3",
+    "country": "Mexico",
+    "manufacturer": "Plymouth car"
+  },
+  "3PC": {
+    "vmi": "3PC",
+    "country": "Mexico",
+    "manufacturer": "Infiniti SUV made by COMPAS"
+  },
+  "3TM": {
+    "vmi": "3TM",
+    "country": "Mexico",
+    "manufacturer": "Toyota truck made by TMMBC"
+  },
+  "3TY": {
+    "vmi": "3TY",
+    "country": "Mexico",
+    "manufacturer": "Toyota truck made by TMMGT"
+  },
+  "3VV": {
+    "vmi": "3VV",
+    "country": "Mexico",
+    "manufacturer": "Volkswagen SUV"
+  },
+  "3VW": {
+    "vmi": "3VW",
+    "country": "Mexico",
+    "manufacturer": "Volkswagen car"
+  },
+  "3WK": {
+    "vmi": "3WK",
+    "country": "Mexico",
+    "manufacturer": "Kenworth truck"
+  },
+  "3WP": {
+    "vmi": "3WP",
+    "country": "Mexico",
+    "manufacturer": "Peterbilt truck"
+  },
+  "DF9": {
+    "vmi": "DF9",
+    "country": "Morocco",
+    "manufacturer": "Laraki"
+  },
+  "MS0": {
+    "vmi": "MS0",
+    "country": "Myanmar",
+    "manufacturer": "SSS MOTORS Myanmar/Kia"
+  },
+  "MS3": {
+    "vmi": "MS3",
+    "country": "Myanmar",
+    "manufacturer": "Suzuki Myanmar Motor Co.,Ltd."
+  },
+  "XL9 003": {
+    "vmi": "XL9 003",
+    "country": "Netherlands",
+    "manufacturer": "Autobusfabriek Bova BV"
+  },
+  "XL9 320": {
+    "vmi": "XL9 320",
+    "country": "Netherlands",
+    "manufacturer": "VDL Bova"
+  },
+  "XL9 363": {
+    "vmi": "XL9 363",
+    "country": "Netherlands",
+    "manufacturer": "Spyker Cars"
+  },
+  "XLB": {
+    "vmi": "XLB",
+    "country": "Netherlands",
+    "manufacturer": "Volvo Car B.V./NedCar B.V. (Volvo Cars)"
+  },
+  "XLE": {
+    "vmi": "XLE",
+    "country": "Netherlands",
+    "manufacturer": "Scania Nederland B.V."
+  },
+  "XLR": {
+    "vmi": "XLR",
+    "country": "Netherlands",
+    "manufacturer": "DAF Trucks & Leyland DAF"
+  },
+  "XLV": {
+    "vmi": "XLV",
+    "country": "Netherlands",
+    "manufacturer": "DAF Bus"
+  },
+  "XMC": {
+    "vmi": "XMC",
+    "country": "Netherlands",
+    "manufacturer": "NedCar B.V. Mitsubishi Motors"
+  },
+  "XMG": {
+    "vmi": "XMG",
+    "country": "Netherlands",
+    "manufacturer": "VDL Bus International"
+  },
+  "XNC": {
+    "vmi": "XNC",
+    "country": "Netherlands",
+    "manufacturer": "NedCar B.V. Mitsubishi Motors (Colt CZC convertible)"
+  },
+  "XNL": {
+    "vmi": "XNL",
+    "country": "Netherlands",
+    "manufacturer": "VDL Bus & Coach"
+  },
+  "XP7": {
+    "vmi": "XP7",
+    "country": "Netherlands",
+    "manufacturer": "Tesla Europe (based in the Netherlands)"
+  },
+  "7A1": {
+    "vmi": "7A1",
+    "country": "New Zealand",
+    "manufacturer": "Mitsubishi"
+  },
+  "7A3": {
+    "vmi": "7A3",
+    "country": "New Zealand",
+    "manufacturer": "Honda"
+  },
+  "7A4": {
+    "vmi": "7A4",
+    "country": "New Zealand",
+    "manufacturer": "Toyota"
+  },
+  "7A5": {
+    "vmi": "7A5",
+    "country": "New Zealand",
+    "manufacturer": "Ford"
+  },
+  "7A7": {
+    "vmi": "7A7",
+    "country": "New Zealand",
+    "manufacturer": "Nissan New Zealand"
+  },
+  "7A8": {
+    "vmi": "7A8",
+    "country": "New Zealand",
+    "manufacturer": "NZ Transport Agency (pre-2009)"
+  },
+  "7AT": {
+    "vmi": "7AT",
+    "country": "New Zealand",
+    "manufacturer": "NZ Transport Agency (post-2009)"
+  },
+  "YYC": {
+    "vmi": "YYC",
+    "country": "Norway",
+    "manufacturer": "Think Nordic"
+  },
+  "NFB": {
+    "vmi": "NFB",
+    "country": "Pakistan",
+    "manufacturer": "Honda Atlas Cars Pakistan Ltd"
+  },
+  "NG3": {
+    "vmi": "NG3",
+    "country": "Pakistan",
+    "manufacturer": "Lucky Motor Corporation"
+  },
+  "PAB": {
+    "vmi": "PAB",
+    "country": "Philippines",
+    "manufacturer": "Isuzu Philippines Corporation"
+  },
+  "PAD": {
+    "vmi": "PAD",
+    "country": "Philippines",
+    "manufacturer": "Honda Cars Philippines"
+  },
+  "PE1": {
+    "vmi": "PE1",
+    "country": "Philippines",
+    "manufacturer": "Ford Motor Company Philippines"
+  },
+  "PE3": {
+    "vmi": "PE3",
+    "country": "Philippines",
+    "manufacturer": "Mazda Philippines made by Ford Motor Company Philippines"
+  },
+  "SUA": {
+    "vmi": "SUA",
+    "country": "Poland",
+    "manufacturer": "Sanocka Fabryka Autobusow Sfa / Autosan"
+  },
+  "SUD": {
+    "vmi": "SUD",
+    "country": "Poland",
+    "manufacturer": "Wielton"
+  },
+  "SUF": {
+    "vmi": "SUF",
+    "country": "Poland",
+    "manufacturer": "Fabryka Samochodów Małolitrażowych"
+  },
+  "SUJ": {
+    "vmi": "SUJ",
+    "country": "Poland",
+    "manufacturer": "Jelcz"
+  },
+  "SUL": {
+    "vmi": "SUL",
+    "country": "Poland",
+    "manufacturer": "FSC Lublin Automotive Factory"
+  },
+  "SUM": {
+    "vmi": "SUM",
+    "country": "Poland",
+    "manufacturer": "Metal-Fach Sp. z o.o."
+  },
+  "SUN": {
+    "vmi": "SUN",
+    "country": "Poland",
+    "manufacturer": "FSD [pl]"
+  },
+  "SUP": {
+    "vmi": "SUP",
+    "country": "Poland",
+    "manufacturer": "Fabryka Samochodow Osobowych"
+  },
+  "SUU": {
+    "vmi": "SUU",
+    "country": "Poland",
+    "manufacturer": "Solaris Bus & Coach"
+  },
+  "TW1": {
+    "vmi": "TW1",
+    "country": "Portugal",
+    "manufacturer": "Toyota Caetano Portugal"
+  },
+  "TW3": {
+    "vmi": "TW3",
+    "country": "Portugal",
+    "manufacturer": "Renault Portuguesa SARL"
+  },
+  "TW7": {
+    "vmi": "TW7",
+    "country": "Portugal",
+    "manufacturer": "Mini Moke made by British Leyland & Austin Rover"
+  },
+  "TW8": {
+    "vmi": "TW8",
+    "country": "Portugal",
+    "manufacturer": "General Motors De Portugal Lda"
+  },
+  "TWG": {
+    "vmi": "TWG",
+    "country": "Portugal",
+    "manufacturer": "Salvador Caetano"
+  },
+  "TX5": {
+    "vmi": "TX5",
+    "country": "Portugal",
+    "manufacturer": "Mini Moke made by Cagiva"
+  },
+  "TYA": {
+    "vmi": "TYA",
+    "country": "Portugal",
+    "manufacturer": "Mitsubishi Fuso Truck and Bus Corp."
+  },
+  "TYB": {
+    "vmi": "TYB",
+    "country": "Portugal",
+    "manufacturer": "Mitsubishi Fuso Truck and Bus Corp."
+  },
+  "UU1": {
+    "vmi": "UU1",
+    "country": "Romania",
+    "manufacturer": "Dacia"
+  },
+  "UU2": {
+    "vmi": "UU2",
+    "country": "Romania",
+    "manufacturer": "Oltcit"
+  },
+  "UU3": {
+    "vmi": "UU3",
+    "country": "Romania",
+    "manufacturer": "ARO"
+  },
+  "UU5": {
+    "vmi": "UU5",
+    "country": "Romania",
+    "manufacturer": "Rocar"
+  },
+  "UU6": {
+    "vmi": "UU6",
+    "country": "Romania",
+    "manufacturer": "Daewoo Romania"
+  },
+  "UU7": {
+    "vmi": "UU7",
+    "country": "Romania",
+    "manufacturer": "Euro Bus Diamond"
+  },
+  "UU9": {
+    "vmi": "UU9",
+    "country": "Romania",
+    "manufacturer": "Astra Bus"
+  },
+  "UZT": {
+    "vmi": "UZT",
+    "country": "Romania",
+    "manufacturer": "UTB (Uzina de Tractoare Brașov)"
+  },
+  "XTA": {
+    "vmi": "XTA",
+    "country": "Russia",
+    "manufacturer": "AvtoVAZ"
+  },
+  "XTB": {
+    "vmi": "XTB",
+    "country": "Russia",
+    "manufacturer": "AZLK"
+  },
+  "XTC": {
+    "vmi": "XTC",
+    "country": "Russia",
+    "manufacturer": "KAMAZ"
+  },
+  "XTF": {
+    "vmi": "XTF",
+    "country": "Russia",
+    "manufacturer": "GolAZ"
+  },
+  "XTH": {
+    "vmi": "XTH",
+    "country": "Russia",
+    "manufacturer": "GAZ"
+  },
+  "XTT": {
+    "vmi": "XTT",
+    "country": "Russia",
+    "manufacturer": "UAZ"
+  },
+  "XTY": {
+    "vmi": "XTY",
+    "country": "Russia",
+    "manufacturer": "LiAZ"
+  },
+  "XU1": {
+    "vmi": "XU1",
+    "country": "Russia",
+    "manufacturer": "UAZ Special Purpose Vehicles"
+  },
+  "XUF": {
+    "vmi": "XUF",
+    "country": "Russia",
+    "manufacturer": "General Motors Russia"
+  },
+  "XUU": {
+    "vmi": "XUU",
+    "country": "Russia",
+    "manufacturer": "Chevrolet made by Avtotor"
+  },
+  "XW7": {
+    "vmi": "XW7",
+    "country": "Russia",
+    "manufacturer": "Toyota Motor Manufacturing Russia"
+  },
+  "XW8": {
+    "vmi": "XW8",
+    "country": "Russia",
+    "manufacturer": "Volkswagen Group Rus"
+  },
+  "XWE": {
+    "vmi": "XWE",
+    "country": "Russia",
+    "manufacturer": "Hyundai Motor Company & Kia made by Avtotor"
+  },
+  "X1E": {
+    "vmi": "X1E",
+    "country": "Russia",
+    "manufacturer": "KAvZ"
+  },
+  "X1M": {
+    "vmi": "X1M",
+    "country": "Russia",
+    "manufacturer": "PAZ"
+  },
+  "X4X": {
+    "vmi": "X4X",
+    "country": "Russia",
+    "manufacturer": "BMW made by Avtotor"
+  },
+  "X7L": {
+    "vmi": "X7L",
+    "country": "Russia",
+    "manufacturer": "Renault Russia"
+  },
+  "X8J": {
+    "vmi": "X8J",
+    "country": "Russia",
+    "manufacturer": "IMZ-Ural Ural Motorcycles"
+  },
+  "X96": {
+    "vmi": "X96",
+    "country": "Russia",
+    "manufacturer": "GAZ"
+  },
+  "X9F": {
+    "vmi": "X9F",
+    "country": "Russia",
+    "manufacturer": "Ford Motor Company ZAO"
+  },
+  "X9L": {
+    "vmi": "X9L",
+    "country": "Russia",
+    "manufacturer": "GM-AvtoVAZ"
+  },
+  "X9P": {
+    "vmi": "X9P",
+    "country": "Russia",
+    "manufacturer": "Volvo Vostok ZAO Volvo Trucks"
+  },
+  "X9X": {
+    "vmi": "X9X",
+    "country": "Russia",
+    "manufacturer": "Great Wall Motors IMS Avtotrade-12 LLC"
+  },
+  "Z6F": {
+    "vmi": "Z6F",
+    "country": "Russia",
+    "manufacturer": "Ford Sollers"
+  },
+  "Z8N": {
+    "vmi": "Z8N",
+    "country": "Russia",
+    "manufacturer": "Nissan Manufacturing Rus"
+  },
+  "Z8T": {
+    "vmi": "Z8T",
+    "country": "Russia",
+    "manufacturer": "PCMA Rus"
+  },
+  "Z94": {
+    "vmi": "Z94",
+    "country": "Russia",
+    "manufacturer": "Hyundai Motor Manufacturing Rus"
+  },
+  "Z9M": {
+    "vmi": "Z9M",
+    "country": "Russia",
+    "manufacturer": "Mercedes-Benz Trucks Vostok"
+  },
+  "SZA": {
+    "vmi": "SZA",
+    "country": "Scania Production Slupsk",
+    "manufacturer": ""
+  },
+  "U5Y": {
+    "vmi": "U5Y",
+    "country": "Slovakia",
+    "manufacturer": "Kia Motors Slovakia car"
+  },
+  "U6Y": {
+    "vmi": "U6Y",
+    "country": "Slovakia",
+    "manufacturer": "Kia Motors Slovakia SUV"
+  },
+  "ZZ1": {
+    "vmi": "ZZ1",
+    "country": "Slovenia",
+    "manufacturer": "Tomos motorcycle"
+  },
+  "AAA": {
+    "vmi": "AAA",
+    "country": "South Africa",
+    "manufacturer": "Audi South Africa made by Volkswagen of South Africa"
+  },
+  "AAK": {
+    "vmi": "AAK",
+    "country": "South Africa",
+    "manufacturer": "FAW Vehicle Manufacturers SA (PTY) Ltd."
+  },
+  "AAM": {
+    "vmi": "AAM",
+    "country": "South Africa",
+    "manufacturer": "MAN Automotive (South Africa) (Pty) Ltd. includes VW Truck & Bus"
+  },
+  "AAV": {
+    "vmi": "AAV",
+    "country": "South Africa",
+    "manufacturer": "Volkswagen of South Africa"
+  },
+  "ABJ": {
+    "vmi": "ABJ",
+    "country": "South Africa",
+    "manufacturer": "Mitsubishi Fuso made by Daimler Trucks & Buses Southern Africa"
+  },
+  "ACV": {
+    "vmi": "ACV",
+    "country": "South Africa",
+    "manufacturer": "Isuzu Motors South Africa 2018-"
+  },
+  "AC5": {
+    "vmi": "AC5",
+    "country": "South Africa",
+    "manufacturer": "Hyundai Automotive South Africa (cars)"
+  },
+  "ADD": {
+    "vmi": "ADD",
+    "country": "South Africa",
+    "manufacturer": "UD Trucks Southern Africa (Pty) Ltd"
+  },
+  "ADM": {
+    "vmi": "ADM",
+    "country": "South Africa",
+    "manufacturer": "General Motors South Africa includes Isuzu through 2018"
+  },
+  "ADN": {
+    "vmi": "ADN",
+    "country": "South Africa",
+    "manufacturer": "Nissan South Africa (Pty) Ltd"
+  },
+  "ADR": {
+    "vmi": "ADR",
+    "country": "South Africa",
+    "manufacturer": "Renault Sandero made by Nissan South Africa (Pty) Ltd"
+  },
+  "ADX": {
+    "vmi": "ADX",
+    "country": "South Africa",
+    "manufacturer": "Tata Automobile Corporation (SA) Ltd."
+  },
+  "AFA": {
+    "vmi": "AFA",
+    "country": "South Africa",
+    "manufacturer": "Ford Motor Company of Southern Africa & Samcor"
+  },
+  "AFB": {
+    "vmi": "AFB",
+    "country": "South Africa",
+    "manufacturer": "Mazda BT-50 made by Ford Motor Company of Southern Africa"
+  },
+  "AHH": {
+    "vmi": "AHH",
+    "country": "South Africa",
+    "manufacturer": "Hino South Africa"
+  },
+  "AHM": {
+    "vmi": "AHM",
+    "country": "South Africa",
+    "manufacturer": "Honda Ballade made by Mercedes-Benz South Africa 1982-2000"
+  },
+  "AHT": {
+    "vmi": "AHT",
+    "country": "South Africa",
+    "manufacturer": "Toyota South Africa Motors"
+  },
+  "KLA": {
+    "vmi": "KLA",
+    "country": "South Korea",
+    "manufacturer": "Daewoo/GM Korea"
+  },
+  "KLT KLU": {
+    "vmi": "KLT KLU",
+    "country": "South Korea",
+    "manufacturer": "Tata Daewoo"
+  },
+  "KL1": {
+    "vmi": "KL1",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo/GM Korea Chevrolet car"
+  },
+  "KL2": {
+    "vmi": "KL2",
+    "country": "South Korea",
+    "manufacturer": "Daewoo/GM Daewoo Pontiac"
+  },
+  "KL3": {
+    "vmi": "KL3",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo/GM Korea Holden"
+  },
+  "KL4": {
+    "vmi": "KL4",
+    "country": "South Korea",
+    "manufacturer": "GM Korea Buick"
+  },
+  "KL5": {
+    "vmi": "KL5",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo Suzuki"
+  },
+  "KL6": {
+    "vmi": "KL6",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo GMC"
+  },
+  "KL7": {
+    "vmi": "KL7",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo/GM Korea Chevrolet MPV/SUV (Post-2000)"
+  },
+  "KL8": {
+    "vmi": "KL8",
+    "country": "South Korea",
+    "manufacturer": "GM Daewoo/GM Korea Chevrolet car (Spark)"
+  },
+  "KMA": {
+    "vmi": "KMA",
+    "country": "South Korea",
+    "manufacturer": "Asia Motors"
+  },
+  "KME": {
+    "vmi": "KME",
+    "country": "South Korea",
+    "manufacturer": "Hyundai commercial truck"
+  },
+  "KMF": {
+    "vmi": "KMF",
+    "country": "South Korea",
+    "manufacturer": "Hyundai van & commercial truck & Bering Truck"
+  },
+  "KMH": {
+    "vmi": "KMH",
+    "country": "South Korea",
+    "manufacturer": "Hyundai car"
+  },
+  "KMJ": {
+    "vmi": "KMJ",
+    "country": "South Korea",
+    "manufacturer": "Hyundai bus & minibus"
+  },
+  "KMT": {
+    "vmi": "KMT",
+    "country": "South Korea",
+    "manufacturer": "Genesis Motor car"
+  },
+  "KMU": {
+    "vmi": "KMU",
+    "country": "South Korea",
+    "manufacturer": "Genesis Motor SUV"
+  },
+  "KMY": {
+    "vmi": "KMY",
+    "country": "South Korea",
+    "manufacturer": "Daelim Motor Company, Ltd/DNA Motors Co., Ltd."
+  },
+  "KM4": {
+    "vmi": "KM4",
+    "country": "South Korea",
+    "manufacturer": "Hyosung Motors/S&T Motors/KR Motors"
+  },
+  "KM8": {
+    "vmi": "KM8",
+    "country": "South Korea",
+    "manufacturer": "Hyundai SUV"
+  },
+  "KNA KNC KNE": {
+    "vmi": "KNA KNC KNE",
+    "country": "South Korea",
+    "manufacturer": "Kia car"
+  },
+  "KND": {
+    "vmi": "KND",
+    "country": "South Korea",
+    "manufacturer": "Kia SUV/MPV & Hyundai Entourage"
+  },
+  "KNJ": {
+    "vmi": "KNJ",
+    "country": "South Korea",
+    "manufacturer": "Ford Festiva & Aspire"
+  },
+  "KNM": {
+    "vmi": "KNM",
+    "country": "South Korea",
+    "manufacturer": "Renault Samsung Motors & Nissan Rogue made by Renault Samsung Motors"
+  },
+  "KPA": {
+    "vmi": "KPA",
+    "country": "South Korea",
+    "manufacturer": "SsangYong pickup"
+  },
+  "KPB": {
+    "vmi": "KPB",
+    "country": "South Korea",
+    "manufacturer": "SsangYong car"
+  },
+  "KPH": {
+    "vmi": "KPH",
+    "country": "South Korea",
+    "manufacturer": "Mitsubishi Precis"
+  },
+  "KPT": {
+    "vmi": "KPT",
+    "country": "South Korea",
+    "manufacturer": "SsangYong SUV/MPV"
+  },
+  "VS1": {
+    "vmi": "VS1",
+    "country": "Spain",
+    "manufacturer": "Pegaso"
+  },
+  "VS5": {
+    "vmi": "VS5",
+    "country": "Spain",
+    "manufacturer": "Renault España"
+  },
+  "VS6": {
+    "vmi": "VS6",
+    "country": "Spain",
+    "manufacturer": "Ford Espana"
+  },
+  "VS7": {
+    "vmi": "VS7",
+    "country": "Spain",
+    "manufacturer": "Citroën"
+  },
+  "VS8": {
+    "vmi": "VS8",
+    "country": "Spain",
+    "manufacturer": "Peugeot"
+  },
+  "VSC": {
+    "vmi": "VSC",
+    "country": "Spain",
+    "manufacturer": "Mercedes-Benz Espana SA (Vitoria)"
+  },
+  "VSE": {
+    "vmi": "VSE",
+    "country": "Spain",
+    "manufacturer": "Santana Motor"
+  },
+  "VSK": {
+    "vmi": "VSK",
+    "country": "Spain",
+    "manufacturer": "Nissan Motor Iberica SA, Nissan passenger car/MPV/van/SUV/pickup & Ford Maverick 1993-1999"
+  },
+  "VSS": {
+    "vmi": "VSS",
+    "country": "Spain",
+    "manufacturer": "SEAT"
+  },
+  "VSX": {
+    "vmi": "VSX",
+    "country": "Spain",
+    "manufacturer": "Opel Automobile Espana,SA"
+  },
+  "VTD": {
+    "vmi": "VTD",
+    "country": "Spain",
+    "manufacturer": "Montesa Honda Honda Montesa motorcycle models"
+  },
+  "VTH": {
+    "vmi": "VTH",
+    "country": "Spain",
+    "manufacturer": "Derbi"
+  },
+  "VTL": {
+    "vmi": "VTL",
+    "country": "Spain",
+    "manufacturer": "Yamaha Motor España SA & Yamaha Sociedad Española de Motocicletas"
+  },
+  "VTM": {
+    "vmi": "VTM",
+    "country": "Spain",
+    "manufacturer": "Montesa Honda Honda motorcycle models"
+  },
+  "VTR": {
+    "vmi": "VTR",
+    "country": "Spain",
+    "manufacturer": "Gas Gas"
+  },
+  "VTT": {
+    "vmi": "VTT",
+    "country": "Spain",
+    "manufacturer": "Suzuki Motor España Motorcycle"
+  },
+  "VV9": {
+    "vmi": "VV9",
+    "country": "Spain",
+    "manufacturer": "Tauro Sport Auto"
+  },
+  "VWA": {
+    "vmi": "VWA",
+    "country": "Spain",
+    "manufacturer": "Nissan Vehiculos Industriales SA, Nissan Commercial Vehicles"
+  },
+  "YS2": {
+    "vmi": "YS2",
+    "country": "Sweden",
+    "manufacturer": "Scania, Södertälje truck"
+  },
+  "YS3": {
+    "vmi": "YS3",
+    "country": "Sweden",
+    "manufacturer": "Saab"
+  },
+  "YS4": {
+    "vmi": "YS4",
+    "country": "Sweden",
+    "manufacturer": "Scania, Katrineholm bus"
+  },
+  "YSC": {
+    "vmi": "YSC",
+    "country": "Sweden",
+    "manufacturer": "Cadillac BLS built by Saab"
+  },
+  "YSM": {
+    "vmi": "YSM",
+    "country": "Sweden",
+    "manufacturer": "Polestar"
+  },
+  "YT9 007": {
+    "vmi": "YT9 007",
+    "country": "Sweden",
+    "manufacturer": "Koenigsegg Automotive AB[31]"
+  },
+  "YTN": {
+    "vmi": "YTN",
+    "country": "Sweden",
+    "manufacturer": "Saab NEVS"
+  },
+  "YU7": {
+    "vmi": "YU7",
+    "country": "Sweden",
+    "manufacturer": "Husaberg Swedish built models"
+  },
+  "YV1": {
+    "vmi": "YV1",
+    "country": "Sweden",
+    "manufacturer": "Volvo Cars car"
+  },
+  "YV2": {
+    "vmi": "YV2",
+    "country": "Sweden",
+    "manufacturer": "Volvo Trucks"
+  },
+  "YV3": {
+    "vmi": "YV3",
+    "country": "Sweden",
+    "manufacturer": "Volvo Buses"
+  },
+  "YV4": {
+    "vmi": "YV4",
+    "country": "Sweden",
+    "manufacturer": "Volvo Cars SUV"
+  },
+  "YV5": {
+    "vmi": "YV5",
+    "country": "Sweden",
+    "manufacturer": "Volvo Trucks incomplete vehicle"
+  },
+  "TAM": {
+    "vmi": "TAM",
+    "country": "Switzerland",
+    "manufacturer": "Mowag"
+  },
+  "TAP": {
+    "vmi": "TAP",
+    "country": "Switzerland",
+    "manufacturer": "Polaris Europe (based in Switzerland)"
+  },
+  "TCC": {
+    "vmi": "TCC",
+    "country": "Switzerland",
+    "manufacturer": "Micro Compact Car (until 5/99)"
+  },
+  "TEB": {
+    "vmi": "TEB",
+    "country": "Switzerland",
+    "manufacturer": "Bucher Municipal including Johnston Sweepers of the UK (owned by Bucher Municipal of Switzerland)"
+  },
+  "LFA": {
+    "vmi": "LFA",
+    "country": "Taiwan",
+    "manufacturer": "Ford Lio Ho Motor Co Ltd old designation"
+  },
+  "LM1 LM4": {
+    "vmi": "LM1 LM4",
+    "country": "Taiwan",
+    "manufacturer": "Tai Ling Motor Co Ltd old designation"
+  },
+  "LPR": {
+    "vmi": "LPR",
+    "country": "Taiwan",
+    "manufacturer": "Yamaha Motor Taiwan Co. Ltd. old designation"
+  },
+  "RF3": {
+    "vmi": "RF3",
+    "country": "Taiwan",
+    "manufacturer": "Aeon Motor"
+  },
+  "RF5": {
+    "vmi": "RF5",
+    "country": "Taiwan",
+    "manufacturer": "Yulon Motor Co Ltd"
+  },
+  "RFB": {
+    "vmi": "RFB",
+    "country": "Taiwan",
+    "manufacturer": "Kymco"
+  },
+  "RFC": {
+    "vmi": "RFC",
+    "country": "Taiwan",
+    "manufacturer": "Taiwan Golden Bee"
+  },
+  "RFD": {
+    "vmi": "RFD",
+    "country": "Taiwan",
+    "manufacturer": "Tai Ling Motor Co Ltd new designation"
+  },
+  "RFG": {
+    "vmi": "RFG",
+    "country": "Taiwan",
+    "manufacturer": "SYM Motors"
+  },
+  "RFV": {
+    "vmi": "RFV",
+    "country": "Taiwan",
+    "manufacturer": "PGO Scooters including Genuine Scooter Company models made by PGO"
+  },
+  "RGS": {
+    "vmi": "RGS",
+    "country": "Taiwan",
+    "manufacturer": "Kawasaki made by Kymco"
+  },
+  "RHA": {
+    "vmi": "RHA",
+    "country": "Taiwan",
+    "manufacturer": "Ford Lio Ho Motor Co Ltd new designation"
+  },
+  "RK7": {
+    "vmi": "RK7",
+    "country": "Taiwan",
+    "manufacturer": "Kawasaki ATV made by Tai Ling Motor Co Ltd (rebadged Suzuki ATV) new designation"
+  },
+  "RKJ": {
+    "vmi": "RKJ",
+    "country": "Taiwan",
+    "manufacturer": "Prince Motors Taiwan"
+  },
+  "RKL": {
+    "vmi": "RKL",
+    "country": "Taiwan",
+    "manufacturer": "Kuozui Motors (Toyota)"
+  },
+  "RKM": {
+    "vmi": "RKM",
+    "country": "Taiwan",
+    "manufacturer": "China Motor Corporation"
+  },
+  "RKR": {
+    "vmi": "RKR",
+    "country": "Taiwan",
+    "manufacturer": "Yamaha Motor Taiwan Co. Ltd. new designation"
+  },
+  "RKT": {
+    "vmi": "RKT",
+    "country": "Taiwan",
+    "manufacturer": "Honda Taiwan"
+  },
+  "ML0": {
+    "vmi": "ML0",
+    "country": "Thailand",
+    "manufacturer": "Ducati Motor (Thailand) Co., Ltd."
+  },
+  "ML3": {
+    "vmi": "ML3",
+    "country": "Thailand",
+    "manufacturer": "Mitsubishi Motors (Thailand)"
+  },
+  "ML5": {
+    "vmi": "ML5",
+    "country": "Thailand",
+    "manufacturer": "Kawasaki Motors Enterprise Co. Ltd. (Thailand)"
+  },
+  "MLC": {
+    "vmi": "MLC",
+    "country": "Thailand",
+    "manufacturer": "Thai Suzuki Motor Co., Ltd."
+  },
+  "MLE": {
+    "vmi": "MLE",
+    "country": "Thailand",
+    "manufacturer": "Thai Yamaha Motor Co., Ltd."
+  },
+  "MLH": {
+    "vmi": "MLH",
+    "country": "Thailand",
+    "manufacturer": "Honda motorcycle"
+  },
+  "MLY": {
+    "vmi": "MLY",
+    "country": "Thailand",
+    "manufacturer": "Harley-Davidson"
+  },
+  "MM0 MM6 MM7": {
+    "vmi": "MM0 MM6 MM7",
+    "country": "Thailand",
+    "manufacturer": "Mazda (Ford-Mazda AAT plant)"
+  },
+  "MM8": {
+    "vmi": "MM8",
+    "country": "Thailand",
+    "manufacturer": "Mazda (Ford-Mazda AAT plant)[18]"
+  },
+  "MMA MMB": {
+    "vmi": "MMA MMB",
+    "country": "Thailand",
+    "manufacturer": "Mitsubishi Motors (Thailand)"
+  },
+  "MMC MMD": {
+    "vmi": "MMC MMD",
+    "country": "Thailand",
+    "manufacturer": "Mitsubishi Motors (Thailand)"
+  },
+  "MMF": {
+    "vmi": "MMF",
+    "country": "Thailand",
+    "manufacturer": "BMW[19]"
+  },
+  "MMH": {
+    "vmi": "MMH",
+    "country": "Thailand",
+    "manufacturer": "Tata[20]"
+  },
+  "MMK": {
+    "vmi": "MMK",
+    "country": "Thailand",
+    "manufacturer": "Toyota (Toyota Auto Works plant)[21]"
+  },
+  "MMM": {
+    "vmi": "MMM",
+    "country": "Thailand",
+    "manufacturer": "Chevrolet[22]"
+  },
+  "MML": {
+    "vmi": "MML",
+    "country": "Thailand",
+    "manufacturer": "MG"
+  },
+  "MMR": {
+    "vmi": "MMR",
+    "country": "Thailand",
+    "manufacturer": "Subaru[23]"
+  },
+  "MMS": {
+    "vmi": "MMS",
+    "country": "Thailand",
+    "manufacturer": "Suzuki[24]"
+  },
+  "MMT": {
+    "vmi": "MMT",
+    "country": "Thailand",
+    "manufacturer": "Mitsubishi Motors (Thailand)[25]"
+  },
+  "MMU": {
+    "vmi": "MMU",
+    "country": "Thailand",
+    "manufacturer": "Holden"
+  },
+  "MNA": {
+    "vmi": "MNA",
+    "country": "Thailand",
+    "manufacturer": "Ford (Ford-Mazda AAT plant) for Australia/New Zealand export"
+  },
+  "MNB": {
+    "vmi": "MNB",
+    "country": "Thailand",
+    "manufacturer": "Ford (Ford-Mazda AAT plant)[26] for other right-hand drive markets"
+  },
+  "MNC": {
+    "vmi": "MNC",
+    "country": "Thailand",
+    "manufacturer": "Ford (Ford-Mazda AAT plant) for left-hand drive markets"
+  },
+  "MNK": {
+    "vmi": "MNK",
+    "country": "Thailand",
+    "manufacturer": "Hino Motors Manufacturing Thailand Co Ltd"
+  },
+  "MNT": {
+    "vmi": "MNT",
+    "country": "Thailand",
+    "manufacturer": "Nissan Motor Thailand"
+  },
+  "MPA": {
+    "vmi": "MPA",
+    "country": "Thailand",
+    "manufacturer": "IMCT Isuzu Motors Company Thailand"
+  },
+  "MPB": {
+    "vmi": "MPB",
+    "country": "Thailand",
+    "manufacturer": "Ford (FTM plant)[27]"
+  },
+  "MP1": {
+    "vmi": "MP1",
+    "country": "Thailand",
+    "manufacturer": "IMCT Isuzu Motors Company Thailand"
+  },
+  "MP2": {
+    "vmi": "MP2",
+    "country": "Thailand",
+    "manufacturer": "Mazda BT-50 pickup built by Isuzu Motors (Thailand) Co., Ltd."
+  },
+  "MP5": {
+    "vmi": "MP5",
+    "country": "Thailand",
+    "manufacturer": "Foton[28]"
+  },
+  "MRH": {
+    "vmi": "MRH",
+    "country": "Thailand",
+    "manufacturer": "Honda car"
+  },
+  "MR0": {
+    "vmi": "MR0",
+    "country": "Thailand",
+    "manufacturer": "Toyota (Ban Pho and Samrong plant)[29]"
+  },
+  "MR1": {
+    "vmi": "MR1",
+    "country": "Thailand",
+    "manufacturer": "Toyota (Samrong plant) (Fortuner)"
+  },
+  "MR2": {
+    "vmi": "MR2",
+    "country": "Thailand",
+    "manufacturer": "Toyota (Gateway plant)[30]"
+  },
+  "CL9": {
+    "vmi": "CL9",
+    "country": "Tunisia",
+    "manufacturer": "Wallyscar"
+  },
+  "NLA": {
+    "vmi": "NLA",
+    "country": "Turkey",
+    "manufacturer": "Honda cars"
+  },
+  "NLC": {
+    "vmi": "NLC",
+    "country": "Turkey",
+    "manufacturer": "Askam Kamyon Imalat Ve Ticaret A.S."
+  },
+  "NLH": {
+    "vmi": "NLH",
+    "country": "Turkey",
+    "manufacturer": "Hyundai Assan Otomotiv car/SUV"
+  },
+  "NLJ": {
+    "vmi": "NLJ",
+    "country": "Turkey",
+    "manufacturer": "Hyundai Assan Otomotiv van"
+  },
+  "NLN": {
+    "vmi": "NLN",
+    "country": "Turkey",
+    "manufacturer": "Karsan Automotive Industry & Trade"
+  },
+  "NLR": {
+    "vmi": "NLR",
+    "country": "Turkey",
+    "manufacturer": "Otokar"
+  },
+  "NLT": {
+    "vmi": "NLT",
+    "country": "Turkey",
+    "manufacturer": "TEMSA"
+  },
+  "NL1": {
+    "vmi": "NL1",
+    "country": "Turkey",
+    "manufacturer": "Togg"
+  },
+  "NMA": {
+    "vmi": "NMA",
+    "country": "Turkey",
+    "manufacturer": "MAN Türkiye A.Ş."
+  },
+  "NMB": {
+    "vmi": "NMB",
+    "country": "Turkey",
+    "manufacturer": "Mercedes-Benz Türk A.S."
+  },
+  "NMC": {
+    "vmi": "NMC",
+    "country": "Turkey",
+    "manufacturer": "BMC Otomotiv Sanayi ve Ticaret A.Ş."
+  },
+  "NMH": {
+    "vmi": "NMH",
+    "country": "Turkey",
+    "manufacturer": "Honda motorcycle"
+  },
+  "NMT": {
+    "vmi": "NMT",
+    "country": "Turkey",
+    "manufacturer": "Toyota Motor Manufacturing Turkey"
+  },
+  "NM0": {
+    "vmi": "NM0",
+    "country": "Turkey",
+    "manufacturer": "Ford Otosan"
+  },
+  "NM1": {
+    "vmi": "NM1",
+    "country": "Turkey",
+    "manufacturer": "Oyak-Renault Oto Fab AS"
+  },
+  "NM4": {
+    "vmi": "NM4",
+    "country": "Turkey",
+    "manufacturer": "Tofas (Turk Otomobil Fabrikasi AS)"
+  },
+  "Y6D": {
+    "vmi": "Y6D",
+    "country": "Ukraine",
+    "manufacturer": "ZAZ"
+  },
+  "Y6J": {
+    "vmi": "Y6J",
+    "country": "Ukraine",
+    "manufacturer": "Bogdan group"
+  },
+  "Y6U": {
+    "vmi": "Y6U",
+    "country": "Ukraine",
+    "manufacturer": "Škoda Auto made by Eurocar"
+  },
+  "Y7B": {
+    "vmi": "Y7B",
+    "country": "Ukraine",
+    "manufacturer": "Bogdan group"
+  },
+  "Y7C": {
+    "vmi": "Y7C",
+    "country": "Ukraine",
+    "manufacturer": "Great Wall Motors KrASZ"
+  },
+  "M6F": {
+    "vmi": "M6F",
+    "country": "UM Lohia Two Wheelers Private Limited",
+    "manufacturer": ""
+  },
+  "SAA": {
+    "vmi": "SAA",
+    "country": "United Kingdom",
+    "manufacturer": "Austin"
+  },
+  "SAB": {
+    "vmi": "SAB",
+    "country": "United Kingdom",
+    "manufacturer": "Optare"
+  },
+  "SAD": {
+    "vmi": "SAD",
+    "country": "United Kingdom",
+    "manufacturer": "Jaguar SUV"
+  },
+  "SAF": {
+    "vmi": "SAF",
+    "country": "United Kingdom",
+    "manufacturer": "ERF"
+  },
+  "SAH": {
+    "vmi": "SAH",
+    "country": "United Kingdom",
+    "manufacturer": "Honda made by Austin Rover Group"
+  },
+  "SAJ": {
+    "vmi": "SAJ",
+    "country": "United Kingdom",
+    "manufacturer": "Jaguar"
+  },
+  "SAL": {
+    "vmi": "SAL",
+    "country": "United Kingdom",
+    "manufacturer": "Land Rover"
+  },
+  "SAM": {
+    "vmi": "SAM",
+    "country": "United Kingdom",
+    "manufacturer": "Morris"
+  },
+  "SAR": {
+    "vmi": "SAR",
+    "country": "United Kingdom",
+    "manufacturer": "Rover & MG Rover Group"
+  },
+  "SAT": {
+    "vmi": "SAT",
+    "country": "United Kingdom",
+    "manufacturer": "Triumph car"
+  },
+  "SAX": {
+    "vmi": "SAX",
+    "country": "United Kingdom",
+    "manufacturer": "Austin Rover Group including Sterling Cars"
+  },
+  "SAY": {
+    "vmi": "SAY",
+    "country": "United Kingdom",
+    "manufacturer": "Norton Motorcycles"
+  },
+  "SAZ": {
+    "vmi": "SAZ",
+    "country": "United Kingdom",
+    "manufacturer": "Freight Rover"
+  },
+  "SBB": {
+    "vmi": "SBB",
+    "country": "United Kingdom",
+    "manufacturer": "Leyland Vehicles"
+  },
+  "SBC": {
+    "vmi": "SBC",
+    "country": "United Kingdom",
+    "manufacturer": "Iveco Ford Truck"
+  },
+  "SBJ": {
+    "vmi": "SBJ",
+    "country": "United Kingdom",
+    "manufacturer": "Leyland Bus"
+  },
+  "SBL": {
+    "vmi": "SBL",
+    "country": "United Kingdom",
+    "manufacturer": "Leyland Motors & Leyland DAF"
+  },
+  "SBM": {
+    "vmi": "SBM",
+    "country": "United Kingdom",
+    "manufacturer": "McLaren Group"
+  },
+  "SBS": {
+    "vmi": "SBS",
+    "country": "United Kingdom",
+    "manufacturer": "Scammell"
+  },
+  "SBV": {
+    "vmi": "SBV",
+    "country": "United Kingdom",
+    "manufacturer": "Kenworth & Peterbilt trucks made by Leyland Trucks"
+  },
+  "SB1": {
+    "vmi": "SB1",
+    "country": "United Kingdom",
+    "manufacturer": "Toyota Manufacturing UK"
+  },
+  "SCA": {
+    "vmi": "SCA",
+    "country": "United Kingdom",
+    "manufacturer": "Rolls-Royce Motor Cars & Rolls-Royce Motors car"
+  },
+  "SCB": {
+    "vmi": "SCB",
+    "country": "United Kingdom",
+    "manufacturer": "Bentley Motors Limited"
+  },
+  "SCC": {
+    "vmi": "SCC",
+    "country": "United Kingdom",
+    "manufacturer": "Lotus Cars Limited"
+  },
+  "SCE": {
+    "vmi": "SCE",
+    "country": "United Kingdom",
+    "manufacturer": "DeLorean"
+  },
+  "SCF": {
+    "vmi": "SCF",
+    "country": "United Kingdom",
+    "manufacturer": "Aston Martin Lagonda Limited"
+  },
+  "SCG": {
+    "vmi": "SCG",
+    "country": "United Kingdom",
+    "manufacturer": "Triumph Engineering original Triumph Motorcycle company"
+  },
+  "SCK": {
+    "vmi": "SCK",
+    "country": "United Kingdom",
+    "manufacturer": "Ifor Williams Trailers"
+  },
+  "SCR": {
+    "vmi": "SCR",
+    "country": "United Kingdom",
+    "manufacturer": "London Electric Vehicle Company & London Taxi Company & London Taxis International"
+  },
+  "SCV": {
+    "vmi": "SCV",
+    "country": "United Kingdom",
+    "manufacturer": "Volvo Truck & Bus"
+  },
+  "SC6": {
+    "vmi": "SC6",
+    "country": "United Kingdom",
+    "manufacturer": "INEOS Automotive"
+  },
+  "SDB": {
+    "vmi": "SDB",
+    "country": "United Kingdom",
+    "manufacturer": "Talbot Motor Company"
+  },
+  "SDF": {
+    "vmi": "SDF",
+    "country": "United Kingdom",
+    "manufacturer": "Dodge Trucks - UK 1981-1984"
+  },
+  "SDG": {
+    "vmi": "SDG",
+    "country": "United Kingdom",
+    "manufacturer": "Renault Trucks Industries 1985-1992"
+  },
+  "SDK": {
+    "vmi": "SDK",
+    "country": "United Kingdom",
+    "manufacturer": "Caterham Cars"
+  },
+  "SDL": {
+    "vmi": "SDL",
+    "country": "United Kingdom",
+    "manufacturer": "TVR"
+  },
+  "SDP": {
+    "vmi": "SDP",
+    "country": "United Kingdom",
+    "manufacturer": "MG Motor NAC MG UK & MG Motor UK"
+  },
+  "SD7": {
+    "vmi": "SD7",
+    "country": "United Kingdom",
+    "manufacturer": "Aston Martin SUVs"
+  },
+  "SED": {
+    "vmi": "SED",
+    "country": "United Kingdom",
+    "manufacturer": "IBC Vehicles (Isuzu Bedford Company)"
+  },
+  "SEG": {
+    "vmi": "SEG",
+    "country": "United Kingdom",
+    "manufacturer": "Dennis Eagle"
+  },
+  "SEY": {
+    "vmi": "SEY",
+    "country": "United Kingdom",
+    "manufacturer": "LDV Group"
+  },
+  "SFA": {
+    "vmi": "SFA",
+    "country": "United Kingdom",
+    "manufacturer": "Ford of Britain"
+  },
+  "SFD": {
+    "vmi": "SFD",
+    "country": "United Kingdom",
+    "manufacturer": "Dennis"
+  },
+  "SFE": {
+    "vmi": "SFE",
+    "country": "United Kingdom",
+    "manufacturer": "Alexander Dennis"
+  },
+  "SFN": {
+    "vmi": "SFN",
+    "country": "United Kingdom",
+    "manufacturer": "Foden"
+  },
+  "SFZ": {
+    "vmi": "SFZ",
+    "country": "United Kingdom",
+    "manufacturer": "Tesla Roadster made by Lotus"
+  },
+  "SGD": {
+    "vmi": "SGD",
+    "country": "United Kingdom",
+    "manufacturer": "Swift Group LTD."
+  },
+  "SHH": {
+    "vmi": "SHH",
+    "country": "United Kingdom",
+    "manufacturer": "Honda UK Manufacturing car"
+  },
+  "SHS": {
+    "vmi": "SHS",
+    "country": "United Kingdom",
+    "manufacturer": "Honda UK Manufacturing SUV"
+  },
+  "SJA": {
+    "vmi": "SJA",
+    "country": "United Kingdom",
+    "manufacturer": "Bentley SUV"
+  },
+  "SJK": {
+    "vmi": "SJK",
+    "country": "United Kingdom",
+    "manufacturer": "Nissan Motor Manufacturing UK Infiniti"
+  },
+  "SJN": {
+    "vmi": "SJN",
+    "country": "United Kingdom",
+    "manufacturer": "Nissan Motor Manufacturing UK Nissan"
+  },
+  "SKA": {
+    "vmi": "SKA",
+    "country": "United Kingdom",
+    "manufacturer": "Vauxhall Motors"
+  },
+  "SKF": {
+    "vmi": "SKF",
+    "country": "United Kingdom",
+    "manufacturer": "Bedford Vehicles"
+  },
+  "SLA": {
+    "vmi": "SLA",
+    "country": "United Kingdom",
+    "manufacturer": "Rolls-Royce Motor Cars SUV"
+  },
+  "SLP": {
+    "vmi": "SLP",
+    "country": "United Kingdom",
+    "manufacturer": "JC Bamford Excavators"
+  },
+  "SLV": {
+    "vmi": "SLV",
+    "country": "United Kingdom",
+    "manufacturer": "Volvo Bus"
+  },
+  "SMT": {
+    "vmi": "SMT",
+    "country": "United Kingdom",
+    "manufacturer": "Triumph Motorcycles Ltd current Triumph Motorcycle company"
+  },
+  "SA9": {
+    "vmi": "SA9",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "OX Global"
+  },
+  "SA9 005": {
+    "vmi": "SA9 005",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "Panther"
+  },
+  "SA9 019": {
+    "vmi": "SA9 019",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "TVR"
+  },
+  "SA9 039": {
+    "vmi": "SA9 039",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "Westfield Sportscars"
+  },
+  "SA9 048": {
+    "vmi": "SA9 048",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "McLaren F1"
+  },
+  "SA9 050": {
+    "vmi": "SA9 050",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "Marcos Engineering"
+  },
+  "SA9 130": {
+    "vmi": "SA9 130",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "MG Sport and Racing"
+  },
+  "SA9 202": {
+    "vmi": "SA9 202",
+    "country": "United Kingdom < 500 units",
+    "manufacturer": "Morgan 3-Wheeler"
+  },
+  "1A4 1A8": {
+    "vmi": "1A4 1A8",
+    "country": "United States",
+    "manufacturer": "Chrysler brand  MPV/SUV 2006-2009 only"
+  },
+  "1AC": {
+    "vmi": "1AC",
+    "country": "United States",
+    "manufacturer": "American Motors Corporation MPV"
+  },
+  "1AF": {
+    "vmi": "1AF",
+    "country": "United States",
+    "manufacturer": "American LaFrance truck"
+  },
+  "1AM": {
+    "vmi": "1AM",
+    "country": "United States",
+    "manufacturer": "American Motors Corporation car & Renault Alliance 1983 only"
+  },
+  "1B3": {
+    "vmi": "1B3",
+    "country": "United States",
+    "manufacturer": "Dodge car 1981-2011"
+  },
+  "1B4": {
+    "vmi": "1B4",
+    "country": "United States",
+    "manufacturer": "Dodge MPV/SUV 1981-2002"
+  },
+  "1B6": {
+    "vmi": "1B6",
+    "country": "United States",
+    "manufacturer": "Dodge incomplete vehicle 1981-2002"
+  },
+  "1B7": {
+    "vmi": "1B7",
+    "country": "United States",
+    "manufacturer": "Dodge truck 1981-2002"
+  },
+  "1B9 133": {
+    "vmi": "1B9 133",
+    "country": "United States",
+    "manufacturer": "Buell Motorcycle Company through mid 1995"
+  },
+  "1B9 975": {
+    "vmi": "1B9 975",
+    "country": "United States",
+    "manufacturer": "Motus Motorcycles"
+  },
+  "1BA": {
+    "vmi": "1BA",
+    "country": "United States",
+    "manufacturer": "Blue Bird Corporation bus"
+  },
+  "1BB": {
+    "vmi": "1BB",
+    "country": "United States",
+    "manufacturer": "Blue Bird Wanderlodge MPV"
+  },
+  "1BD": {
+    "vmi": "1BD",
+    "country": "United States",
+    "manufacturer": "Blue Bird Corporation incomplete vehicle"
+  },
+  "1C3": {
+    "vmi": "1C3",
+    "country": "United States",
+    "manufacturer": "Chrysler Group (all brands) car (including Lancia) 2012-"
+  },
+  "1C4": {
+    "vmi": "1C4",
+    "country": "United States",
+    "manufacturer": "Chrysler Group (all brands) MPV 2012-"
+  },
+  "1C6": {
+    "vmi": "1C6",
+    "country": "United States",
+    "manufacturer": "Chrysler Group (all brands) truck 2012-"
+  },
+  "1C8": {
+    "vmi": "1C8",
+    "country": "United States",
+    "manufacturer": "Chrysler brand MPV 2001-2005"
+  },
+  "1C9 291": {
+    "vmi": "1C9 291",
+    "country": "United States",
+    "manufacturer": "CX Automotive"
+  },
+  "1CM": {
+    "vmi": "1CM",
+    "country": "United States",
+    "manufacturer": "Checker Motors Corporation"
+  },
+  "1CU": {
+    "vmi": "1CU",
+    "country": "United States",
+    "manufacturer": "Cushman Haulster (Cushman division of Outboard Marine Corporation)"
+  },
+  "1CY": {
+    "vmi": "1CY",
+    "country": "United States",
+    "manufacturer": "Crane Carrier Company"
+  },
+  "1D3": {
+    "vmi": "1D3",
+    "country": "United States",
+    "manufacturer": "Dodge truck 2002-2009"
+  },
+  "1D4": {
+    "vmi": "1D4",
+    "country": "United States",
+    "manufacturer": "Dodge MPV/SUV 2003-2011 only"
+  },
+  "1D7": {
+    "vmi": "1D7",
+    "country": "United States",
+    "manufacturer": "Dodge truck 2002-2011"
+  },
+  "1D8": {
+    "vmi": "1D8",
+    "country": "United States",
+    "manufacturer": "Dodge MPV/SUV 2003-2009 only"
+  },
+  "1F": {
+    "vmi": "1F",
+    "country": "United States",
+    "manufacturer": "Ford"
+  },
+  "1F1": {
+    "vmi": "1F1",
+    "country": "United States",
+    "manufacturer": "Ford SUV - limousine (through 2009)"
+  },
+  "1F6": {
+    "vmi": "1F6",
+    "country": "United States",
+    "manufacturer": "Ford stripped chassis made by Detroit Chassis LLC"
+  },
+  "1F9 ST2": {
+    "vmi": "1F9 ST2",
+    "country": "United States",
+    "manufacturer": "Seagrave"
+  },
+  "1FA": {
+    "vmi": "1FA",
+    "country": "United States",
+    "manufacturer": "Ford car"
+  },
+  "1FB": {
+    "vmi": "1FB",
+    "country": "United States",
+    "manufacturer": "Ford \"bus\" (van with more than 3 rows of seats)"
+  },
+  "1FC": {
+    "vmi": "1FC",
+    "country": "United States",
+    "manufacturer": "Ford stripped chassis made by Ford"
+  },
+  "1FD": {
+    "vmi": "1FD",
+    "country": "United States",
+    "manufacturer": "Ford incomplete vehicle"
+  },
+  "1FM": {
+    "vmi": "1FM",
+    "country": "United States",
+    "manufacturer": "Ford MPV/SUV"
+  },
+  "1FT": {
+    "vmi": "1FT",
+    "country": "United States",
+    "manufacturer": "Ford truck"
+  },
+  "1FU 1FV": {
+    "vmi": "1FU 1FV",
+    "country": "United States",
+    "manufacturer": "Freightliner Trucks"
+  },
+  "1G": {
+    "vmi": "1G",
+    "country": "United States",
+    "manufacturer": "General Motors"
+  },
+  "1G0": {
+    "vmi": "1G0",
+    "country": "United States",
+    "manufacturer": "Opel car 2007-2017"
+  },
+  "1G1": {
+    "vmi": "1G1",
+    "country": "United States",
+    "manufacturer": "Chevrolet car"
+  },
+  "1G2": {
+    "vmi": "1G2",
+    "country": "United States",
+    "manufacturer": "Pontiac car"
+  },
+  "1G3": {
+    "vmi": "1G3",
+    "country": "United States",
+    "manufacturer": "Oldsmobile car"
+  },
+  "1G4": {
+    "vmi": "1G4",
+    "country": "United States",
+    "manufacturer": "Buick car[33]"
+  },
+  "1G5": {
+    "vmi": "1G5",
+    "country": "United States",
+    "manufacturer": "GMC MPV/SUV 1981-1986"
+  },
+  "1G6": {
+    "vmi": "1G6",
+    "country": "United States",
+    "manufacturer": "Cadillac car"
+  },
+  "1G7": {
+    "vmi": "1G7",
+    "country": "United States",
+    "manufacturer": "Pontiac car only sold by GM Canada"
+  },
+  "1G8": {
+    "vmi": "1G8",
+    "country": "United States",
+    "manufacturer": "Saturn car 1991-2010"
+  },
+  "1G9 495": {
+    "vmi": "1G9 495",
+    "country": "United States",
+    "manufacturer": "Google & Waymo"
+  },
+  "1GA": {
+    "vmi": "1GA",
+    "country": "United States",
+    "manufacturer": "Chevrolet \"bus\" (van with more than 3 rows of seats)"
+  },
+  "1GB": {
+    "vmi": "1GB",
+    "country": "United States",
+    "manufacturer": "Chevrolet incomplete vehicles[33]"
+  },
+  "1GC": {
+    "vmi": "1GC",
+    "country": "United States",
+    "manufacturer": "Chevrolet truck"
+  },
+  "1GD": {
+    "vmi": "1GD",
+    "country": "United States",
+    "manufacturer": "GMC incomplete vehicles[33]"
+  },
+  "1GE": {
+    "vmi": "1GE",
+    "country": "United States",
+    "manufacturer": "Cadillac incomplete vehicle"
+  },
+  "1GF": {
+    "vmi": "1GF",
+    "country": "United States",
+    "manufacturer": "Flxible bus"
+  },
+  "1GG": {
+    "vmi": "1GG",
+    "country": "United States",
+    "manufacturer": "Isuzu pickup trucks made by GM"
+  },
+  "1GH": {
+    "vmi": "1GH",
+    "country": "United States",
+    "manufacturer": "Holden Acadia 2019-2020"
+  },
+  "1GJ": {
+    "vmi": "1GJ",
+    "country": "United States",
+    "manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1987-"
+  },
+  "1GK": {
+    "vmi": "1GK",
+    "country": "United States",
+    "manufacturer": "GMC MPV/SUV 1987-"
+  },
+  "1GM": {
+    "vmi": "1GM",
+    "country": "United States",
+    "manufacturer": "Pontiac MPV"
+  },
+  "1GN": {
+    "vmi": "1GN",
+    "country": "United States",
+    "manufacturer": "Chevrolet MPV/SUV 1987-"
+  },
+  "1GT": {
+    "vmi": "1GT",
+    "country": "United States",
+    "manufacturer": "GMC truck"
+  },
+  "1GY": {
+    "vmi": "1GY",
+    "country": "United States",
+    "manufacturer": "Cadillac SUV"
+  },
+  "1HA": {
+    "vmi": "1HA",
+    "country": "United States",
+    "manufacturer": "Chevrolet incomplete vehicles made by Navistar International"
+  },
+  "1HD": {
+    "vmi": "1HD",
+    "country": "United States",
+    "manufacturer": "Harley-Davidson"
+  },
+  "1HF": {
+    "vmi": "1HF",
+    "country": "United States",
+    "manufacturer": "Honda motorcycle/ATV/UTV"
+  },
+  "1HG": {
+    "vmi": "1HG",
+    "country": "United States",
+    "manufacturer": "Honda car made by Honda of America Mfg. in Ohio"
+  },
+  "1HS": {
+    "vmi": "1HS",
+    "country": "United States",
+    "manufacturer": "International Trucks & Caterpillar Trucks truck"
+  },
+  "1HT": {
+    "vmi": "1HT",
+    "country": "United States",
+    "manufacturer": "International Trucks & Caterpillar Trucks & Chevrolet Silverado 4500HD, 5500HD, 6500HD incomplete vehicle"
+  },
+  "1HV": {
+    "vmi": "1HV",
+    "country": "United States",
+    "manufacturer": "IC Bus incomplete bus"
+  },
+  "1J4": {
+    "vmi": "1J4",
+    "country": "United States",
+    "manufacturer": "Jeep SUV 1989-2011 (using Chrysler-style VIN structure)"
+  },
+  "1J7": {
+    "vmi": "1J7",
+    "country": "United States",
+    "manufacturer": "Jeep truck 1989-1992 (using Chrysler-style VIN structure)"
+  },
+  "1J8": {
+    "vmi": "1J8",
+    "country": "United States",
+    "manufacturer": "Jeep SUV 2002-2011 (using Chrysler-style VIN structure)"
+  },
+  "1JC": {
+    "vmi": "1JC",
+    "country": "United States",
+    "manufacturer": "Jeep SUV 1981-1988 (using AMC-style VIN structure)"
+  },
+  "1JT": {
+    "vmi": "1JT",
+    "country": "United States",
+    "manufacturer": "Jeep truck 1981-1988 (using AMC-style VIN structure)"
+  },
+  "1JU": {
+    "vmi": "1JU",
+    "country": "United States",
+    "manufacturer": "Marmon Motor Company"
+  },
+  "1L": {
+    "vmi": "1L",
+    "country": "United States",
+    "manufacturer": "Lincoln"
+  },
+  "1L1": {
+    "vmi": "1L1",
+    "country": "United States",
+    "manufacturer": "Lincoln car - limousine"
+  },
+  "1L9 234": {
+    "vmi": "1L9 234",
+    "country": "United States",
+    "manufacturer": "Laforza"
+  },
+  "1LJ": {
+    "vmi": "1LJ",
+    "country": "United States",
+    "manufacturer": "Lincoln incomplete vehicle"
+  },
+  "1LN": {
+    "vmi": "1LN",
+    "country": "United States",
+    "manufacturer": "Lincoln car"
+  },
+  "1M0": {
+    "vmi": "1M0",
+    "country": "United States",
+    "manufacturer": "John Deere Gator"
+  },
+  "1M1 1M2": {
+    "vmi": "1M1 1M2",
+    "country": "United States",
+    "manufacturer": "Mack Trucks"
+  },
+  "1M8": {
+    "vmi": "1M8",
+    "country": "United States",
+    "manufacturer": "Motor Coach Industries"
+  },
+  "1M9 682": {
+    "vmi": "1M9 682",
+    "country": "United States",
+    "manufacturer": "Mosler Automotive"
+  },
+  "1M9 816": {
+    "vmi": "1M9 816",
+    "country": "United States",
+    "manufacturer": "Proterra Through mid-2019"
+  },
+  "1MB": {
+    "vmi": "1MB",
+    "country": "United States",
+    "manufacturer": "Mercedes-Benz Truck Co."
+  },
+  "1ME": {
+    "vmi": "1ME",
+    "country": "United States",
+    "manufacturer": "Mercury car"
+  },
+  "1MR": {
+    "vmi": "1MR",
+    "country": "United States",
+    "manufacturer": "Continental Mark VI & VII 1981-1985 & Continental sedan 1982-1985"
+  },
+  "1N4": {
+    "vmi": "1N4",
+    "country": "United States",
+    "manufacturer": "Nissan car"
+  },
+  "1N6": {
+    "vmi": "1N6",
+    "country": "United States",
+    "manufacturer": "Nissan truck"
+  },
+  "1N9 013": {
+    "vmi": "1N9 013",
+    "country": "United States",
+    "manufacturer": "Neoplan USA"
+  },
+  "1N9 393": {
+    "vmi": "1N9 393",
+    "country": "United States",
+    "manufacturer": "Nikola Corporation"
+  },
+  "1NK": {
+    "vmi": "1NK",
+    "country": "United States",
+    "manufacturer": "Kenworth incomplete vehicle"
+  },
+  "1NP": {
+    "vmi": "1NP",
+    "country": "United States",
+    "manufacturer": "Peterbilt incomplete vehicle"
+  },
+  "1NX": {
+    "vmi": "1NX",
+    "country": "United States",
+    "manufacturer": "Toyota car made by NUMMI"
+  },
+  "1P3": {
+    "vmi": "1P3",
+    "country": "United States",
+    "manufacturer": "Plymouth car"
+  },
+  "1P4": {
+    "vmi": "1P4",
+    "country": "United States",
+    "manufacturer": "Plymouth MPV/SUV"
+  },
+  "1P9 213": {
+    "vmi": "1P9 213",
+    "country": "United States",
+    "manufacturer": "Panoz"
+  },
+  "1S9 098": {
+    "vmi": "1S9 098",
+    "country": "United States",
+    "manufacturer": "Scania AB Scania CN112 bus made in Orange, CT"
+  },
+  "1S9 842": {
+    "vmi": "1S9 842",
+    "country": "United States",
+    "manufacturer": "Saleen S7"
+  },
+  "1S9 944": {
+    "vmi": "1S9 944",
+    "country": "United States",
+    "manufacturer": "SSC North America"
+  },
+  "1T7 1T8": {
+    "vmi": "1T7 1T8",
+    "country": "United States",
+    "manufacturer": "Thomas Built Buses"
+  },
+  "1T9 899": {
+    "vmi": "1T9 899",
+    "country": "United States",
+    "manufacturer": "Tomcar USA"
+  },
+  "1TU": {
+    "vmi": "1TU",
+    "country": "United States",
+    "manufacturer": "Transportation Manufacturing Corporation"
+  },
+  "1UT": {
+    "vmi": "1UT",
+    "country": "United States",
+    "manufacturer": "Jeep DJ made by AM General"
+  },
+  "1V1": {
+    "vmi": "1V1",
+    "country": "United States",
+    "manufacturer": "Volkswagen truck"
+  },
+  "1V2": {
+    "vmi": "1V2",
+    "country": "United States",
+    "manufacturer": "Volkswagen SUV"
+  },
+  "1V9 048": {
+    "vmi": "1V9 048",
+    "country": "United States",
+    "manufacturer": "Vector Aeromotive"
+  },
+  "1VH": {
+    "vmi": "1VH",
+    "country": "United States",
+    "manufacturer": "Orion Bus Industries"
+  },
+  "1VW": {
+    "vmi": "1VW",
+    "country": "United States",
+    "manufacturer": "Volkswagen car"
+  },
+  "1WU": {
+    "vmi": "1WU",
+    "country": "United States",
+    "manufacturer": "White truck"
+  },
+  "1WV 1WW": {
+    "vmi": "1WV 1WW",
+    "country": "United States",
+    "manufacturer": "Winnebago Industries"
+  },
+  "1WX 1WY": {
+    "vmi": "1WX 1WY",
+    "country": "United States",
+    "manufacturer": "White incomplete vehicle"
+  },
+  "1XK": {
+    "vmi": "1XK",
+    "country": "United States",
+    "manufacturer": "Kenworth truck"
+  },
+  "1XM": {
+    "vmi": "1XM",
+    "country": "United States",
+    "manufacturer": "Renault Alliance/GTA/Encore 1984-1987"
+  },
+  "1XP": {
+    "vmi": "1XP",
+    "country": "United States",
+    "manufacturer": "Peterbilt truck"
+  },
+  "1Y1": {
+    "vmi": "1Y1",
+    "country": "United States",
+    "manufacturer": "Chevrolet/Geo car made by NUMMI"
+  },
+  "1YJ": {
+    "vmi": "1YJ",
+    "country": "United States",
+    "manufacturer": "Rokon International, Inc."
+  },
+  "1YV": {
+    "vmi": "1YV",
+    "country": "United States",
+    "manufacturer": "Mazda"
+  },
+  "1Z3 1Z7": {
+    "vmi": "1Z3 1Z7",
+    "country": "United States",
+    "manufacturer": "Mitsubishi Raider"
+  },
+  "1Z9 332": {
+    "vmi": "1Z9 332",
+    "country": "United States",
+    "manufacturer": "Oshkosh Specialty Vehicles LLC"
+  },
+  "1ZV": {
+    "vmi": "1ZV",
+    "country": "United States",
+    "manufacturer": "Ford made by AutoAlliance International"
+  },
+  "1ZW": {
+    "vmi": "1ZW",
+    "country": "United States",
+    "manufacturer": "Mercury made by AutoAlliance International"
+  },
+  "10R": {
+    "vmi": "10R",
+    "country": "United States",
+    "manufacturer": "E-Z-GO"
+  },
+  "10T": {
+    "vmi": "10T",
+    "country": "United States",
+    "manufacturer": "Oshkosh Corporation"
+  },
+  "12A": {
+    "vmi": "12A",
+    "country": "United States",
+    "manufacturer": "Avanti"
+  },
+  "15G": {
+    "vmi": "15G",
+    "country": "United States",
+    "manufacturer": "Gillig bus"
+  },
+  "16X": {
+    "vmi": "16X",
+    "country": "United States",
+    "manufacturer": "Vixen 21 motorhome"
+  },
+  "17N": {
+    "vmi": "17N",
+    "country": "United States",
+    "manufacturer": "John Deere incomplete vehicle (RV chassis)"
+  },
+  "19U": {
+    "vmi": "19U",
+    "country": "United States",
+    "manufacturer": "Acura car made by Honda of America Mfg. in Ohio"
+  },
+  "19V": {
+    "vmi": "19V",
+    "country": "United States",
+    "manufacturer": "Acura car made by Honda Manufacturing of Indiana"
+  },
+  "19X": {
+    "vmi": "19X",
+    "country": "United States",
+    "manufacturer": "Honda car made by Honda Manufacturing of Indiana"
+  },
+  "4A3": {
+    "vmi": "4A3",
+    "country": "United States",
+    "manufacturer": "Mitsubishi Motors car"
+  },
+  "4A4": {
+    "vmi": "4A4",
+    "country": "United States",
+    "manufacturer": "Mitsubishi Motors SUV"
+  },
+  "4B3": {
+    "vmi": "4B3",
+    "country": "United States",
+    "manufacturer": "Dodge car made by Diamond-Star Motors factory"
+  },
+  "4B9 038": {
+    "vmi": "4B9 038",
+    "country": "United States",
+    "manufacturer": "BYD Coach & Bus LLC"
+  },
+  "4C3": {
+    "vmi": "4C3",
+    "country": "United States",
+    "manufacturer": "Chrysler car made by Diamond-Star Motors factory"
+  },
+  "4C9 561": {
+    "vmi": "4C9 561",
+    "country": "United States",
+    "manufacturer": "Czinger"
+  },
+  "4CD": {
+    "vmi": "4CD",
+    "country": "United States",
+    "manufacturer": "Oshkosh Chassis Division incomplete vehicle (RV chassis)"
+  },
+  "4DR": {
+    "vmi": "4DR",
+    "country": "United States",
+    "manufacturer": "IC Bus"
+  },
+  "4E3": {
+    "vmi": "4E3",
+    "country": "United States",
+    "manufacturer": "Eagle car made by Diamond-Star Motors factory"
+  },
+  "4F2": {
+    "vmi": "4F2",
+    "country": "United States",
+    "manufacturer": "Mazda SUV made by Ford"
+  },
+  "4F4": {
+    "vmi": "4F4",
+    "country": "United States",
+    "manufacturer": "Mazda truck made by Ford"
+  },
+  "4G1": {
+    "vmi": "4G1",
+    "country": "United States",
+    "manufacturer": "Chevrolet Cavalier convertible made by Genasys L.C. - a GM/ASC joint venture"
+  },
+  "4G2": {
+    "vmi": "4G2",
+    "country": "United States",
+    "manufacturer": "Pontiac Sunfire convertible made by Genasys L.C. - a GM/ASC joint venture"
+  },
+  "4G3": {
+    "vmi": "4G3",
+    "country": "United States",
+    "manufacturer": "Toyota Cavalier made by GM"
+  },
+  "4G5": {
+    "vmi": "4G5",
+    "country": "United States",
+    "manufacturer": "General Motors EV1"
+  },
+  "4GD": {
+    "vmi": "4GD",
+    "country": "United States",
+    "manufacturer": "Opel Sintra"
+  },
+  "4GL": {
+    "vmi": "4GL",
+    "country": "United States",
+    "manufacturer": "Buick incomplete vehicle"
+  },
+  "4GT": {
+    "vmi": "4GT",
+    "country": "United States",
+    "manufacturer": "Isuzu incomplete vehicle built by GM"
+  },
+  "4JG": {
+    "vmi": "4JG",
+    "country": "United States",
+    "manufacturer": "Mercedes-Benz SUV"
+  },
+  "4KB": {
+    "vmi": "4KB",
+    "country": "United States",
+    "manufacturer": "Chevrolet W-Series incomplete vehicle (gas engine only)"
+  },
+  "4KD": {
+    "vmi": "4KD",
+    "country": "United States",
+    "manufacturer": "GMC W-Series incomplete vehicle (gas engine only)"
+  },
+  "4KL": {
+    "vmi": "4KL",
+    "country": "United States",
+    "manufacturer": "Isuzu commercial truck built by GM"
+  },
+  "4M2": {
+    "vmi": "4M2",
+    "country": "United States",
+    "manufacturer": "Mercury MPV/SUV"
+  },
+  "4ML": {
+    "vmi": "4ML",
+    "country": "United States",
+    "manufacturer": "Oshkosh Trailer Division"
+  },
+  "4MZ": {
+    "vmi": "4MZ",
+    "country": "United States",
+    "manufacturer": "Buell Motorcycle Company"
+  },
+  "4N2": {
+    "vmi": "4N2",
+    "country": "United States",
+    "manufacturer": "Nissan Quest made by Ford"
+  },
+  "4NU": {
+    "vmi": "4NU",
+    "country": "United States",
+    "manufacturer": "Isuzu Ascender made by GM"
+  },
+  "4P1": {
+    "vmi": "4P1",
+    "country": "United States",
+    "manufacturer": "Pierce Manufacturing"
+  },
+  "4P3": {
+    "vmi": "4P3",
+    "country": "United States",
+    "manufacturer": "Mitsubishi Motors SUV made by Mitsubishi Motor Manufacturing of America 2013-2015 for export only"
+  },
+  "4RK": {
+    "vmi": "4RK",
+    "country": "United States",
+    "manufacturer": "Nova Bus & Prevost made by Nova Bus (US) Inc."
+  },
+  "4S1": {
+    "vmi": "4S1",
+    "country": "United States",
+    "manufacturer": "Isuzu truck made by Subaru Isuzu Automotive"
+  },
+  "4S2": {
+    "vmi": "4S2",
+    "country": "United States",
+    "manufacturer": "Isuzu SUV made by Subaru Isuzu Automotive"
+  },
+  "4S3": {
+    "vmi": "4S3",
+    "country": "United States",
+    "manufacturer": "Subaru car"
+  },
+  "4S4": {
+    "vmi": "4S4",
+    "country": "United States",
+    "manufacturer": "Subaru SUV/MPV"
+  },
+  "4S6": {
+    "vmi": "4S6",
+    "country": "United States",
+    "manufacturer": "Honda SUV made by Subaru Isuzu Automotive"
+  },
+  "4S7": {
+    "vmi": "4S7",
+    "country": "United States",
+    "manufacturer": "Spartan Motors incomplete vehicle"
+  },
+  "4S9 197": {
+    "vmi": "4S9 197",
+    "country": "United States",
+    "manufacturer": "Smith Electric Vehicles US Corp."
+  },
+  "4S9 419": {
+    "vmi": "4S9 419",
+    "country": "United States",
+    "manufacturer": "Spartan Motors truck"
+  },
+  "4S9 454": {
+    "vmi": "4S9 454",
+    "country": "United States",
+    "manufacturer": "Scuderia Cameron Glickenhaus car"
+  },
+  "4S9 542": {
+    "vmi": "4S9 542",
+    "country": "United States",
+    "manufacturer": "Scuderia Cameron Glickenhaus SCG Boot (M.P.V.)"
+  },
+  "4S9 544": {
+    "vmi": "4S9 544",
+    "country": "United States",
+    "manufacturer": "Scuderia Cameron Glickenhaus car"
+  },
+  "4S9 559": {
+    "vmi": "4S9 559",
+    "country": "United States",
+    "manufacturer": "Spartan Fire, LLC truck (formerly Spartan ER)"
+  },
+  "4S9 560": {
+    "vmi": "4S9 560",
+    "country": "United States",
+    "manufacturer": "Spartan Fire, LLC incomplete vehicle (formerly Spartan ER)"
+  },
+  "4T1": {
+    "vmi": "4T1",
+    "country": "United States",
+    "manufacturer": "Toyota car made by Toyota Motor Manufacturing Kentucky"
+  },
+  "4T3": {
+    "vmi": "4T3",
+    "country": "United States",
+    "manufacturer": "Toyota MPV/SUV made by Toyota Motor Manufacturing Kentucky"
+  },
+  "4T4": {
+    "vmi": "4T4",
+    "country": "United States",
+    "manufacturer": "Toyota car made by Subaru of Indiana Automotive"
+  },
+  "4T9 208": {
+    "vmi": "4T9 208",
+    "country": "United States",
+    "manufacturer": "Xos, Inc."
+  },
+  "4TA": {
+    "vmi": "4TA",
+    "country": "United States",
+    "manufacturer": "Toyota truck made by NUMMI"
+  },
+  "4UF": {
+    "vmi": "4UF",
+    "country": "United States",
+    "manufacturer": "Arctic Cat"
+  },
+  "4US": {
+    "vmi": "4US",
+    "country": "United States",
+    "manufacturer": "BMW car"
+  },
+  "4UZ": {
+    "vmi": "4UZ",
+    "country": "United States",
+    "manufacturer": "Freightliner Custom Chassis Corporation & gas-powered Mitsubishi Fuso trucks assembled by Freightliner Custom Chassis & Thomas Built Buses FS-65 & Saf-T-Liner C2"
+  },
+  "4V1": {
+    "vmi": "4V1",
+    "country": "United States",
+    "manufacturer": "WhiteGMC truck"
+  },
+  "4V2": {
+    "vmi": "4V2",
+    "country": "United States",
+    "manufacturer": "WhiteGMC incomplete vehicle"
+  },
+  "4V4": {
+    "vmi": "4V4",
+    "country": "United States",
+    "manufacturer": "Volvo Trucks North America truck"
+  },
+  "4V5": {
+    "vmi": "4V5",
+    "country": "United States",
+    "manufacturer": "Volvo Trucks North America incomplete vehicle"
+  },
+  "4VA 4VG": {
+    "vmi": "4VA 4VG",
+    "country": "United States",
+    "manufacturer": "Volvo Trucks North America truck"
+  },
+  "4VE 4VH 4VM": {
+    "vmi": "4VE 4VH 4VM",
+    "country": "United States",
+    "manufacturer": "Volvo Trucks North America incomplete vehicle"
+  },
+  "4VZ": {
+    "vmi": "4VZ",
+    "country": "United States",
+    "manufacturer": "Spartan Motors/The Shyft Group incomplete vehicle - bare chassis only"
+  },
+  "4XA": {
+    "vmi": "4XA",
+    "country": "United States",
+    "manufacturer": "Polaris Inc."
+  },
+  "4Z3": {
+    "vmi": "4Z3",
+    "country": "United States",
+    "manufacturer": "American LaFrance truck"
+  },
+  "43C": {
+    "vmi": "43C",
+    "country": "United States",
+    "manufacturer": "Consulier"
+  },
+  "46G": {
+    "vmi": "46G",
+    "country": "United States",
+    "manufacturer": "Gillig incomplete vehicle"
+  },
+  "49H": {
+    "vmi": "49H",
+    "country": "United States",
+    "manufacturer": "Sterling Trucks incomplete vehicle"
+  },
+  "5AS": {
+    "vmi": "5AS",
+    "country": "United States",
+    "manufacturer": "GEM"
+  },
+  "5B4": {
+    "vmi": "5B4",
+    "country": "United States",
+    "manufacturer": "Workhorse Custom Chassis, LLC incomplete vehicle (RV chassis)"
+  },
+  "5BZ": {
+    "vmi": "5BZ",
+    "country": "United States",
+    "manufacturer": "Nissan \"bus\" (van with more than 3 rows of seats)"
+  },
+  "5CD": {
+    "vmi": "5CD",
+    "country": "United States",
+    "manufacturer": "Indian Motorcycle Company of America Gilroy, CA"
+  },
+  "5CX": {
+    "vmi": "5CX",
+    "country": "United States",
+    "manufacturer": "Shelby Series 1"
+  },
+  "5DF": {
+    "vmi": "5DF",
+    "country": "United States",
+    "manufacturer": "Thomas Dennis Company LLC"
+  },
+  "5EH": {
+    "vmi": "5EH",
+    "country": "United States",
+    "manufacturer": "Excelsior-Henderson Motorcycle"
+  },
+  "5FN": {
+    "vmi": "5FN",
+    "country": "United States",
+    "manufacturer": "Honda MPV/SUV made by Honda Manufacturing of Alabama"
+  },
+  "5FP": {
+    "vmi": "5FP",
+    "country": "United States",
+    "manufacturer": "Honda truck made by Honda Manufacturing of Alabama"
+  },
+  "5FR": {
+    "vmi": "5FR",
+    "country": "United States",
+    "manufacturer": "Acura SUV made by Honda Manufacturing of Alabama"
+  },
+  "5FY": {
+    "vmi": "5FY",
+    "country": "United States",
+    "manufacturer": "New Flyer"
+  },
+  "5G8": {
+    "vmi": "5G8",
+    "country": "United States",
+    "manufacturer": "Holden Volt"
+  },
+  "5GA": {
+    "vmi": "5GA",
+    "country": "United States",
+    "manufacturer": "Buick MPV/SUV"
+  },
+  "5GD": {
+    "vmi": "5GD",
+    "country": "United States",
+    "manufacturer": "Daewoo G2X"
+  },
+  "5GN": {
+    "vmi": "5GN",
+    "country": "United States",
+    "manufacturer": "Hummer H3T"
+  },
+  "5GR": {
+    "vmi": "5GR",
+    "country": "United States",
+    "manufacturer": "Hummer H2"
+  },
+  "5GT": {
+    "vmi": "5GT",
+    "country": "United States",
+    "manufacturer": "Hummer H3"
+  },
+  "5GZ": {
+    "vmi": "5GZ",
+    "country": "United States",
+    "manufacturer": "Saturn MPV/SUV"
+  },
+  "5HD": {
+    "vmi": "5HD",
+    "country": "United States",
+    "manufacturer": "Harley-Davidson for export markets"
+  },
+  "5J6": {
+    "vmi": "5J6",
+    "country": "United States",
+    "manufacturer": "Honda SUV made by Honda of America Mfg. in Ohio"
+  },
+  "5J8": {
+    "vmi": "5J8",
+    "country": "United States",
+    "manufacturer": "Acura SUV made by Honda of America Mfg. in Ohio"
+  },
+  "5KB": {
+    "vmi": "5KB",
+    "country": "United States",
+    "manufacturer": "Honda car made by Honda Manufacturing of Alabama"
+  },
+  "5KJ 5KK": {
+    "vmi": "5KJ 5KK",
+    "country": "United States",
+    "manufacturer": "Western Star Trucks truck"
+  },
+  "5L1": {
+    "vmi": "5L1",
+    "country": "United States",
+    "manufacturer": "Lincoln SUV  (2004-2009)"
+  },
+  "5LD": {
+    "vmi": "5LD",
+    "country": "United States",
+    "manufacturer": "Ford & Lincoln incomplete vehicle - limousine (2010-2014)"
+  },
+  "5LM": {
+    "vmi": "5LM",
+    "country": "United States",
+    "manufacturer": "Lincoln SUV"
+  },
+  "5LT": {
+    "vmi": "5LT",
+    "country": "United States",
+    "manufacturer": "Lincoln truck"
+  },
+  "5MZ": {
+    "vmi": "5MZ",
+    "country": "United States",
+    "manufacturer": "Buell Motorcycle Company for export markets"
+  },
+  "5N1": {
+    "vmi": "5N1",
+    "country": "United States",
+    "manufacturer": "Nissan & Infiniti SUV"
+  },
+  "5N3": {
+    "vmi": "5N3",
+    "country": "United States",
+    "manufacturer": "Infiniti SUV"
+  },
+  "5NM": {
+    "vmi": "5NM",
+    "country": "United States",
+    "manufacturer": "Hyundai SUV"
+  },
+  "5NP": {
+    "vmi": "5NP",
+    "country": "United States",
+    "manufacturer": "Hyundai car"
+  },
+  "5NT": {
+    "vmi": "5NT",
+    "country": "United States",
+    "manufacturer": "Hyundai truck"
+  },
+  "5PV": {
+    "vmi": "5PV",
+    "country": "United States",
+    "manufacturer": "Hino incomplete vehicle"
+  },
+  "5S3": {
+    "vmi": "5S3",
+    "country": "United States",
+    "manufacturer": "Saab 9-7X"
+  },
+  "5SA": {
+    "vmi": "5SA",
+    "country": "United States",
+    "manufacturer": "Suzuki ATV"
+  },
+  "5SX": {
+    "vmi": "5SX",
+    "country": "United States",
+    "manufacturer": "American LaFrance incomplete vehicle (Condor)"
+  },
+  "5TB": {
+    "vmi": "5TB",
+    "country": "United States",
+    "manufacturer": "Toyota truck made by TMMI"
+  },
+  "5TD": {
+    "vmi": "5TD",
+    "country": "United States",
+    "manufacturer": "Toyota MPV/SUV made by TMMI"
+  },
+  "5TE": {
+    "vmi": "5TE",
+    "country": "United States",
+    "manufacturer": "Toyota truck made by NUMMI"
+  },
+  "5TF": {
+    "vmi": "5TF",
+    "country": "United States",
+    "manufacturer": "Toyota truck made by TMMTX"
+  },
+  "5UM": {
+    "vmi": "5UM",
+    "country": "United States",
+    "manufacturer": "BMW M car"
+  },
+  "5UX": {
+    "vmi": "5UX",
+    "country": "United States",
+    "manufacturer": "BMW SUV"
+  },
+  "5VC": {
+    "vmi": "5VC",
+    "country": "United States",
+    "manufacturer": "Autocar incomplete vehicle"
+  },
+  "5VP": {
+    "vmi": "5VP",
+    "country": "United States",
+    "manufacturer": "Victory Motorcycles"
+  },
+  "5WE": {
+    "vmi": "5WE",
+    "country": "United States",
+    "manufacturer": "IC Bus incomplete vehicle"
+  },
+  "5XX": {
+    "vmi": "5XX",
+    "country": "United States",
+    "manufacturer": "Kia car"
+  },
+  "5XY": {
+    "vmi": "5XY",
+    "country": "United States",
+    "manufacturer": "Kia/Hyundai SUV"
+  },
+  "5Y2": {
+    "vmi": "5Y2",
+    "country": "United States",
+    "manufacturer": "Pontiac Vibe made by NUMMI"
+  },
+  "5Y4": {
+    "vmi": "5Y4",
+    "country": "United States",
+    "manufacturer": "Yamaha Motor Company ATV, UTV"
+  },
+  "5YA": {
+    "vmi": "5YA",
+    "country": "United States",
+    "manufacturer": "Indian Motorcycle Company Kings Mountain, NC"
+  },
+  "5YF": {
+    "vmi": "5YF",
+    "country": "United States",
+    "manufacturer": "Toyota car made by TMMMS"
+  },
+  "5YJ": {
+    "vmi": "5YJ",
+    "country": "United States",
+    "manufacturer": "Tesla"
+  },
+  "5YM": {
+    "vmi": "5YM",
+    "country": "United States",
+    "manufacturer": "BMW M SUV"
+  },
+  "5Z6": {
+    "vmi": "5Z6",
+    "country": "United States",
+    "manufacturer": "Suzuki truck made by Nissan"
+  },
+  "50E": {
+    "vmi": "50E",
+    "country": "United States",
+    "manufacturer": "Lucid Motors"
+  },
+  "50G": {
+    "vmi": "50G",
+    "country": "United States",
+    "manufacturer": "Karma Automotive"
+  },
+  "51R": {
+    "vmi": "51R",
+    "country": "United States",
+    "manufacturer": "Brammo Motorcycles"
+  },
+  "52C": {
+    "vmi": "52C",
+    "country": "United States",
+    "manufacturer": "GEM subsidiary of Polaris Inc."
+  },
+  "53G": {
+    "vmi": "53G",
+    "country": "United States",
+    "manufacturer": "Coda Automotive"
+  },
+  "53T": {
+    "vmi": "53T",
+    "country": "United States",
+    "manufacturer": "Think North America in Elkhart, IN"
+  },
+  "54C": {
+    "vmi": "54C",
+    "country": "United States",
+    "manufacturer": "Winnebago Industries trailer"
+  },
+  "54D": {
+    "vmi": "54D",
+    "country": "United States",
+    "manufacturer": "Isuzu & Chevrolet commercial trucks built by Spartan Motors/The Shyft Group"
+  },
+  "55S": {
+    "vmi": "55S",
+    "country": "United States",
+    "manufacturer": "Mercedes-Benz car"
+  },
+  "56K": {
+    "vmi": "56K",
+    "country": "United States",
+    "manufacturer": "Indian Motorcycle International, LLC Polaris subsidiary"
+  },
+  "57W": {
+    "vmi": "57W",
+    "country": "United States",
+    "manufacturer": "Mobility Ventures"
+  },
+  "57X": {
+    "vmi": "57X",
+    "country": "United States",
+    "manufacturer": "Polaris Slingshot"
+  },
+  "58A": {
+    "vmi": "58A",
+    "country": "United States",
+    "manufacturer": "Lexus car made by TMMK"
+  },
+  "7FA": {
+    "vmi": "7FA",
+    "country": "United States",
+    "manufacturer": "Honda SUV made by Honda Manufacturing of Indiana"
+  },
+  "7FC": {
+    "vmi": "7FC",
+    "country": "United States",
+    "manufacturer": "Rivian truck"
+  },
+  "7GZ": {
+    "vmi": "7GZ",
+    "country": "United States",
+    "manufacturer": "GMC incomplete vehicles made by Navistar International"
+  },
+  "7H4": {
+    "vmi": "7H4",
+    "country": "United States",
+    "manufacturer": "Hino truck"
+  },
+  "7JR": {
+    "vmi": "7JR",
+    "country": "United States",
+    "manufacturer": "Volvo Cars car"
+  },
+  "7JZ": {
+    "vmi": "7JZ",
+    "country": "United States",
+    "manufacturer": "Proterra From mid-2019 on"
+  },
+  "7KG": {
+    "vmi": "7KG",
+    "country": "United States",
+    "manufacturer": "Vanderhall Motor Works"
+  },
+  "7MM": {
+    "vmi": "7MM",
+    "country": "United States",
+    "manufacturer": "Mazda SUV made by MTMUS (Mazda-Toyota Joint Venture)"
+  },
+  "7MU": {
+    "vmi": "7MU",
+    "country": "United States",
+    "manufacturer": "Toyota SUV made by MTMUS (Mazda-Toyota Joint Venture)"
+  },
+  "7NA": {
+    "vmi": "7NA",
+    "country": "United States",
+    "manufacturer": "Navistar Defense"
+  },
+  "7NY": {
+    "vmi": "7NY",
+    "country": "United States",
+    "manufacturer": "Lordstown Motors"
+  },
+  "7PD": {
+    "vmi": "7PD",
+    "country": "United States",
+    "manufacturer": "Rivian SUV"
+  },
+  "7RZ": {
+    "vmi": "7RZ",
+    "country": "United States",
+    "manufacturer": "Electric Last Mile Solutions"
+  },
+  "7SA": {
+    "vmi": "7SA",
+    "country": "United States",
+    "manufacturer": "Tesla SUV 2022+"
+  },
+  "7SU": {
+    "vmi": "7SU",
+    "country": "United States",
+    "manufacturer": "Blue Arc electric trucks made by The Shyft Group"
+  },
+  "7SV": {
+    "vmi": "7SV",
+    "country": "United States",
+    "manufacturer": "Toyota SUV made by TMMTX"
+  },
+  "7SX": {
+    "vmi": "7SX",
+    "country": "United States",
+    "manufacturer": "Global Electric Motorcars"
+  },
+  "7Z0": {
+    "vmi": "7Z0",
+    "country": "United States",
+    "manufacturer": "Zoox"
+  },
+  "9UJ": {
+    "vmi": "9UJ",
+    "country": "Uruguay",
+    "manufacturer": "Chery assembled by Chery Socma S.A."
+  },
+  "9UK": {
+    "vmi": "9UK",
+    "country": "Uruguay",
+    "manufacturer": "Lifan"
+  },
+  "9UW": {
+    "vmi": "9UW",
+    "country": "Uruguay",
+    "manufacturer": "Kia made by Nordex S.A."
+  },
+  "9V7": {
+    "vmi": "9V7",
+    "country": "Uruguay",
+    "manufacturer": "Citroen made by Nordex S.A."
+  },
+  "9V8": {
+    "vmi": "9V8",
+    "country": "Uruguay",
+    "manufacturer": "Peugeot made by Nordex S.A."
+  },
+  "XWB": {
+    "vmi": "XWB",
+    "country": "Uzbekistán",
+    "manufacturer": "UzDaewoo GM Uzbekistan Ravon"
+  },
+  "8XD": {
+    "vmi": "8XD",
+    "country": "Venezuela",
+    "manufacturer": "Ford Motor Venezuela"
+  },
+  "8XJ": {
+    "vmi": "8XJ",
+    "country": "Venezuela",
+    "manufacturer": "Mack de Venezuela C.A."
+  },
+  "8XV": {
+    "vmi": "8XV",
+    "country": "Venezuela",
+    "manufacturer": "Iveco Venezuela C.A."
+  },
+  "8Z1": {
+    "vmi": "8Z1",
+    "country": "Venezuela",
+    "manufacturer": "General Motors Venezolana C.A."
+  },
+  "RL0": {
+    "vmi": "RL0",
+    "country": "Vietnam",
+    "manufacturer": "Ford Vietnam"
+  },
+  "RL4": {
+    "vmi": "RL4",
+    "country": "Vietnam",
+    "manufacturer": "Toyota Motor Vietnam"
+  },
+  "RLA": {
+    "vmi": "RLA",
+    "country": "Vietnam",
+    "manufacturer": "Vina Star Motors Corp. - Mitsubishi"
+  },
+  "RLC": {
+    "vmi": "RLC",
+    "country": "Vietnam",
+    "manufacturer": "Yamaha Motor Vietnam Co. Ltd."
+  },
+  "RLE": {
+    "vmi": "RLE",
+    "country": "Vietnam",
+    "manufacturer": "Isuzu Vietnam Co."
+  },
+  "RLH": {
+    "vmi": "RLH",
+    "country": "Vietnam",
+    "manufacturer": "Honda Vietnam Co. Ltd."
+  },
+  "RLL": {
+    "vmi": "RLL",
+    "country": "Vietnam",
+    "manufacturer": "VinFast SUV"
+  },
+  "RLM": {
+    "vmi": "RLM",
+    "country": "Vietnam",
+    "manufacturer": "Mercedes-Benz Vietnam"
+  },
+  "RLV": {
+    "vmi": "RLV",
+    "country": "Vietnam",
+    "manufacturer": "Vietnam Precision Industrial CO., Ltd. Can-Am DS 70 & DS 90"
+  },
+  "RP8": {
+    "vmi": "RP8",
+    "country": "Vietnam",
+    "manufacturer": "Piaggio Vietnam Co. Ltd."
+  },
+  "VX1": {
+    "vmi": "VX1",
+    "country": "Yugoslavia/Serbia",
+    "manufacturer": "Zastava Automobiles"
+  }
+}

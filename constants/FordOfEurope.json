@@ -1,0 +1,23 @@
+{
+  "bodyType": [
+    { "3": "van high roof" },
+    { "5": "combi high roof" },
+    { "A": "3-door" },
+    { "B": "5-door" },
+    { "C": "2-door coupe and 3-door hatchback (Ford Fiesta ST Mk. 7+?)" },
+    { "D": "5-door hatchback (Focus RS Mk. 3+?)" },
+    { "E": "3-door hatchback" },
+    { "F": "4-door Saloon" },
+    { "G": "5-door multi purpose vehicle" },
+    { "J": "5-door SAV (Sports Activity Vehicle)" },
+    { "K": "5-door LMV (Luxury Multipurpose Vehicle)" },
+    { "L": "2-door cabriolet" },
+    { "N": "5-door estate/wagon/clipper" },
+    { "P": "5-Door Hatchback" },
+    { "S": "5-door Estate" },
+    { "T": "2-door saloon" },
+    { "U": "5-door van" },
+    { "V": "2-door van" },
+    { "W": "3-door van" }
+  ]
+}
