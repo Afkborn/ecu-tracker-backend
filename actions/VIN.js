@@ -1,4 +1,3 @@
-
 const wmiCodes = require("../constants/WMI.json");
 const supportManufacturers = ["Ford of Europe"];
 const fordOfEuropeCodes = require("../constants/FordOfEurope.json");
@@ -6,20 +5,32 @@ const verifyVIN = (vin) => {
   if (vin.length !== 17) {
     return false;
   }
+  const wmi = vin.substring(0, 3); // 1-3
+  if (!wmiCodes[wmi]) {
+    return false;
+  }
+  
   return true;
 };
 
 const decodeFordOfEurope = (vin) => {
-  bodyCode = vin.substring(3,4); // 4 
+  bodyCode = vin.substring(3, 4); // 4
   console.log("bodyCode: ", bodyCode);
 };
 
 const splitVIN = (vin) => {
-  const isValid = verifyVIN(vin);
-
+  let isValid = verifyVIN(vin);
+  if (!isValid) {
+    return {
+      vin,
+      isValid,
+    };
+  }
   const wmi = vin.substring(0, 3); // 1-3
+
   const country = wmiCodes[wmi]["country"];
   const manufacturer = wmiCodes[wmi]["manufacturer"];
+
   let generalInformation = [];
   if (supportManufacturers.includes(manufacturer)) {
     switch (manufacturer) {
